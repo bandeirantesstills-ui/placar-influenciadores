@@ -1,0 +1,4722 @@
+{
+ "versao": 1,
+ "mes": "2026-10",
+ "ativa": "Powerade",
+ "ativaAConfirmar": false,
+ "dataVolume": "2026-10-21T20:38:10.000Z",
+ "dataMissao": "2026-10-21T20:38:10.000Z",
+ "geradoEm": "2026-10-21T21:47:09.000Z",
+ "avisos": [],
+ "gcs": {
+  "G1": {
+   "eng": 33.39006,
+   "con": 31.034483,
+   "ati": 35.390937,
+   "still": 69.532523,
+   "pesoEng": 18767.531,
+   "pesoStill": 107767.39,
+   "conecta": {
+    "tipo": "missao",
+    "total": 9,
+    "nao": 0,
+    "online": 2,
+    "base": 29
+   },
+   "equipe": [
+    {
+     "nome": "Herica Souza Alves",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Maria Julia de Menezes Jesus",
+     "cargo": "Assistente"
+    },
+    {
+     "nome": "Leandra Maria Martins dos Santos",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "G2": {
+   "eng": 56.051865,
+   "con": 21.428571,
+   "ati": 66.609161,
+   "still": 71.800476,
+   "pesoEng": 32840.526,
+   "pesoStill": 37391.173,
+   "conecta": {
+    "tipo": "missao",
+    "total": 6,
+    "nao": 1,
+    "online": 3,
+    "base": 28
+   },
+   "equipe": [
+    {
+     "nome": "Joaquim Batista Neto",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Thiago Henrique Oliveira Lima",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "G3": {
+   "eng": 60.186958,
+   "con": 19.230769,
+   "ati": 40.633978,
+   "still": 62.133611,
+   "pesoEng": 1904.7345,
+   "pesoStill": 17128.867,
+   "conecta": {
+    "tipo": "missao",
+    "total": 5,
+    "nao": 1,
+    "online": 0,
+    "base": 26
+   },
+   "equipe": [
+    {
+     "nome": "Alex Luiz Costa",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Quelia Dias Barroso",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Greyce Goncalves da Silva Ferreira",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "AP": {
+   "eng": 47.633328,
+   "con": 10.810811,
+   "ati": 55.869731,
+   "still": 72.712507,
+   "pesoEng": 3729.3713,
+   "pesoStill": 22773.983,
+   "conecta": {
+    "tipo": "missao",
+    "total": 4,
+    "nao": 0,
+    "online": 0,
+    "base": 37
+   },
+   "equipe": [
+    {
+     "nome": "Pabline Luiza da Silva",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Maria Eduarda Silva de Andrade",
+     "cargo": "Assistente"
+    },
+    {
+     "nome": "Giulia Ferreira dos Santos",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "AN": {
+   "eng": 41.896958,
+   "con": 25.925926,
+   "ati": 53.719468,
+   "still": 69.752121,
+   "pesoEng": 27328.092,
+   "pesoStill": 48142.446,
+   "conecta": {
+    "tipo": "missao",
+    "total": 7,
+    "nao": 0,
+    "online": 0,
+    "base": 27
+   },
+   "equipe": [
+    {
+     "nome": "Priscila Pimenta Cardoso Gitirana",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Hayssa Gabrielly Ribeiro Arruda",
+     "cargo": "Assistente"
+    },
+    {
+     "nome": "Agnnys Esther Santos",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "AT": {
+   "eng": 5.4332184,
+   "con": 34.943207,
+   "ati": 47.853828,
+   "still": 84.489333,
+   "pesoEng": 12565.626,
+   "pesoStill": 43721.878,
+   "conecta": {
+    "tipo": "ades"
+   },
+   "equipe": [
+    {
+     "nome": "Heloisa Rocha de Moraes",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Ana Heloisa Oliveira da Silva",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "SL": {
+   "eng": 36.770196,
+   "con": 9.5238095,
+   "ati": 65.341189,
+   "still": 65.006432,
+   "pesoEng": 7296.338,
+   "pesoStill": 10563.171,
+   "conecta": {
+    "tipo": "missao",
+    "total": 2,
+    "nao": 0,
+    "online": 0,
+    "base": 21
+   },
+   "equipe": [
+    {
+     "nome": "Mariana Morato Quermes",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Vivian Vitoria Goncalves Silva",
+     "cargo": "Assistente"
+    },
+    {
+     "nome": "Lorrana Brunna Moreira Gomes",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "RV": {
+   "eng": 44.721516,
+   "con": 24.0,
+   "ati": 64.259162,
+   "still": 64.106038,
+   "pesoEng": 15561.388,
+   "pesoStill": 34189.062,
+   "conecta": {
+    "tipo": "missao",
+    "total": 6,
+    "nao": 0,
+    "online": 2,
+    "base": 25
+   },
+   "equipe": [
+    {
+     "nome": "Jesica Castro Mota",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Samara Cristina Silva Ribeiro",
+     "cargo": "Assistente"
+    },
+    {
+     "nome": "Mariana Ester Barbosa Nunes",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "IT": {
+   "eng": 52.723937,
+   "con": 28.571429,
+   "ati": 60.90925,
+   "still": 66.653737,
+   "pesoEng": 2388.7811,
+   "pesoStill": 33264.723,
+   "conecta": {
+    "tipo": "missao",
+    "total": 4,
+    "nao": 0,
+    "online": 0,
+    "base": 14
+   },
+   "equipe": [
+    {
+     "nome": "Samara Alves Chaves Lopes",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Joao Felipe Santos do Nascimento",
+     "cargo": "Assistente"
+    },
+    {
+     "nome": "Stephanie Rodrigues Araujo",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "MO": {
+   "eng": 44.549173,
+   "con": 30.0,
+   "ati": 93.222678,
+   "still": 65.50611,
+   "pesoEng": 14240.043,
+   "pesoStill": 7798.1045,
+   "conecta": {
+    "tipo": "missao",
+    "total": 6,
+    "nao": 0,
+    "online": 1,
+    "base": 20
+   },
+   "equipe": [
+    {
+     "nome": "Ylana Ferreira Santana",
+     "cargo": "Assistente"
+    },
+    {
+     "nome": "Luana Gabriely Amorim de Castilho Cardoso",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "GU": {
+   "eng": 39.442984,
+   "con": 9.5238095,
+   "ati": 57.987351,
+   "still": 57.733479,
+   "pesoEng": 17144.055,
+   "pesoStill": 51573.521,
+   "conecta": {
+    "tipo": "missao",
+    "total": 2,
+    "nao": 0,
+    "online": 1,
+    "base": 21
+   },
+   "equipe": [
+    {
+     "nome": "Maria Eduarda Santos Rodrigues",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Eduarda Leite Mattos",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "PO": {
+   "eng": 37.805767,
+   "con": 29.411765,
+   "ati": 68.680747,
+   "still": 58.608254,
+   "pesoEng": 4819.2217,
+   "pesoStill": 30430.052,
+   "conecta": {
+    "tipo": "missao",
+    "total": 5,
+    "nao": 0,
+    "online": 1,
+    "base": 17
+   },
+   "equipe": [
+    {
+     "nome": "Allyne Rosa do Prado",
+     "cargo": "Assistente"
+    },
+    {
+     "nome": "Joao Pedro Noleto Soares Barros",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "UR": {
+   "eng": 53.199094,
+   "con": 11.111111,
+   "ati": 31.143377,
+   "still": 60.935813,
+   "pesoEng": 12074.801,
+   "pesoStill": 60736.575,
+   "conecta": {
+    "tipo": "missao",
+    "total": 2,
+    "nao": 0,
+    "online": 0,
+    "base": 18
+   },
+   "equipe": [
+    {
+     "nome": "Rafaela Carvalho Nascimento",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Paula Bessa Santos Miranda Ferreira",
+     "cargo": "Assistente"
+    },
+    {
+     "nome": "Eduarda Ferreira Militao",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "RI": {
+   "eng": 41.210504,
+   "con": 47.368421,
+   "ati": 66.322548,
+   "still": 68.191465,
+   "pesoEng": 13966.142,
+   "pesoStill": 10955.728,
+   "conecta": {
+    "tipo": "missao",
+    "total": 9,
+    "nao": 0,
+    "online": 3,
+    "base": 19
+   },
+   "equipe": [
+    {
+     "nome": "Kamilla da Silva Chagas Souza",
+     "cargo": "Assistente"
+    },
+    {
+     "nome": "Vanessa Goncalves Castro dos Santos",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "PA": {
+   "eng": 56.684305,
+   "con": 24.0,
+   "ati": 56.657336,
+   "still": 62.64948,
+   "pesoEng": 21859.96,
+   "pesoStill": 13459.068,
+   "conecta": {
+    "tipo": "missao",
+    "total": 6,
+    "nao": 2,
+    "online": 2,
+    "base": 25
+   },
+   "equipe": [
+    {
+     "nome": "Thalles Pereira Cardoso",
+     "cargo": "Analista"
+    },
+    {
+     "nome": "Alisson Goncalves Santos",
+     "cargo": "Assistente"
+    },
+    {
+     "nome": "Flavio Ferreira Capone",
+     "cargo": "Assistente"
+    }
+   ]
+  },
+  "DI": {
+   "eng": 49.022554,
+   "con": 66.666667,
+   "ati": 58.826469,
+   "still": 58.34332,
+   "pesoEng": 6042.6264,
+   "pesoStill": 21688.925,
+   "conecta": {
+    "tipo": "missao",
+    "total": 6,
+    "nao": 1,
+    "online": 1,
+    "base": 9
+   },
+   "equipe": [
+    {
+     "nome": "Raika Sousa Signorini",
+     "cargo": "Assistente"
+    }
+   ]
+  }
+ },
+ "clientes": [
+  {
+   "pv": 1196672,
+   "cliente": "2 IRMAOS SALGADOS",
+   "gc": "RV",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1202703,
+   "cliente": "A SABOROSA",
+   "gc": "G1",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1201150,
+   "cliente": "ADEGAS PONTO DA CERVEJ",
+   "gc": "UR",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1065799,
+   "cliente": "ADRIANA LANCHES",
+   "gc": "RV",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1202665,
+   "cliente": "ALTAS HORAS",
+   "gc": "AP",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1158088,
+   "cliente": "AMPM",
+   "gc": "PA",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1192526,
+   "cliente": "AQUARIUS CONVENIENCIA",
+   "gc": "GU",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1202176,
+   "cliente": "ARENA DISTRIBUIDORA DE",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1143929,
+   "cliente": "ARMAZEM DAS BEBIDAS",
+   "gc": "IT",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1176070,
+   "cliente": "ARMAZÉM E DISTRI DIM",
+   "gc": "PO",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1031221,
+   "cliente": "ARMAZEM GOIAS",
+   "gc": "G2",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1219102,
+   "cliente": "ARMAZEM REAL",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1193352,
+   "cliente": "ARMAZEM REDENÇAO",
+   "gc": "AP",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1155658,
+   "cliente": "ATACADAO DAS BEBIDAS",
+   "gc": "PA",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1155847,
+   "cliente": "ATACADAO DIA DIA",
+   "gc": "PA",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1203698,
+   "cliente": "ATACADÃO DO MILLHO E P",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1191944,
+   "cliente": "ATACAREJO LAGARES",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1151651,
+   "cliente": "BAGDÁ CAFÉ",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1099922,
+   "cliente": "BAMBOO CHURRASCARIA E",
+   "gc": "PO",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1166013,
+   "cliente": "BANANA PANIFICADORA E",
+   "gc": "MO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1142808,
+   "cliente": "BAR DA LEIA",
+   "gc": "RV",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1144033,
+   "cliente": "BAR DO BIGODE",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1175012,
+   "cliente": "BAR DO NANÃ",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1218437,
+   "cliente": "BAR E LANCHONETE VERA",
+   "gc": "MO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1008705,
+   "cliente": "BAR MAE NATUREZA",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1051234,
+   "cliente": "BAR MERC DOUGLAS",
+   "gc": "UR",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1200748,
+   "cliente": "BAR POR DO SOL",
+   "gc": "PO",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1159397,
+   "cliente": "BAR PRESIDENTE",
+   "gc": "IT",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1130658,
+   "cliente": "BARSA BEER ATACADO E V",
+   "gc": "RV",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1159393,
+   "cliente": "BARUQUE PÃES E BOLOS",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1115237,
+   "cliente": "BARZÃO",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1184470,
+   "cliente": "BATATINHA CONVENIENCIA",
+   "gc": "PA",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1174781,
+   "cliente": "BEBIDAS E ESPETINHO MA",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1103610,
+   "cliente": "BELO PAO",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1199955,
+   "cliente": "BEM TI VI PANIFICADORA",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1210379,
+   "cliente": "BIG SUPERMERCADO",
+   "gc": "DI",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1189231,
+   "cliente": "BISCOITO ARTESANAL",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1198352,
+   "cliente": "BOM SABOR PANIFICADORA",
+   "gc": "G1",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1202051,
+   "cliente": "BONOQUALI PATISSERIE",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1018785,
+   "cliente": "BORJAO SUPERMERCADO",
+   "gc": "SL",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1111508,
+   "cliente": "BRAGAS BAR E RESTAURA",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "d1",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1163354,
+   "cliente": "CACHORRÃO DIST DE BEB",
+   "gc": "G2",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1047094,
+   "cliente": "CAPRICHO PANIF",
+   "gc": "G3",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1066242,
+   "cliente": "CASA CARNE CIAL MM",
+   "gc": "RV",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1114779,
+   "cliente": "CASA DE BEBIDAS JAPONE",
+   "gc": "RI",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1210337,
+   "cliente": "CASA DE CARNE MM AV JO",
+   "gc": "RV",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1213417,
+   "cliente": "CASA DE CARNE MM LJ06",
+   "gc": "RV",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1215210,
+   "cliente": "CASA DE CARNE MM LJ07",
+   "gc": "RV",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1133790,
+   "cliente": "CASA DE CARNE OLIVEIRA",
+   "gc": "UR",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1077925,
+   "cliente": "CASA MARTINHO PAES E D",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1088675,
+   "cliente": "CENTRAL LANCHES I",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1220044,
+   "cliente": "CERRADO PREMIUM",
+   "gc": "G2",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1078937,
+   "cliente": "CHURRASC LAGE",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1150207,
+   "cliente": "CHURRASCARIA E LANCHON",
+   "gc": "PA",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1112592,
+   "cliente": "CHURRASCARIA INDIARA",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1087167,
+   "cliente": "CHURRASCARIA JARAGUA",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1197439,
+   "cliente": "CHURRASCARIA PRATO CHE",
+   "gc": "PO",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1107886,
+   "cliente": "CHURRASCARIA SUCUPIRA",
+   "gc": "UR",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1091514,
+   "cliente": "CIAL M CARDOSO",
+   "gc": "DI",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1194246,
+   "cliente": "CIAL OLIVEIRA",
+   "gc": "UR",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1140686,
+   "cliente": "COMBINA.COM",
+   "gc": "GU",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1199084,
+   "cliente": "COMBO DO SABOR",
+   "gc": "G3",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1154440,
+   "cliente": "COMER PARA TODOS",
+   "gc": "GU",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1215700,
+   "cliente": "COMERCIAL ANDERS",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1159621,
+   "cliente": "COMERCIAL BUENO",
+   "gc": "PO",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1186444,
+   "cliente": "COMERCIAL CATARINENSE",
+   "gc": "PA",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1183355,
+   "cliente": "COMERCIAL DIAS",
+   "gc": "AN",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1211188,
+   "cliente": "COMERCIAL FORTALEZA",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1119895,
+   "cliente": "COMERCIAL GALILEIA",
+   "gc": "PO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1192869,
+   "cliente": "COMERCIAL J LIDER",
+   "gc": "RV",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1172638,
+   "cliente": "COMERCIAL SANTOS",
+   "gc": "RV",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1202864,
+   "cliente": "COMERCIAL SANTOS",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1220580,
+   "cliente": "COMERCIAL TERRA III",
+   "gc": "RV",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1106436,
+   "cliente": "COMERCIAL TOCANTINS",
+   "gc": "GU",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1203307,
+   "cliente": "COMIDA CASEIRA DA JÔ",
+   "gc": "PO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1089651,
+   "cliente": "CONFEITARIA CIA",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1090792,
+   "cliente": "CONFEITARIA KAMILA",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1208495,
+   "cliente": "CONVENIENCIA AUTO POST",
+   "gc": "PO",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1139631,
+   "cliente": "CONVENIENCIA VERDE AMA",
+   "gc": "RV",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1106845,
+   "cliente": "DAMACENO SUPER",
+   "gc": "GU",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1186419,
+   "cliente": "DANIELLY PADARIA E MER",
+   "gc": "G2",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1216245,
+   "cliente": "DELICIAS DO SUL",
+   "gc": "PA",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1153425,
+   "cliente": "DELLICATA PAES LTDA",
+   "gc": "G3",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1087519,
+   "cliente": "DINAMITE SUPER LJ02",
+   "gc": "RV",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1189532,
+   "cliente": "DIST E MERC TROPICAL",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1132374,
+   "cliente": "DIST FOGO E GELO",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1223880,
+   "cliente": "DIST KANECAO",
+   "gc": "IT",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1177574,
+   "cliente": "DIST. CERRADO",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1221520,
+   "cliente": "DISTRIBUIDORA DA DIRET",
+   "gc": "G1",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1173537,
+   "cliente": "DISTRIBUIDORA DA VANIA",
+   "gc": "PA",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1208214,
+   "cliente": "DISTRIBUIDORA DE ALIME",
+   "gc": "UR",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1171240,
+   "cliente": "DISTRIBUIDORA DE BEBID",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1218062,
+   "cliente": "DISTRIBUIDORA E MERCEA",
+   "gc": "G1",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1102638,
+   "cliente": "DISTRIBUIDORA FREE GEL",
+   "gc": "GU",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1130818,
+   "cliente": "DISTRIBUIDORA MENDES",
+   "gc": "G1",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1097362,
+   "cliente": "DISTRIBUIDORA NOGUEIRA",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1203935,
+   "cliente": "DISTRIBUIDORA PREMIUM",
+   "gc": "UR",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1217426,
+   "cliente": "DISTRIBUIDORA PROGRESS",
+   "gc": "GU",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1202393,
+   "cliente": "DO IRMAO PANIFICADORA",
+   "gc": "SL",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1168724,
+   "cliente": "DODI CARNES E CIA",
+   "gc": "PA",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1065713,
+   "cliente": "DOM CAMILO PAES",
+   "gc": "SL",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1215533,
+   "cliente": "DOMINGOS SUPERMERCADO",
+   "gc": "SL",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1204938,
+   "cliente": "DOURE SABOR COLONIAL",
+   "gc": "SL",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1175453,
+   "cliente": "DUPÃO PANIFICADORA E C",
+   "gc": "G1",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1207674,
+   "cliente": "EBENEZER SUPERMERCADO",
+   "gc": "RV",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1114447,
+   "cliente": "EMPORIO & BAR",
+   "gc": "GU",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1189264,
+   "cliente": "EMPORIO 062",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1199941,
+   "cliente": "EMPÓRIO CERRADO",
+   "gc": "G1",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1146148,
+   "cliente": "EMPORIO COSTA",
+   "gc": "UR",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1172566,
+   "cliente": "EMPORIO DISTRIBUIDORA",
+   "gc": "MO",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1201702,
+   "cliente": "EMPORIO DOCE MANIA",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1100171,
+   "cliente": "EMPORIO DOURADOS",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1198563,
+   "cliente": "EMPORIO E DE CASA",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1037023,
+   "cliente": "EMPORIO INDAIÁ",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1223358,
+   "cliente": "EMPÓRIO MULTI",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1185967,
+   "cliente": "EMPORIO NOSSA CASA",
+   "gc": "G2",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1214601,
+   "cliente": "EMPORIO NOSSA CASA",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1222896,
+   "cliente": "EMPÓRIO NOSSA CASA",
+   "gc": "G2",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1179295,
+   "cliente": "EMPÓRIO PEIXOTO- PQ BU",
+   "gc": "G1",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1219171,
+   "cliente": "EMPORIO PREMIUM",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1218636,
+   "cliente": "EMPORIO RESSACA ETERNA",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1209853,
+   "cliente": "EMPORIO SABOR DE CASA",
+   "gc": "RV",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1175639,
+   "cliente": "EMPORIO SOLLAR",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1214143,
+   "cliente": "EMPORIO T 63",
+   "gc": "G3",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1183191,
+   "cliente": "EMPÓRIO TINKS",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1158008,
+   "cliente": "EMPÓRIO TOTOTIM",
+   "gc": "G1",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1062656,
+   "cliente": "EMPÓRIO ZERO GRAU",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1179605,
+   "cliente": "EMPORIUM SUPERMERCADO",
+   "gc": "RV",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1134350,
+   "cliente": "ESPETINHO DO JUNIOR JA",
+   "gc": "MO",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1203365,
+   "cliente": "ESPETO DO CHEFE",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1216522,
+   "cliente": "ESQUINA DO SABOR LANCH",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1222567,
+   "cliente": "EU AMO SALGADOS E ACAI",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1140354,
+   "cliente": "EXCLUSIVA PAES",
+   "gc": "SL",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1172212,
+   "cliente": "FAVO DE MEL PANIFICADO",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1104652,
+   "cliente": "FAVORITA PANIF CONV",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1214963,
+   "cliente": "FEDERAL ATACAREJO",
+   "gc": "G1",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1178921,
+   "cliente": "FERREIRA SUPERMERCADO",
+   "gc": "G1",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1161409,
+   "cliente": "FLOR DO CAMPO RESTAURA",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1197616,
+   "cliente": "FLUXO SPOT BEER",
+   "gc": "RI",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1124308,
+   "cliente": "FORTS LANCHES",
+   "gc": "PO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1150494,
+   "cliente": "GOIAS GAS DISTRIBUIDOR",
+   "gc": "UR",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1086267,
+   "cliente": "GRAJAU SUPER G2",
+   "gc": "RV",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1135044,
+   "cliente": "HELIOS BAR E RESTAURAN",
+   "gc": "UR",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1090759,
+   "cliente": "HIPER MIRANDA MOINHO D",
+   "gc": "G1",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1179134,
+   "cliente": "IGREJA FONTE DA VIDA",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1163701,
+   "cliente": "JOAO SAT SUPERMERCADO",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1012331,
+   "cliente": "JUJU LANCHES",
+   "gc": "IT",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1198721,
+   "cliente": "JUMBO ATACAREJO",
+   "gc": "DI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1209564,
+   "cliente": "KABANA BAR E COZINHA",
+   "gc": "DI",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "online",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1142052,
+   "cliente": "KAIROS PANETERI",
+   "gc": "DI",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1057027,
+   "cliente": "KI DELICIA LANCHE",
+   "gc": "G3",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1159741,
+   "cliente": "KI DELICIA PANIFICADOR",
+   "gc": "AP",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1048474,
+   "cliente": "LANC MERC RODRIGUES",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1052839,
+   "cliente": "LANC RODOVIARIA",
+   "gc": "RI",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1088069,
+   "cliente": "LANCH A GOIANA",
+   "gc": "G3",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1117857,
+   "cliente": "LANCH CALIFORNIA",
+   "gc": "RI",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1085382,
+   "cliente": "LANCH DA ZENA",
+   "gc": "IT",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1080335,
+   "cliente": "LANCHE E PASTE CENTRAL",
+   "gc": "PO",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1153864,
+   "cliente": "LANCHES BEIRA RIO",
+   "gc": "IT",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1218587,
+   "cliente": "LANCHES E ASSADOS CAST",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1022187,
+   "cliente": "LANCHINHO DA RODOVIARI",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1005720,
+   "cliente": "LANCHO DO POSTAO",
+   "gc": "SL",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1199155,
+   "cliente": "LANCHONETE B & B",
+   "gc": "IT",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1103334,
+   "cliente": "LANCHONETE BRASIL",
+   "gc": "PA",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1125141,
+   "cliente": "LANCHONETE CALIFORNIA",
+   "gc": "PO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1103390,
+   "cliente": "LANCHONETE DO BEIÇOLA",
+   "gc": "UR",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1200384,
+   "cliente": "LANCHONETE DO ROGIM 2",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1205992,
+   "cliente": "LANCHONETE E MERCEARIA",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1205797,
+   "cliente": "LANCHONETE MANANCIAL",
+   "gc": "MO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1164537,
+   "cliente": "LANCHONETE OPÇÃO",
+   "gc": "SL",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1215632,
+   "cliente": "LANCHONETE RAINHA DA P",
+   "gc": "UR",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1167866,
+   "cliente": "LANCHONETE THERMAS",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1134530,
+   "cliente": "LANCHONETE TRACAJA",
+   "gc": "SL",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1205235,
+   "cliente": "LOJA DA FABRICA ARTE T",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1182788,
+   "cliente": "LOJA DE FABRICA PAO DE",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1217712,
+   "cliente": "LOJA DE FABRICA PAO DE",
+   "gc": "G3",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1167951,
+   "cliente": "M & A ALIMENTOS",
+   "gc": "RV",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1214784,
+   "cliente": "MADRI PAES",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1143727,
+   "cliente": "MAIS SABOR CASEIROS",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1179741,
+   "cliente": "MARMITAS DO EDY",
+   "gc": "GU",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1221438,
+   "cliente": "MEGA SUPERMERCADO",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1180791,
+   "cliente": "MENOR PRECO SUPERMERCA",
+   "gc": "GU",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1103783,
+   "cliente": "MERC CARDOSO",
+   "gc": "AN",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1126394,
+   "cliente": "MERC DO RIQUINHO",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1218711,
+   "cliente": "MERC E PANIF BATISTA",
+   "gc": "AN",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1051222,
+   "cliente": "MERC JONICE",
+   "gc": "UR",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1145835,
+   "cliente": "MERC. MATHEUS",
+   "gc": "SL",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1218804,
+   "cliente": "MERCABOX NOVAIS",
+   "gc": "PO",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1021442,
+   "cliente": "MERCABOX PADRAO",
+   "gc": "UR",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1156871,
+   "cliente": "MERCADINHO IDEAL",
+   "gc": "RI",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1110664,
+   "cliente": "MERCADINHO LEMOS",
+   "gc": "GU",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1190803,
+   "cliente": "MERCADINHO MADALENA",
+   "gc": "RI",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1163495,
+   "cliente": "MERCADINHO MEU REI",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1133776,
+   "cliente": "MERCADO COLORADO",
+   "gc": "AN",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1086420,
+   "cliente": "MERCADO OLIVEIRA",
+   "gc": "AN",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1148370,
+   "cliente": "MERCADO RENDE MAIS",
+   "gc": "MO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1185609,
+   "cliente": "MERCADO SOBERANO",
+   "gc": "RV",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1050576,
+   "cliente": "MERCEARIA CORREIA",
+   "gc": "UR",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1151559,
+   "cliente": "MERCEARIA DO BRUNO",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1216861,
+   "cliente": "MERCEARIA E DIST HORA",
+   "gc": "PO",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1176716,
+   "cliente": "MERCEARIA MATOS",
+   "gc": "RV",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1075739,
+   "cliente": "MERCEARIA PAO DE MEL",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1114876,
+   "cliente": "MERCEARIA QUALLITY",
+   "gc": "G1",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1121193,
+   "cliente": "MERCEARIA SOARES",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1076341,
+   "cliente": "MEURER TINTAS E SERV",
+   "gc": "PA",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1118334,
+   "cliente": "MINEIRINHO SUPERMERCAD",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1174954,
+   "cliente": "MINI BOX AVENIDA",
+   "gc": "SL",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1181134,
+   "cliente": "MINI BOX E DISTRIBUIDO",
+   "gc": "PA",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1108778,
+   "cliente": "MINI MERCADO DA 704 SU",
+   "gc": "PA",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1143029,
+   "cliente": "MISSIONEIRA",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1053124,
+   "cliente": "MISTER  PAO",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1035509,
+   "cliente": "NOSSA FAZENDINHA",
+   "gc": "G3",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1166173,
+   "cliente": "OLIVA EMPORIO CHOPPERI",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1184028,
+   "cliente": "PADARAIA DALLU",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1180956,
+   "cliente": "PADARIA BOM SABOR",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1119713,
+   "cliente": "PADARIA DOCE SONHO",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1174853,
+   "cliente": "PALÁCIO DO PÃO",
+   "gc": "G2",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1135458,
+   "cliente": "PAMONH SABOR GOIANO",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1150818,
+   "cliente": "PAN ALIANCA DO TRIGO",
+   "gc": "DI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1094332,
+   "cliente": "PAN BELLA BONE",
+   "gc": "G2",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1051464,
+   "cliente": "PAN PEDROSO",
+   "gc": "UR",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1209847,
+   "cliente": "PANI CARVALHO",
+   "gc": "DI",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1172873,
+   "cliente": "PANIF ARAGUIA 2",
+   "gc": "AN",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1052220,
+   "cliente": "PANIF BABY MANIA",
+   "gc": "UR",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1114461,
+   "cliente": "PANIF BELO PAO",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1019485,
+   "cliente": "PANIF BOM JESUS",
+   "gc": "IT",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1025833,
+   "cliente": "PANIF CENTRAL",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1028403,
+   "cliente": "PANIF COLOMBO",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1173044,
+   "cliente": "PANIF E CONF KITANDAS",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1035844,
+   "cliente": "PANIF E CONF SAMAM",
+   "gc": "G3",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1011189,
+   "cliente": "PANIF E LANCHO KI SABO",
+   "gc": "PO",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1111298,
+   "cliente": "PANIF FLAMBOYANT",
+   "gc": "G1",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1096304,
+   "cliente": "PANIF GOIANIA II",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1091672,
+   "cliente": "PANIF LANCH PAO DA PRA",
+   "gc": "GU",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1089466,
+   "cliente": "PANIF MARIA VITORIA",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1072442,
+   "cliente": "PANIF MARISTA",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1088273,
+   "cliente": "PANIF MEGA PANE",
+   "gc": "G1",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1033474,
+   "cliente": "PANIF MOREIRA",
+   "gc": "G2",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1088809,
+   "cliente": "PANIF MUNDO DELICIAS",
+   "gc": "G2",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1138321,
+   "cliente": "PANIF PANEDORO",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1067258,
+   "cliente": "PANIF PAO CRISTAL",
+   "gc": "PO",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1080633,
+   "cliente": "PANIF PAO DE MEL",
+   "gc": "UR",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1119989,
+   "cliente": "PANIF PAO SABOROSO",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1111310,
+   "cliente": "PANIF PROD DA MAE",
+   "gc": "IT",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1168927,
+   "cliente": "PANIF PROMESSA",
+   "gc": "GU",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1062747,
+   "cliente": "PANIF SABORITA",
+   "gc": "PO",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1033664,
+   "cliente": "PANIF TRIGOPAN",
+   "gc": "G3",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1076367,
+   "cliente": "PANIF VARGAS",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1167729,
+   "cliente": "PANIFICADORA AM",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1112703,
+   "cliente": "PANIFICADORA CENTRAL",
+   "gc": "GU",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1053373,
+   "cliente": "PANIFICADORA DELICIA",
+   "gc": "G2",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1107883,
+   "cliente": "PANIFICADORA E CONF TR",
+   "gc": "GU",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1193535,
+   "cliente": "PANIFICADORA E CONFEIT",
+   "gc": "AP",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1152685,
+   "cliente": "PANIFICADORA E LACHONE",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1158534,
+   "cliente": "PANIFICADORA E LANCHON",
+   "gc": "PO",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1207961,
+   "cliente": "PANIFICADORA ELDORADO",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1208784,
+   "cliente": "PANIFICADORA MALTA CAS",
+   "gc": "G1",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1122073,
+   "cliente": "PANIFICADORA MARKS",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1155552,
+   "cliente": "PANIFICADORA MODELO",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1218286,
+   "cliente": "PANIFICADORA MODELO 2",
+   "gc": "MO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1214543,
+   "cliente": "PANIFICADORA MOURA",
+   "gc": "G1",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1123204,
+   "cliente": "PANIFICADORA PAO DOURA",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1134130,
+   "cliente": "PANIFICADORA PAO DOURA",
+   "gc": "G3",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1186761,
+   "cliente": "PANIFICADORA PLANICIE",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1202790,
+   "cliente": "PANIFICADORA POINT FAM",
+   "gc": "RI",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1223492,
+   "cliente": "PANIFICADORA PREMIER",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1155136,
+   "cliente": "PANIFICADORA REAL III",
+   "gc": "PA",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1204291,
+   "cliente": "PANIFICADORA REAL IIII",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1196754,
+   "cliente": "PANIFICADORA SONHO MEU",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1136181,
+   "cliente": "PANIFICADORA TALENTO",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1162053,
+   "cliente": "PANIFICADORA VIP",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1183386,
+   "cliente": "PANIFICARORA MARINGA",
+   "gc": "PA",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1185038,
+   "cliente": "PAO DE MEL",
+   "gc": "AP",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1096814,
+   "cliente": "PAO DE OURO II",
+   "gc": "AN",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1077009,
+   "cliente": "PAO DE QUEIJO JUNDIAI",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1162889,
+   "cliente": "PÃO DO GALLO PANIFICAD",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1152773,
+   "cliente": "PASTELARIA DO GORDINHO",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1215327,
+   "cliente": "PASTELARIA E LANCHONET",
+   "gc": "DI",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1120551,
+   "cliente": "PASTELARIA QUERO MAIS",
+   "gc": "MO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1028961,
+   "cliente": "PEG PAG CACULINHA",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1118535,
+   "cliente": "PEG PAG LACERDA",
+   "gc": "GU",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1063168,
+   "cliente": "PEG PAG MOREIRA",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1092604,
+   "cliente": "PEG PAG QUINTILIANO",
+   "gc": "DI",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1078678,
+   "cliente": "PEG PAG SERV BEM",
+   "gc": "AN",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1026097,
+   "cliente": "PEG PAG TAVARES",
+   "gc": "AN",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1160543,
+   "cliente": "PEIXAO SUPERMERCADO",
+   "gc": "GU",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1087846,
+   "cliente": "PERTUTTI PANIFICADORA",
+   "gc": "G1",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1162025,
+   "cliente": "PETIT PÃO",
+   "gc": "G1",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1189621,
+   "cliente": "PINDOBAS BAR",
+   "gc": "UR",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1220417,
+   "cliente": "POINT BEER",
+   "gc": "MO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1085764,
+   "cliente": "PONTO CERTO LANCHE",
+   "gc": "UR",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1216827,
+   "cliente": "PONTO DO PAO DE QUEIJO",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1067663,
+   "cliente": "PREDILETA PANIFICADORA",
+   "gc": "PO",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1031463,
+   "cliente": "PRIMADELLA PANIF",
+   "gc": "G3",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1186423,
+   "cliente": "QG DOS SALGADOS",
+   "gc": "IT",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1170597,
+   "cliente": "QUITANDA CABRAL SUPERM",
+   "gc": "PA",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1170778,
+   "cliente": "QUITANDA EMPÓRIO CERRA",
+   "gc": "G3",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1199871,
+   "cliente": "QUITANDAS SALGADINHOS",
+   "gc": "UR",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1187481,
+   "cliente": "R.V DISTRIBUIDORA DE B",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1209786,
+   "cliente": "RANGUS GRILL",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1221542,
+   "cliente": "REDE AVAMTHE SUPERMERC",
+   "gc": "G1",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1212168,
+   "cliente": "REDE DITO PETROLEO",
+   "gc": "PO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1222622,
+   "cliente": "REDE TUCUNARE",
+   "gc": "PA",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "online",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1191603,
+   "cliente": "REI DAS BEBIDAS",
+   "gc": "IT",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1220637,
+   "cliente": "RENASCER SUPERMERCADO",
+   "gc": "RV",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1151206,
+   "cliente": "REST E LANC CANTINHO D",
+   "gc": "G2",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1052147,
+   "cliente": "REST PEZAO",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1084553,
+   "cliente": "REST SABOR GOIANO",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1086575,
+   "cliente": "REST SOL NASCENTE",
+   "gc": "AN",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1083697,
+   "cliente": "REST VITORIA RODOVI",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1123002,
+   "cliente": "REST. E LANCH.PATO BRA",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1213198,
+   "cliente": "RESTAURANTE KI SABOR",
+   "gc": "RI",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1218674,
+   "cliente": "RESTAURANTE LIMA",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1223480,
+   "cliente": "RESTAURANTE MUTUCAO",
+   "gc": "GU",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1161113,
+   "cliente": "RESTAURANTE PRAZERES D",
+   "gc": "GU",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1194036,
+   "cliente": "RESTAURANTE TEMPERO BO",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1224462,
+   "cliente": "REY LANCHES",
+   "gc": "UR",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1131875,
+   "cliente": "ROCK BEER BEBIDAS",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1034483,
+   "cliente": "RODOVIARIA LANCH",
+   "gc": "G3",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1213164,
+   "cliente": "ROUTE 153 CHURRASCARIA",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1205414,
+   "cliente": "SABOR & CIA",
+   "gc": "G1",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1216989,
+   "cliente": "SALGADERIA PEDREGULHOS",
+   "gc": "IT",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1198079,
+   "cliente": "SANTOS SUPERMERCADO",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1165771,
+   "cliente": "SHALON SUPERM",
+   "gc": "AP",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1034188,
+   "cliente": "SHELL SELECT EMPÓRIO T",
+   "gc": "G3",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1092130,
+   "cliente": "SKINA 8 BAR E REST",
+   "gc": "GU",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1051423,
+   "cliente": "SL SUPER",
+   "gc": "UR",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1141945,
+   "cliente": "SMILEY SANDUICHERIA",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1188685,
+   "cliente": "SONHO DE PAO",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1091564,
+   "cliente": "SORV E LANC DO JOVEM",
+   "gc": "GU",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1215872,
+   "cliente": "SP VARIEDADES MARILIA",
+   "gc": "DI",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1053538,
+   "cliente": "STOP LANCHE PAN",
+   "gc": "PO",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1116822,
+   "cliente": "SUP ALVES - MEIA PONTE",
+   "gc": "IT",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1128341,
+   "cliente": "SUP BARATÃO",
+   "gc": "G1",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1093126,
+   "cliente": "SUP GAROTAO",
+   "gc": "G2",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1215554,
+   "cliente": "SUP NOVO BRAZÃO CURITI",
+   "gc": "G1",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1220378,
+   "cliente": "SUP NOVO BRAZÃO PARQUE",
+   "gc": "G1",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1039283,
+   "cliente": "SUP SÃO SEBASTIÃO",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1015736,
+   "cliente": "SUPER 307 NORTE",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1151140,
+   "cliente": "SUPER BELO",
+   "gc": "AN",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1208209,
+   "cliente": "SUPER BOM PREÇO",
+   "gc": "AN",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1067899,
+   "cliente": "SUPER BREU",
+   "gc": "AN",
+   "produto": "Del Valle Frut Uva PET 450 ml",
+   "cod": 2327,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1037793,
+   "cliente": "SUPER CANADA",
+   "gc": "G2",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1181635,
+   "cliente": "SUPER CARVALHO",
+   "gc": "G2",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1224965,
+   "cliente": "SUPER CRISTAL",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1129274,
+   "cliente": "SUPER ECONOMIA",
+   "gc": "SL",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1035236,
+   "cliente": "SUPER ESTRELA",
+   "gc": "AP",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1121834,
+   "cliente": "SUPER FAVORITO",
+   "gc": "MO",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1212209,
+   "cliente": "SUPER FEDERAL ATACAREJ",
+   "gc": "G1",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1180894,
+   "cliente": "SUPER FREITAS",
+   "gc": "G1",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1144027,
+   "cliente": "SUPER GAROTO- GOIÂNIA",
+   "gc": "G1",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1216132,
+   "cliente": "SUPER GOLD",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1171521,
+   "cliente": "SUPER IDEAL",
+   "gc": "SL",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1224761,
+   "cliente": "SUPER JP",
+   "gc": "AP",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1072800,
+   "cliente": "SUPER KITANDA",
+   "gc": "PA",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1206912,
+   "cliente": "SUPER LIVRE",
+   "gc": "G2",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1057374,
+   "cliente": "SUPER LOZEKAN",
+   "gc": "G2",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1032167,
+   "cliente": "SUPER MADRE GERMANA",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1210244,
+   "cliente": "SUPER MAIS MERCADO",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1199285,
+   "cliente": "SUPER MANANCIAL",
+   "gc": "AP",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1201571,
+   "cliente": "SUPER MANIA- LAGUNA PA",
+   "gc": "G1",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1073844,
+   "cliente": "SUPER MARISTA",
+   "gc": "G1",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1055711,
+   "cliente": "SUPER MAXIMUS",
+   "gc": "IT",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1113529,
+   "cliente": "SUPER MUTIRAO",
+   "gc": "IT",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1206134,
+   "cliente": "SUPER NACIONAL",
+   "gc": "G1",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1061981,
+   "cliente": "SUPER OLIVEIRA",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1054869,
+   "cliente": "SUPER PANTANAL",
+   "gc": "RI",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1025971,
+   "cliente": "SUPER POPULAR",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1189102,
+   "cliente": "SUPER PRATICO",
+   "gc": "G2",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1020820,
+   "cliente": "SUPER RAFAELA",
+   "gc": "IT",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1078247,
+   "cliente": "SUPER SANTA LUCIA",
+   "gc": "RV",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1208662,
+   "cliente": "SUPER TAVARES",
+   "gc": "G1",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1094158,
+   "cliente": "SUPER TOCANTINS",
+   "gc": "DI",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1036961,
+   "cliente": "SUPER TOLEDO- JD AMÉRI",
+   "gc": "G1",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1177377,
+   "cliente": "SUPER TREMENDÃO",
+   "gc": "G2",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "online",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1216728,
+   "cliente": "SUPER UNIAO",
+   "gc": "GU",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1093971,
+   "cliente": "SUPER UNIAO SUL",
+   "gc": "G1",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1092521,
+   "cliente": "SUPER VERD MODELO",
+   "gc": "GU",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1158656,
+   "cliente": "SUPER VITOR",
+   "gc": "PO",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1138184,
+   "cliente": "SUPERBOX BRAGA",
+   "gc": "PO",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1205836,
+   "cliente": "SUPERMER BOM PREÇO",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1216794,
+   "cliente": "SUPERMERADO MOREIRA 2",
+   "gc": "IT",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1216428,
+   "cliente": "SUPERMERCADO BEZERRA",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1126271,
+   "cliente": "SUPERMERCADO BRASIL",
+   "gc": "G1",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1195106,
+   "cliente": "SUPERMERCADO CASA DA S",
+   "gc": "PA",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1204879,
+   "cliente": "SUPERMERCADO CEBOLINHA",
+   "gc": "G1",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1219435,
+   "cliente": "SUPERMERCADO CENTRAL",
+   "gc": "AP",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1124134,
+   "cliente": "SUPERMERCADO COMERCIAL",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1190632,
+   "cliente": "SUPERMERCADO DO GORDO",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1206613,
+   "cliente": "SUPERMERCADO HELINHO",
+   "gc": "G3",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1210278,
+   "cliente": "SUPERMERCADO HMP",
+   "gc": "MO",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1208361,
+   "cliente": "SUPERMERCADO IDEAL",
+   "gc": "RV",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1148701,
+   "cliente": "SUPERMERCADO INDAIA",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1217181,
+   "cliente": "SUPERMERCADO KUSTER",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1215452,
+   "cliente": "SUPERMERCADO M&C",
+   "gc": "RV",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1157774,
+   "cliente": "SUPERMERCADO MAIA",
+   "gc": "GU",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1173773,
+   "cliente": "SUPERMERCADO MARANATA",
+   "gc": "GU",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1215214,
+   "cliente": "SUPERMERCADO MARTINS L",
+   "gc": "RV",
+   "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
+   "cod": 2317,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1199461,
+   "cliente": "SUPERMERCADO NOVA JERU",
+   "gc": "AP",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1134777,
+   "cliente": "SUPERMERCADO OLIVEIRA",
+   "gc": "AN",
+   "produto": "Del Valle Frut Laranja PET 1.5 L",
+   "cod": 2321,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1148731,
+   "cliente": "SUPERMERCADO OLIVEIRA",
+   "gc": "UR",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1036176,
+   "cliente": "SUPERMERCADO PONTO CER",
+   "gc": "AP",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1020971,
+   "cliente": "SUPERMERCADO PRIME",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1032873,
+   "cliente": "SUPERMERCADO PRIMO",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1027145,
+   "cliente": "SUPERMERCADO QUEIROZ",
+   "gc": "RV",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1215809,
+   "cliente": "SUPERMERCADO R A",
+   "gc": "G1",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1139337,
+   "cliente": "SUPERMERCADO REAL II",
+   "gc": "RI",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1195989,
+   "cliente": "SUPERMERCADO RODRIGUES",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1152973,
+   "cliente": "SUPERMERCADO SÃO FRANC",
+   "gc": "G1",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1169298,
+   "cliente": "SUPERMERCADO SHALON",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1194026,
+   "cliente": "SUPERMERCADO TIO PATIN",
+   "gc": "GU",
+   "produto": "Kapo Maracujá TP 200 ml",
+   "cod": 3604,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1080239,
+   "cliente": "SUPERMERCADO TRES AMOR",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1201905,
+   "cliente": "SUPERMERCADO TRYON",
+   "gc": "G2",
+   "produto": "Monster Energy Green LT 473 ml",
+   "cod": 2051,
+   "status": "online",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1172112,
+   "cliente": "SUPERMERCADO VERA CRUZ",
+   "gc": "AP",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1223941,
+   "cliente": "TABOCAO ALIMENTOS",
+   "gc": "UR",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1152223,
+   "cliente": "TOCA MACONDO",
+   "gc": "PA",
+   "produto": "Del Valle Frut Orange PET 450 ml",
+   "cod": 2886,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1203870,
+   "cliente": "TOCANTINS VASOS",
+   "gc": "PA",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1219481,
+   "cliente": "TREVÃO SUPERMERCADO",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1103154,
+   "cliente": "TRIBOM SUPERMERCADO",
+   "gc": "G1",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Não",
+   "obs": "Vale prêmio surpresa adicional"
+  },
+  {
+   "pv": 1182341,
+   "cliente": "TRIGO E PANE",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1216485,
+   "cliente": "UAI BEBIDAS",
+   "gc": "AP",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1160720,
+   "cliente": "UNIAO SUPERMERCADO",
+   "gc": "RV",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "d1",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1156884,
+   "cliente": "VALE DAS BRISAS SUPERM",
+   "gc": "AP",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1164781,
+   "cliente": "VAREJÃO PAI E FILHO",
+   "gc": "RI",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1075190,
+   "cliente": "VENDA BOM JARDIM",
+   "gc": "IT",
+   "produto": "Del Valle Frut Uva PET 1.5 L",
+   "cod": 2323,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1206985,
+   "cliente": "VIEIRA PAES",
+   "gc": "G2",
+   "produto": "Kapo Uva TP 200 ml",
+   "cod": 3594,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1002704,
+   "cliente": "YAMAMOTO LANCH BAR",
+   "gc": "G3",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  },
+  {
+   "pv": 1189067,
+   "cliente": "ZERO GRAU",
+   "gc": "AN",
+   "produto": "Del Valle Uva TP 1 L",
+   "cod": 1633,
+   "status": "pendente",
+   "b2b": "Sim",
+   "obs": ""
+  }
+ ]
+}

@@ -400,6 +400,10 @@ details.como .pop b{color:#fff}
 .plan-filtros{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
 .plan-filtros select,.plan-filtros input{font:inherit;font-size:14px;color:#fff;background:var(--glass);border:1px solid var(--line);border-radius:10px;padding:8px 10px;min-width:0}
 .plan-filtros input{flex:1 1 200px}
+.pf-local{display:flex;gap:6px;flex-wrap:wrap;align-items:center;background:rgba(255,255,255,.05);border:1px solid var(--line);border-radius:14px;padding:5px}
+.pf-local select{border-color:rgba(255,255,255,.18)}
+.pf-local #pf-gc{min-width:170px}
+@media (max-width:620px){ .pf-local{width:100%} .pf-local select{flex:1 1 30%} .pf-local #pf-gc{flex-basis:100%} }
 .seg{display:inline-flex;background:rgba(255,255,255,.06);border:1px solid var(--line);border-radius:999px;padding:3px;gap:2px}
 .seg button{border:0;background:none;border-radius:999px;padding:6px 12px;font-size:13px;font-weight:700;color:var(--txt-2);cursor:pointer;white-space:nowrap}
 .seg button[aria-pressed="true"]{background:#fff;color:var(--ink)}
@@ -815,12 +819,16 @@ function vistaPlanificador(){
       <button class="btn-xls" id="xls">⬇️ Exportar Excel</button></div>
     <section class="dash" style="margin-top:0">
       <div class="plan-filtros">
-        <select id="pf-gc" aria-label="Gerência"><option value="">Todas as Gerências</option>${SIGLAS.map(g => `<option value="${g}" ${g===PF.gc?"selected":""}>GC ${g} · ${plat(g)}</option>`).join("")}</select>
+        <div class="pf-local" role="group" aria-label="Gerência, rota e dia de visita">
+          <select id="pf-gc" aria-label="Gerência"><option value="">Todas as Gerências</option>${SIGLAS.map(g => `<option value="${g}" ${g===PF.gc?"selected":""}>GC ${g} · ${plat(g)}</option>`).join("")}</select>
+          <select id="pf-rota" aria-label="Rota"><option value="">Todas as rotas</option>${rotas.map(r => `<option value="${esc(r)}" ${r===PF.rota?"selected":""}>Rota ${esc(r)}</option>`).join("")}${temSemRota ? `<option value="__sem" ${PF.rota==="__sem"?"selected":""}>Sem rota informada</option>` : ""}</select>
+          <select id="pf-dia" aria-label="Dia de visita"><option value="">Todos os dias de visita</option>${DIAS.map(([d,n]) => `<option value="${d}" ${d===PF.dia?"selected":""}>Visita ${n}</option>`).join("")}</select>
+        </div>
+        <input id="pf-q" type="search" placeholder="Buscar cliente, PV, produto ou rota" value="${esc(PF.q)}" aria-label="Buscar cliente, PV ou produto">
+      </div>
+      <div class="plan-filtros">
         ${segm("st", [["todos","Todos"],["pendente","⏳ Pendentes"],["comprou","✅ Compraram"]])}
         ${segm("b2b", [["todos","B2B: todos"],["sim","Com cadastro"],["nao","Sem cadastro"]])}
-        <select id="pf-rota" aria-label="Rota"><option value="">Todas as rotas</option>${rotas.map(r => `<option value="${esc(r)}" ${r===PF.rota?"selected":""}>Rota ${esc(r)}</option>`).join("")}${temSemRota ? `<option value="__sem" ${PF.rota==="__sem"?"selected":""}>Sem rota informada</option>` : ""}</select>
-        <select id="pf-dia" aria-label="Dia de visita"><option value="">Todos os dias de visita</option>${DIAS.map(([d,n]) => `<option value="${d}" ${d===PF.dia?"selected":""}>Visita ${n}</option>`).join("")}</select>
-        <input id="pf-q" type="search" placeholder="Buscar cliente, PV, produto ou rota" value="${esc(PF.q)}" aria-label="Buscar cliente, PV ou produto">
       </div>
       ${topo}
         <div class="kpi"><small>Clientes na missão</small><div>${base.length}</div></div>

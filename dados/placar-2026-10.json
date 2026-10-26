@@ -3,23 +3,23 @@
  "mes": "2026-10",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-10-26T00:56:45.000Z",
- "dataMissao": "2026-10-26T00:56:45.000Z",
- "geradoEm": "2026-10-26T10:37:28.000Z",
+ "dataVolume": "2026-10-26T10:40:20.000Z",
+ "dataMissao": "2026-10-26T10:40:20.000Z",
+ "geradoEm": "2026-10-26T10:40:50.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
-   "eng": 37.712227,
-   "con": 31.034483,
-   "ati": 35.973631,
-   "still": 73.411489,
+   "eng": 37.802683,
+   "con": 34.482759,
+   "ati": 36.065635,
+   "still": 73.612452,
    "pesoEng": 18767.531,
    "pesoStill": 107767.39,
    "conecta": {
     "tipo": "missao",
-    "total": 9,
+    "total": 10,
     "nao": 0,
-    "online": 0,
+    "online": 1,
     "base": 29
    },
    "equipe": [
@@ -38,10 +38,10 @@
    ]
   },
   "G2": {
-   "eng": 75.789588,
+   "eng": 75.803457,
    "con": 42.857143,
-   "ati": 70.407,
-   "still": 82.129439,
+   "ati": 70.418758,
+   "still": 82.193962,
    "pesoEng": 32840.526,
    "pesoStill": 37391.173,
    "conecta": {
@@ -63,17 +63,17 @@
    ]
   },
   "G3": {
-   "eng": 65.296628,
-   "con": 34.615385,
-   "ati": 41.734269,
-   "still": 66.457892,
+   "eng": 65.754503,
+   "con": 38.461538,
+   "ati": 41.836621,
+   "still": 66.945394,
    "pesoEng": 1904.7345,
    "pesoStill": 17128.867,
    "conecta": {
     "tipo": "missao",
-    "total": 9,
+    "total": 10,
     "nao": 0,
-    "online": 0,
+    "online": 1,
     "base": 26
    },
    "equipe": [
@@ -92,10 +92,10 @@
    ]
   },
   "AP": {
-   "eng": 50.629424,
+   "eng": 50.638981,
    "con": 10.810811,
-   "ati": 56.928037,
-   "still": 77.604153,
+   "ati": 56.994181,
+   "still": 77.712777,
    "pesoEng": 3729.3713,
    "pesoStill": 22773.983,
    "conecta": {
@@ -121,10 +121,10 @@
    ]
   },
   "AN": {
-   "eng": 49.106012,
+   "eng": 49.113875,
    "con": 29.62963,
-   "ati": 57.212192,
-   "still": 76.744291,
+   "ati": 57.225889,
+   "still": 76.898535,
    "pesoEng": 27328.092,
    "pesoStill": 48142.446,
    "conecta": {
@@ -174,7 +174,7 @@
    "eng": 40.772671,
    "con": 23.809524,
    "ati": 68.253085,
-   "still": 70.112562,
+   "still": 70.12227,
    "pesoEng": 7296.338,
    "pesoStill": 10563.171,
    "conecta": {
@@ -200,10 +200,10 @@
    ]
   },
   "RV": {
-   "eng": 47.801868,
+   "eng": 47.897265,
    "con": 24.0,
-   "ati": 72.291557,
-   "still": 68.417531,
+   "ati": 72.22089,
+   "still": 68.640584,
    "pesoEng": 15561.388,
    "pesoStill": 34189.062,
    "conecta": {
@@ -261,7 +261,7 @@
    "eng": 59.027549,
    "con": 35.0,
    "ati": 116.36995,
-   "still": 74.539363,
+   "still": 74.623243,
    "pesoEng": 14240.043,
    "pesoStill": 7798.1045,
    "conecta": {
@@ -286,7 +286,7 @@
    "eng": 43.516431,
    "con": 42.857143,
    "ati": 59.905928,
-   "still": 63.576252,
+   "still": 63.578283,
    "pesoEng": 17144.055,
    "pesoStill": 51573.521,
    "conecta": {
@@ -308,10 +308,10 @@
    ]
   },
   "PO": {
-   "eng": 41.984385,
+   "eng": 42.035972,
    "con": 47.058824,
-   "ati": 72.831238,
-   "still": 63.894616,
+   "ati": 72.880648,
+   "still": 63.952479,
    "pesoEng": 4819.2217,
    "pesoStill": 30430.052,
    "conecta": {
@@ -336,7 +336,7 @@
    "eng": 63.111073,
    "con": 11.111111,
    "ati": 33.322865,
-   "still": 68.727029,
+   "still": 68.8972,
    "pesoEng": 12074.801,
    "pesoStill": 60736.575,
    "conecta": {
@@ -362,10 +362,10 @@
    ]
   },
   "RI": {
-   "eng": 45.559914,
+   "eng": 45.564316,
    "con": 57.894737,
-   "ati": 66.437925,
-   "still": 72.733875,
+   "ati": 66.495614,
+   "still": 72.817169,
    "pesoEng": 13966.142,
    "pesoStill": 10955.728,
    "conecta": {
@@ -387,10 +387,10 @@
    ]
   },
   "PA": {
-   "eng": 63.619087,
+   "eng": 63.586454,
    "con": 44.0,
-   "ati": 57.291344,
-   "still": 69.863874,
+   "ati": 57.276935,
+   "still": 69.85341,
    "pesoEng": 21859.96,
    "pesoStill": 13459.068,
    "conecta": {
@@ -416,10 +416,10 @@
    ]
   },
   "DI": {
-   "eng": 53.656119,
+   "eng": 53.808874,
    "con": 55.555556,
    "ati": 61.73148,
-   "still": 62.231539,
+   "still": 62.330158,
    "pesoEng": 6042.6264,
    "pesoStill": 21688.925,
    "conecta": {
@@ -556,7 +556,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O13",
-   "visita": "Ter - Sex - Sab"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1031221,
@@ -700,7 +700,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "224",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1175012,
@@ -880,7 +880,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "321",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1198352,
@@ -952,7 +952,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "321",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1066242,
@@ -1032,11 +1032,11 @@
    "gc": "G3",
    "produto": "Del Valle Frut Uva PET 450 ml",
    "cod": 2327,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "311",
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1088675,
@@ -1384,7 +1384,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R26",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1106845,
@@ -1528,7 +1528,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U15",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1171240,
@@ -1576,7 +1576,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "124",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1097362,
@@ -1660,7 +1660,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S12",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1204938,
@@ -1936,7 +1936,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A13",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1158008,
@@ -2308,7 +2308,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C27",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1085382,
@@ -2548,7 +2548,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "311",
-   "visita": "Qua - Sex - Sab"
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1167951,
@@ -2572,7 +2572,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1143727,
@@ -2584,7 +2584,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A25",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1179741,
@@ -2764,7 +2764,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A27",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1086420,
@@ -2836,7 +2836,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O18",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1176716,
@@ -2872,7 +2872,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "116",
-   "visita": "Ter - Sex - Sab"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1121193,
@@ -3076,7 +3076,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "226",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1051464,
@@ -3412,7 +3412,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "217",
-   "visita": "Ter - Sex - Sab"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1167729,
@@ -3664,7 +3664,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "213",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1136181,
@@ -3880,7 +3880,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "124",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1162025,
@@ -4240,7 +4240,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "U13",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1131875,
@@ -4288,7 +4288,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "114",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1216989,
@@ -4456,7 +4456,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "217",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1215554,
@@ -4732,7 +4732,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "526",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1210244,
@@ -4984,7 +4984,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O17",
-   "visita": "Sex - Sab"
+   "visita": "Sex"
   },
   {
    "pv": 1138184,
@@ -5040,7 +5040,7 @@
    "gc": "G1",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "115",
@@ -5116,7 +5116,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "324",
-   "visita": "Ter - Sex - Sab"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1210278,
@@ -5392,7 +5392,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "221",
-   "visita": "Qua - Sex - Sab"
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1172112,
@@ -5560,7 +5560,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "316",
-   "visita": "Qua - Sex - Sab"
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1189067,

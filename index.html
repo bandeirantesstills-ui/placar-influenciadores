@@ -409,7 +409,7 @@ details.como .pop b{color:#fff}
 .plan-topo img{width:92px;height:auto;transform:rotate(-5deg);filter:drop-shadow(0 8px 14px rgba(0,0,0,.5))}
 .plan-kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
 .plan-kpis .kpi div{font-size:26px}
-.plan-tab .dt{min-width:820px}
+.plan-tab .dt{min-width:980px}
 .plan-tab .dt td{white-space:normal}
 .plan-tab .dt td:first-child{white-space:nowrap}
 .plan-tab .dt th,.plan-tab .dt td{text-align:left}
@@ -773,7 +773,9 @@ function vistaGerencias(){
 
 /* ---------- TELA 4 · PLANIFICADOR (clientes da Missão Guiada) ---------- */
 const STATUS_CLI = { d1:["d1","✅ Comprou"], online:["online","🛒 Comprou online"], pendente:["pendente","⏳ Pendente"] };
-const PF = { gc: null, st: "todos", b2b: "todos", q: "" };   /* filtros da tela */
+const PF = { gc: null, st: "todos", b2b: "todos", q: "", rota: "", dia: "" };   /* filtros da tela */
+const DIAS = [["Seg","Segunda"],["Ter","Terça"],["Qua","Quarta"],["Qui","Quinta"],["Sex","Sexta"],["Sab","Sábado"]];
+const visitaTem = (v, d) => String(v || "").split(/\s*-\s*/).some(x => norm(x).startsWith(norm(d)));
 
 function mesPlanificador(){
   const c = contexto();
@@ -786,9 +788,11 @@ function filtrarClientes(m){
   const q = norm(PF.q);
   return m.clientes.filter(x =>
     (!PF.gc || x.gc === PF.gc) &&
+    (!PF.rota || (PF.rota === "__sem" ? !x.rota : x.rota === PF.rota)) &&
+    (!PF.dia || visitaTem(x.visita, PF.dia)) &&
     (PF.st === "todos" || (PF.st === "comprou" ? x.status !== "pendente" : x.status === "pendente")) &&
     (PF.b2b === "todos" || (PF.b2b === "sim" ? x.b2b === "Sim" : x.b2b !== "Sim")) &&
-    (!q || norm(`${x.cliente} ${x.pv} ${x.produto} ${x.cod}`).includes(q))
+    (!q || norm(`${x.cliente} ${x.pv} ${x.produto} ${x.cod} ${x.rota || ""}`).includes(q))
   ).sort((a,b) => (a.status === "pendente" ? 0 : 1) - (b.status === "pendente" ? 0 : 1) || a.gc.localeCompare(b.gc) || a.cliente.localeCompare(b.cliente));
 }
 
@@ -798,6 +802,9 @@ function vistaPlanificador(){
   if (!m) return `<div class="vista-head"><div><h2>Planificador</h2></div></div><section class="dash"><p class="plan-vazio">A lista de clientes da Missão Guiada ainda não foi publicada.</p></section>`;
   const segm = (campo, ops) => `<span class="seg" role="group">${ops.map(([v,t]) => `<button data-pf="${campo}" data-v="${v}" aria-pressed="${PF[campo]===v}">${t}</button>`).join("")}</span>`;
   const base = m.clientes.filter(x => !PF.gc || x.gc === PF.gc);
+  const rotas = [...new Set(base.map(x => x.rota).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR", {numeric:true}));
+  if (PF.rota && PF.rota !== "__sem" && !rotas.includes(PF.rota)) PF.rota = "";
+  const temSemRota = base.some(x => !x.rota);
   const comprou = base.filter(x => x.status !== "pendente").length, semB2B = base.filter(x => x.b2b !== "Sim").length;
   const lg = PF.gc && m.calc ? m.calc.linhas.find(x => x.g === PF.gc) : null;
   const metaCon = lg && lg.detCon && lg.detCon.tipo === "missao" ? lg.detCon.base : null;
@@ -811,7 +818,9 @@ function vistaPlanificador(){
         <select id="pf-gc" aria-label="Gerência"><option value="">Todas as Gerências</option>${SIGLAS.map(g => `<option value="${g}" ${g===PF.gc?"selected":""}>GC ${g} · ${plat(g)}</option>`).join("")}</select>
         ${segm("st", [["todos","Todos"],["pendente","⏳ Pendentes"],["comprou","✅ Compraram"]])}
         ${segm("b2b", [["todos","B2B: todos"],["sim","Com cadastro"],["nao","Sem cadastro"]])}
-        <input id="pf-q" type="search" placeholder="Buscar cliente, PV ou produto" value="${esc(PF.q)}" aria-label="Buscar cliente, PV ou produto">
+        <select id="pf-rota" aria-label="Rota"><option value="">Todas as rotas</option>${rotas.map(r => `<option value="${esc(r)}" ${r===PF.rota?"selected":""}>Rota ${esc(r)}</option>`).join("")}${temSemRota ? `<option value="__sem" ${PF.rota==="__sem"?"selected":""}>Sem rota informada</option>` : ""}</select>
+        <select id="pf-dia" aria-label="Dia de visita"><option value="">Todos os dias de visita</option>${DIAS.map(([d,n]) => `<option value="${d}" ${d===PF.dia?"selected":""}>Visita ${n}</option>`).join("")}</select>
+        <input id="pf-q" type="search" placeholder="Buscar cliente, PV, produto ou rota" value="${esc(PF.q)}" aria-label="Buscar cliente, PV ou produto">
       </div>
       ${topo}
         <div class="kpi"><small>Clientes na missão</small><div>${base.length}</div></div>
@@ -826,15 +835,17 @@ function vistaPlanificador(){
 function tabelaClientes(m){
   const L = filtrarClientes(m);
   if (!L.length) return `<p class="plan-vazio">${PF.gc === "AT" && !m.clientes.some(x => x.gc === "AT") ? "A GC AT não tem clientes na Missão Guiada: o Conecta dela é medido pelo volume de Ades." : "Nenhum cliente com esses filtros."}</p>`;
-  return `<table class="dt"><thead><tr><th>Gerência</th><th>Cliente</th><th>Produto foco</th><th>Status</th><th>Cadastro B2B</th><th>Observação</th></tr></thead><tbody>
-    ${L.map(x => `<tr><td>GC ${x.gc}</td><td class="cli">${esc(x.cliente)}<small>PV ${esc(x.pv)}</small></td><td>${esc(x.produto)}<small style="display:block;color:var(--txt-3);font-size:11.5px">Cód. ${esc(x.cod)}</small></td>
+  return `<table class="dt"><thead><tr><th>Gerência</th><th>Cliente</th><th>Rota</th><th>Visita</th><th>Produto foco</th><th>Status</th><th>Cadastro B2B</th><th>Observação</th></tr></thead><tbody>
+    ${L.map(x => `<tr><td>GC ${x.gc}</td><td class="cli">${esc(x.cliente)}<small>PV ${esc(x.pv)}</small></td><td>${x.rota ? esc(x.rota) : '<span class="z">—</span>'}</td><td style="white-space:nowrap">${x.visita ? esc(x.visita) : '<span class="z">—</span>'}</td><td>${esc(x.produto)}<small style="display:block;color:var(--txt-3);font-size:11.5px">Cód. ${esc(x.cod)}</small></td>
       <td><span class="sc ${STATUS_CLI[x.status][0]}">${STATUS_CLI[x.status][1]}</span></td><td class="${x.b2b==="Sim"?"":"b2b-nao"}">${x.b2b==="Sim"?"Sim":"⭐ Não"}</td><td>${esc(x.obs)}</td></tr>`).join("")}
   </tbody></table><p class="plan-rod">${L.length} cliente${L.length===1?"":"s"} na lista · ⭐ cliente sem cadastro B2B que comprar vale destaque no Conecta.</p>`;
 }
 
 function ligarPlanificador(){
   const m = mesPlanificador(); if (!m) return;
-  const sel = $("#pf-gc"); if (sel) sel.onchange = () => { PF.gc = sel.value; minhaGC.set(sel.value); render(); };
+  const sel = $("#pf-gc"); if (sel) sel.onchange = () => { PF.gc = sel.value; PF.rota = ""; minhaGC.set(sel.value); render(); };
+  const sr = $("#pf-rota"); if (sr) sr.onchange = () => { PF.rota = sr.value; render(); };
+  const sd = $("#pf-dia"); if (sd) sd.onchange = () => { PF.dia = sd.value; render(); };
   $("#app").querySelectorAll("[data-pf]").forEach(b => b.onclick = () => { PF[b.dataset.pf] = b.dataset.v; render(); });
   const q = $("#pf-q");
   if (q) q.oninput = () => { PF.q = q.value; $("#pf-tab").innerHTML = tabelaClientes(m); };
@@ -855,14 +866,14 @@ function carregarXLSX(){
 }
 async function exportarExcel(m, botao){
   const L = filtrarClientes(m);
-  const linhas = L.map(x => ({ "Gerência": "GC " + x.gc, "Plataforma": plat(x.gc), "PV": x.pv, "Cliente": x.cliente, "Produto foco": x.produto,
+  const linhas = L.map(x => ({ "Gerência": "GC " + x.gc, "Plataforma": plat(x.gc), "PV": x.pv, "Cliente": x.cliente, "Rota": x.rota || "", "Dia de visita": x.visita || "", "Produto foco": x.produto,
     "Cód. produto": x.cod, "Status": STATUS_CLI[x.status][1].replace(/^\S+\s/, ""), "Cadastro B2B": x.b2b, "Observação": x.obs }));
-  const nome = `planificador_${PF.gc ? "GC-" + PF.gc : "todas-GCs"}_${m.id}`;
+  const nome = `planificador_${PF.gc ? "GC-" + PF.gc : "todas-GCs"}${PF.rota && PF.rota !== "__sem" ? "_rota-" + PF.rota : ""}${PF.dia ? "_" + PF.dia : ""}_${m.id}`;
   botao.disabled = true; const txt = botao.innerHTML; botao.textContent = "Gerando…";
   try {
     const X = await carregarXLSX();
-    const ws = X.utils.json_to_sheet(linhas, { header: ["Gerência","Plataforma","PV","Cliente","Produto foco","Cód. produto","Status","Cadastro B2B","Observação"] });
-    ws["!cols"] = [{wch:9},{wch:13},{wch:10},{wch:34},{wch:32},{wch:12},{wch:16},{wch:13},{wch:32}];
+    const ws = X.utils.json_to_sheet(linhas, { header: ["Gerência","Plataforma","PV","Cliente","Rota","Dia de visita","Produto foco","Cód. produto","Status","Cadastro B2B","Observação"] });
+    ws["!cols"] = [{wch:9},{wch:13},{wch:10},{wch:34},{wch:8},{wch:16},{wch:32},{wch:12},{wch:16},{wch:13},{wch:32}];
     ws["!autofilter"] = { ref: ws["!ref"] };
     const wb = X.utils.book_new(); X.utils.book_append_sheet(wb, ws, "Planificador");
     X.writeFile(wb, nome + ".xlsx");

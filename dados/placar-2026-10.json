@@ -3,9 +3,9 @@
  "mes": "2026-10",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-10-26T10:49:28.000Z",
- "dataMissao": "2026-10-26T10:49:28.000Z",
- "geradoEm": "2026-10-26T10:49:40.000Z",
+ "dataVolume": "2026-10-26T11:01:58.000Z",
+ "dataMissao": "2026-10-26T11:01:58.000Z",
+ "geradoEm": "2026-10-26T11:04:23.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
@@ -447,8 +447,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R26",
+   "visita": "Sex"
   },
   {
    "pv": 1202703,
@@ -460,7 +460,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "112",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1201150,
@@ -471,8 +471,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U23",
+   "visita": "Qui"
   },
   {
    "pv": 1065799,
@@ -483,8 +483,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R21",
+   "visita": "Qui"
   },
   {
    "pv": 1202665,
@@ -495,8 +495,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "534",
+   "visita": "Qui"
   },
   {
    "pv": 1158088,
@@ -508,7 +508,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P34",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1192526,
@@ -519,8 +519,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "G26",
+   "visita": "Sab"
   },
   {
    "pv": 1202176,
@@ -531,8 +531,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "532",
+   "visita": "Sex"
   },
   {
    "pv": 1143929,
@@ -556,7 +556,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O13",
-   "visita": "Ter - Sex"
+   "visita": "Qua - Sab"
   },
   {
    "pv": 1031221,
@@ -567,8 +567,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "223",
+   "visita": "Qua"
   },
   {
    "pv": 1219102,
@@ -579,8 +579,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M11",
+   "visita": "Ter"
   },
   {
    "pv": 1193352,
@@ -592,7 +592,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "533",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1155658,
@@ -603,8 +603,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P11",
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1155847,
@@ -615,8 +615,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P11",
+   "visita": "Sex"
   },
   {
    "pv": 1203698,
@@ -628,7 +628,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "525",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1191944,
@@ -639,8 +639,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "S24",
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1151651,
@@ -651,8 +651,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "537",
+   "visita": "Qua"
   },
   {
    "pv": 1099922,
@@ -664,7 +664,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O14",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1166013,
@@ -675,8 +675,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "M11",
+   "visita": "Sex"
   },
   {
    "pv": 1142808,
@@ -687,8 +687,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R21",
+   "visita": "Qua"
   },
   {
    "pv": 1144033,
@@ -700,7 +700,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "224",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1175012,
@@ -712,7 +712,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "526",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1218437,
@@ -736,7 +736,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C12",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1051234,
@@ -748,7 +748,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "U12",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1200748,
@@ -759,8 +759,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "O15",
+   "visita": "Ter"
   },
   {
    "pv": 1159397,
@@ -771,8 +771,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "I24",
+   "visita": "Qui"
   },
   {
    "pv": 1130658,
@@ -784,7 +784,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R23",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1159393,
@@ -796,7 +796,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "226",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1115237,
@@ -807,8 +807,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A23",
+   "visita": "Sex"
   },
   {
    "pv": 1184470,
@@ -843,8 +843,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P15",
+   "visita": "Qui"
   },
   {
    "pv": 1199955,
@@ -856,7 +856,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "312",
-   "visita": "Seg - Qua"
+   "visita": "Ter"
   },
   {
    "pv": 1210379,
@@ -868,7 +868,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "D11",
-   "visita": "Seg"
+   "visita": "Sab"
   },
   {
    "pv": 1189231,
@@ -880,7 +880,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "321",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1198352,
@@ -892,7 +892,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "114",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1202051,
@@ -915,8 +915,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "S22",
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1111508,
@@ -927,8 +927,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "325",
+   "visita": "Ter"
   },
   {
    "pv": 1163354,
@@ -940,7 +940,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "224",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1047094,
@@ -952,7 +952,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "321",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1066242,
@@ -964,7 +964,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R13",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1114779,
@@ -976,7 +976,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C14",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1210337,
@@ -988,7 +988,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R13",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1213417,
@@ -1000,7 +1000,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R13",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1215210,
@@ -1012,7 +1012,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R13",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1133790,
@@ -1024,7 +1024,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U15",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1077925,
@@ -1036,7 +1036,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "311",
-   "visita": "Qua - Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1088675,
@@ -1048,7 +1048,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S13",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1220044,
@@ -1059,8 +1059,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "226",
+   "visita": "Qui"
   },
   {
    "pv": 1078937,
@@ -1071,8 +1071,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "C23",
+   "visita": "Qua"
   },
   {
    "pv": 1150207,
@@ -1096,7 +1096,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S13",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1087167,
@@ -1108,7 +1108,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "C25",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1197439,
@@ -1119,8 +1119,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "O15",
+   "visita": "Ter"
   },
   {
    "pv": 1107886,
@@ -1132,7 +1132,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U21",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1091514,
@@ -1155,8 +1155,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "U21",
+   "visita": "Qua"
   },
   {
    "pv": 1140686,
@@ -1179,8 +1179,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "314",
+   "visita": "Sex"
   },
   {
    "pv": 1154440,
@@ -1191,8 +1191,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "G24",
+   "visita": "Sab"
   },
   {
    "pv": 1215700,
@@ -1204,7 +1204,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A14",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1159621,
@@ -1215,8 +1215,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O13",
+   "visita": "Qua"
   },
   {
    "pv": 1186444,
@@ -1227,8 +1227,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "P26",
+   "visita": "Qua"
   },
   {
    "pv": 1183355,
@@ -1239,8 +1239,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A15",
+   "visita": "Qua - Sab"
   },
   {
    "pv": 1211188,
@@ -1251,8 +1251,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "A23",
+   "visita": "Qua"
   },
   {
    "pv": 1119895,
@@ -1264,7 +1264,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O11",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1192869,
@@ -1275,8 +1275,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "R21",
+   "visita": "Sab"
   },
   {
    "pv": 1172638,
@@ -1288,7 +1288,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R16",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1202864,
@@ -1299,8 +1299,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "A23",
+   "visita": "Qui"
   },
   {
    "pv": 1220580,
@@ -1312,7 +1312,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R22",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1106436,
@@ -1323,8 +1323,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "G12",
+   "visita": "Ter"
   },
   {
    "pv": 1203307,
@@ -1335,8 +1335,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "O12",
+   "visita": "Ter"
   },
   {
    "pv": 1089651,
@@ -1348,7 +1348,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "521",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1090792,
@@ -1359,8 +1359,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A35",
+   "visita": "Qua"
   },
   {
    "pv": 1208495,
@@ -1372,7 +1372,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O18",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1139631,
@@ -1384,7 +1384,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R26",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1106845,
@@ -1395,8 +1395,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G12",
+   "visita": "Sab"
   },
   {
    "pv": 1186419,
@@ -1407,8 +1407,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "224",
+   "visita": "Qui"
   },
   {
    "pv": 1216245,
@@ -1431,8 +1431,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "314",
+   "visita": "Qua"
   },
   {
    "pv": 1087519,
@@ -1443,8 +1443,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "R11",
+   "visita": "Qua"
   },
   {
    "pv": 1189532,
@@ -1455,8 +1455,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "223",
+   "visita": "Qui"
   },
   {
    "pv": 1132374,
@@ -1468,7 +1468,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "532",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1223880,
@@ -1504,7 +1504,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "116",
-   "visita": "Seg - Qua"
+   "visita": "Ter - Qui"
   },
   {
    "pv": 1173537,
@@ -1515,8 +1515,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "P26",
+   "visita": "Qui"
   },
   {
    "pv": 1208214,
@@ -1528,7 +1528,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U15",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1171240,
@@ -1540,7 +1540,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "521",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1218062,
@@ -1552,7 +1552,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "114",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1102638,
@@ -1563,8 +1563,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "G26",
+   "visita": "Ter"
   },
   {
    "pv": 1130818,
@@ -1576,7 +1576,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "124",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1097362,
@@ -1588,7 +1588,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S13",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1203935,
@@ -1599,8 +1599,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "U15",
+   "visita": "Qua"
   },
   {
    "pv": 1217426,
@@ -1623,8 +1623,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "S12",
+   "visita": "Qua"
   },
   {
    "pv": 1168724,
@@ -1647,8 +1647,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "S21",
+   "visita": "Qua"
   },
   {
    "pv": 1215533,
@@ -1660,7 +1660,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S12",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1204938,
@@ -1672,7 +1672,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S25",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1175453,
@@ -1683,8 +1683,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "113",
+   "visita": "Sex"
   },
   {
    "pv": 1207674,
@@ -1696,7 +1696,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R24",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1114447,
@@ -1720,7 +1720,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "323",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1199941,
@@ -1732,7 +1732,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "122",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1146148,
@@ -1743,8 +1743,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "U22",
+   "visita": "Sab"
   },
   {
    "pv": 1172566,
@@ -1767,8 +1767,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "531",
+   "visita": "Qui"
   },
   {
    "pv": 1100171,
@@ -1779,8 +1779,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "526",
+   "visita": "Qua - Sab"
   },
   {
    "pv": 1198563,
@@ -1791,8 +1791,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "226",
+   "visita": "Ter"
   },
   {
    "pv": 1037023,
@@ -1803,8 +1803,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "222",
+   "visita": "Sex"
   },
   {
    "pv": 1223358,
@@ -1816,7 +1816,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "523",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1185967,
@@ -1828,7 +1828,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "223",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1214601,
@@ -1840,7 +1840,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1222896,
@@ -1852,7 +1852,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1179295,
@@ -1864,7 +1864,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "114",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1219171,
@@ -1875,8 +1875,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "S15",
+   "visita": "Qui"
   },
   {
    "pv": 1218636,
@@ -1888,7 +1888,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A27",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1209853,
@@ -1899,8 +1899,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R21",
+   "visita": "Qua"
   },
   {
    "pv": 1175639,
@@ -1912,7 +1912,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C16",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1214143,
@@ -1923,8 +1923,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "311",
+   "visita": "Ter"
   },
   {
    "pv": 1183191,
@@ -1936,7 +1936,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A13",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1158008,
@@ -1947,8 +1947,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "116",
+   "visita": "Sab"
   },
   {
    "pv": 1062656,
@@ -1959,8 +1959,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "226",
+   "visita": "Ter"
   },
   {
    "pv": 1179605,
@@ -1971,8 +1971,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R24",
+   "visita": "Qua"
   },
   {
    "pv": 1134350,
@@ -1996,7 +1996,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M26",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1216522,
@@ -2008,7 +2008,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S23",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1222567,
@@ -2019,8 +2019,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "314",
+   "visita": "Qua"
   },
   {
    "pv": 1140354,
@@ -2031,8 +2031,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S23",
+   "visita": "Sab"
   },
   {
    "pv": 1172212,
@@ -2044,7 +2044,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "533",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1104652,
@@ -2056,7 +2056,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A15",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1214963,
@@ -2068,7 +2068,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "113",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1178921,
@@ -2079,8 +2079,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "124",
+   "visita": "Qui"
   },
   {
    "pv": 1161409,
@@ -2092,7 +2092,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A21",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1197616,
@@ -2104,7 +2104,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C23",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1124308,
@@ -2115,8 +2115,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O12",
+   "visita": "Sab"
   },
   {
    "pv": 1150494,
@@ -2128,7 +2128,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U21",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1086267,
@@ -2139,8 +2139,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R22",
+   "visita": "Sab"
   },
   {
    "pv": 1135044,
@@ -2151,8 +2151,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U21",
+   "visita": "Qui"
   },
   {
    "pv": 1090759,
@@ -2163,8 +2163,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "131",
+   "visita": "Qua"
   },
   {
    "pv": 1179134,
@@ -2176,7 +2176,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "324",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1163701,
@@ -2199,8 +2199,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I25",
+   "visita": "Qui"
   },
   {
    "pv": 1198721,
@@ -2235,8 +2235,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "D14",
+   "visita": "Sab"
   },
   {
    "pv": 1057027,
@@ -2247,8 +2247,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "315",
+   "visita": "Sab"
   },
   {
    "pv": 1159741,
@@ -2259,8 +2259,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "537",
+   "visita": "Sex"
   },
   {
    "pv": 1048474,
@@ -2271,8 +2271,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "S11",
+   "visita": "Sab"
   },
   {
    "pv": 1052839,
@@ -2283,8 +2283,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "C13",
+   "visita": "Qui"
   },
   {
    "pv": 1088069,
@@ -2295,8 +2295,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "314",
+   "visita": "Qui"
   },
   {
    "pv": 1117857,
@@ -2308,7 +2308,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C27",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1085382,
@@ -2319,8 +2319,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I14",
+   "visita": "Ter - Qui"
   },
   {
    "pv": 1080335,
@@ -2331,8 +2331,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O12",
+   "visita": "Qui"
   },
   {
    "pv": 1153864,
@@ -2355,8 +2355,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "522",
+   "visita": "Ter"
   },
   {
    "pv": 1022187,
@@ -2368,7 +2368,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S13",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1005720,
@@ -2380,7 +2380,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S25",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1199155,
@@ -2403,8 +2403,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "P26",
+   "visita": "Qui"
   },
   {
    "pv": 1125141,
@@ -2415,8 +2415,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "O15",
+   "visita": "Qua"
   },
   {
    "pv": 1103390,
@@ -2428,7 +2428,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U25",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1200384,
@@ -2440,7 +2440,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A33",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1205992,
@@ -2452,7 +2452,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "315",
-   "visita": "Seg - Qua"
+   "visita": "Ter"
   },
   {
    "pv": 1205797,
@@ -2463,8 +2463,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "M25",
+   "visita": "Sex"
   },
   {
    "pv": 1164537,
@@ -2475,8 +2475,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S24",
+   "visita": "Ter"
   },
   {
    "pv": 1215632,
@@ -2487,8 +2487,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U21",
+   "visita": "Ter"
   },
   {
    "pv": 1167866,
@@ -2499,8 +2499,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M25",
+   "visita": "Qui"
   },
   {
    "pv": 1134530,
@@ -2512,7 +2512,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S25",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1205235,
@@ -2523,8 +2523,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "A22",
+   "visita": "Sex"
   },
   {
    "pv": 1182788,
@@ -2535,8 +2535,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "223",
+   "visita": "Ter"
   },
   {
    "pv": 1217712,
@@ -2548,7 +2548,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "311",
-   "visita": "Qua - Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1167951,
@@ -2559,8 +2559,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R15",
+   "visita": "Qua"
   },
   {
    "pv": 1214784,
@@ -2572,7 +2572,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1143727,
@@ -2584,7 +2584,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A25",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1179741,
@@ -2595,8 +2595,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "G25",
+   "visita": "Sex"
   },
   {
    "pv": 1221438,
@@ -2607,8 +2607,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "A16",
+   "visita": "Qua"
   },
   {
    "pv": 1180791,
@@ -2631,8 +2631,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "A14",
+   "visita": "Ter"
   },
   {
    "pv": 1126394,
@@ -2643,8 +2643,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "523",
+   "visita": "Qua"
   },
   {
    "pv": 1218711,
@@ -2655,8 +2655,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "A15",
+   "visita": "Sab"
   },
   {
    "pv": 1051222,
@@ -2668,7 +2668,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U12",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1145835,
@@ -2680,7 +2680,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S25",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1218804,
@@ -2692,7 +2692,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O14",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1021442,
@@ -2703,8 +2703,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "U22",
+   "visita": "Ter - Qui"
   },
   {
    "pv": 1156871,
@@ -2715,8 +2715,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "C21",
+   "visita": "Qui"
   },
   {
    "pv": 1110664,
@@ -2727,8 +2727,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G11",
+   "visita": "Ter"
   },
   {
    "pv": 1190803,
@@ -2740,7 +2740,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C22",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1163495,
@@ -2751,8 +2751,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "A21",
+   "visita": "Qua"
   },
   {
    "pv": 1133776,
@@ -2764,7 +2764,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A27",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1086420,
@@ -2776,7 +2776,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A32",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1148370,
@@ -2787,8 +2787,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "M23",
+   "visita": "Ter"
   },
   {
    "pv": 1185609,
@@ -2799,8 +2799,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R22",
+   "visita": "Sex"
   },
   {
    "pv": 1050576,
@@ -2812,7 +2812,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U22",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1151559,
@@ -2824,7 +2824,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "224",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1216861,
@@ -2836,7 +2836,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O18",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1176716,
@@ -2847,8 +2847,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R25",
+   "visita": "Qua"
   },
   {
    "pv": 1075739,
@@ -2859,8 +2859,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "531",
+   "visita": "Sex"
   },
   {
    "pv": 1114876,
@@ -2872,7 +2872,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "116",
-   "visita": "Ter - Sex"
+   "visita": "Qua - Sab"
   },
   {
    "pv": 1121193,
@@ -2895,8 +2895,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "P26",
+   "visita": "Qua"
   },
   {
    "pv": 1118334,
@@ -2908,7 +2908,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S25",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1174954,
@@ -2919,8 +2919,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S25",
+   "visita": "Qua"
   },
   {
    "pv": 1181134,
@@ -2955,8 +2955,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P34",
+   "visita": "Ter"
   },
   {
    "pv": 1053124,
@@ -2967,8 +2967,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S22",
+   "visita": "Qua"
   },
   {
    "pv": 1035509,
@@ -2979,8 +2979,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "322",
+   "visita": "Sab"
   },
   {
    "pv": 1166173,
@@ -2991,8 +2991,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "221",
+   "visita": "Ter"
   },
   {
    "pv": 1184028,
@@ -3003,8 +3003,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "525",
+   "visita": "Qui"
   },
   {
    "pv": 1180956,
@@ -3015,8 +3015,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A16",
+   "visita": "Sab"
   },
   {
    "pv": 1119713,
@@ -3027,8 +3027,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "532",
+   "visita": "Ter"
   },
   {
    "pv": 1174853,
@@ -3039,8 +3039,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "227",
+   "visita": "Qua"
   },
   {
    "pv": 1135458,
@@ -3063,8 +3063,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "D14",
+   "visita": "Sab"
   },
   {
    "pv": 1094332,
@@ -3076,7 +3076,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "226",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1051464,
@@ -3087,8 +3087,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "U15",
+   "visita": "Qua"
   },
   {
    "pv": 1209847,
@@ -3099,8 +3099,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "D11",
+   "visita": "Qui"
   },
   {
    "pv": 1172873,
@@ -3111,8 +3111,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A24",
+   "visita": "Qua"
   },
   {
    "pv": 1052220,
@@ -3124,7 +3124,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U21",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1114461,
@@ -3135,8 +3135,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C27",
+   "visita": "Ter"
   },
   {
    "pv": 1019485,
@@ -3147,8 +3147,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I22",
+   "visita": "Ter"
   },
   {
    "pv": 1025833,
@@ -3171,8 +3171,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "P12",
+   "visita": "Sex"
   },
   {
    "pv": 1173044,
@@ -3183,8 +3183,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "M25",
+   "visita": "Sex"
   },
   {
    "pv": 1035844,
@@ -3195,8 +3195,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "312",
+   "visita": "Ter"
   },
   {
    "pv": 1011189,
@@ -3208,7 +3208,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O12",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1111298,
@@ -3219,8 +3219,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "124",
+   "visita": "Qua"
   },
   {
    "pv": 1096304,
@@ -3231,8 +3231,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "221",
+   "visita": "Ter"
   },
   {
    "pv": 1091672,
@@ -3243,8 +3243,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G17",
+   "visita": "Ter"
   },
   {
    "pv": 1089466,
@@ -3255,8 +3255,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "C13",
+   "visita": "Qui"
   },
   {
    "pv": 1072442,
@@ -3267,8 +3267,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "312",
+   "visita": "Sex"
   },
   {
    "pv": 1088273,
@@ -3279,8 +3279,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "125",
+   "visita": "Sab"
   },
   {
    "pv": 1033474,
@@ -3291,8 +3291,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "225",
+   "visita": "Ter"
   },
   {
    "pv": 1088809,
@@ -3304,7 +3304,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "223",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1138321,
@@ -3315,8 +3315,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "321",
+   "visita": "Sab"
   },
   {
    "pv": 1067258,
@@ -3328,7 +3328,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O12",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1080633,
@@ -3339,8 +3339,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U13",
+   "visita": "Sex"
   },
   {
    "pv": 1119989,
@@ -3351,8 +3351,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C24",
+   "visita": "Qua"
   },
   {
    "pv": 1111310,
@@ -3387,8 +3387,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "O17",
+   "visita": "Sex"
   },
   {
    "pv": 1033664,
@@ -3400,7 +3400,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "314",
-   "visita": "Seg - Qua"
+   "visita": "Ter"
   },
   {
    "pv": 1076367,
@@ -3412,7 +3412,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "217",
-   "visita": "Ter - Sex"
+   "visita": "Qua - Sab"
   },
   {
    "pv": 1167729,
@@ -3423,8 +3423,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S24",
+   "visita": "Ter"
   },
   {
    "pv": 1112703,
@@ -3447,8 +3447,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "221",
+   "visita": "Ter"
   },
   {
    "pv": 1107883,
@@ -3471,8 +3471,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "536",
+   "visita": "Ter"
   },
   {
    "pv": 1152685,
@@ -3495,8 +3495,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "O13",
+   "visita": "Qua"
   },
   {
    "pv": 1207961,
@@ -3507,8 +3507,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A22",
+   "visita": "Qui"
   },
   {
    "pv": 1208784,
@@ -3519,8 +3519,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "123",
+   "visita": "Sab"
   },
   {
    "pv": 1122073,
@@ -3544,7 +3544,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M12",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Qui"
   },
   {
    "pv": 1218286,
@@ -3556,7 +3556,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M12",
-   "visita": "Seg - Qui"
+   "visita": "Qui"
   },
   {
    "pv": 1214543,
@@ -3567,8 +3567,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "115",
+   "visita": "Ter"
   },
   {
    "pv": 1123204,
@@ -3579,8 +3579,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "521",
+   "visita": "Ter"
   },
   {
    "pv": 1134130,
@@ -3591,8 +3591,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "314",
+   "visita": "Sex"
   },
   {
    "pv": 1186761,
@@ -3604,7 +3604,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "225",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1202790,
@@ -3616,7 +3616,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C23",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1223492,
@@ -3627,8 +3627,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C21",
+   "visita": "Qua"
   },
   {
    "pv": 1155136,
@@ -3639,8 +3639,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "P26",
+   "visita": "Ter"
   },
   {
    "pv": 1204291,
@@ -3664,7 +3664,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "213",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1136181,
@@ -3675,8 +3675,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "523",
+   "visita": "Qua"
   },
   {
    "pv": 1162053,
@@ -3687,8 +3687,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C23",
+   "visita": "Ter"
   },
   {
    "pv": 1183386,
@@ -3711,8 +3711,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "536",
+   "visita": "Sab"
   },
   {
    "pv": 1096814,
@@ -3723,8 +3723,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A27",
+   "visita": "Qua"
   },
   {
    "pv": 1077009,
@@ -3735,8 +3735,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A23",
+   "visita": "Ter"
   },
   {
    "pv": 1162889,
@@ -3748,7 +3748,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "524",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1152773,
@@ -3759,8 +3759,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C22",
+   "visita": "Ter"
   },
   {
    "pv": 1215327,
@@ -3795,8 +3795,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "227",
+   "visita": "Ter"
   },
   {
    "pv": 1118535,
@@ -3819,8 +3819,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "A22",
+   "visita": "Sex"
   },
   {
    "pv": 1092604,
@@ -3844,7 +3844,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A27",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1026097,
@@ -3856,7 +3856,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A27",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1160543,
@@ -3867,8 +3867,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "G24",
+   "visita": "Sab"
   },
   {
    "pv": 1087846,
@@ -3880,7 +3880,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "124",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1162025,
@@ -3891,8 +3891,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "127",
+   "visita": "Ter"
   },
   {
    "pv": 1189621,
@@ -3903,8 +3903,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "U24",
+   "visita": "Sex"
   },
   {
    "pv": 1220417,
@@ -3928,7 +3928,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U12",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1216827,
@@ -3940,7 +3940,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C12",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1067663,
@@ -3951,8 +3951,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "O17",
+   "visita": "Ter"
   },
   {
    "pv": 1031463,
@@ -3964,7 +3964,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "314",
-   "visita": "Seg - Qua"
+   "visita": "Ter"
   },
   {
    "pv": 1186423,
@@ -4000,7 +4000,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "321",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1199871,
@@ -4011,8 +4011,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "U21",
+   "visita": "Sex"
   },
   {
    "pv": 1187481,
@@ -4024,7 +4024,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C27",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1209786,
@@ -4035,8 +4035,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "A22",
+   "visita": "Qui"
   },
   {
    "pv": 1221542,
@@ -4047,8 +4047,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "124",
+   "visita": "Ter"
   },
   {
    "pv": 1212168,
@@ -4060,7 +4060,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O11",
-   "visita": "Ter - Qui"
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1222622,
@@ -4096,7 +4096,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R25",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1151206,
@@ -4107,8 +4107,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "227",
+   "visita": "Qua"
   },
   {
    "pv": 1052147,
@@ -4120,7 +4120,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S13",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1084553,
@@ -4131,8 +4131,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "A32",
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1086575,
@@ -4143,8 +4143,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A15",
+   "visita": "Sab"
   },
   {
    "pv": 1083697,
@@ -4155,8 +4155,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P26",
+   "visita": "Qui"
   },
   {
    "pv": 1123002,
@@ -4179,8 +4179,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "C22",
+   "visita": "Ter"
   },
   {
    "pv": 1218674,
@@ -4191,8 +4191,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C25",
+   "visita": "Qua"
   },
   {
    "pv": 1223480,
@@ -4203,8 +4203,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G17",
+   "visita": "Sab"
   },
   {
    "pv": 1161113,
@@ -4215,8 +4215,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "G15",
+   "visita": "Ter"
   },
   {
    "pv": 1194036,
@@ -4228,7 +4228,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "323",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1224462,
@@ -4240,7 +4240,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "U13",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1131875,
@@ -4252,7 +4252,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "226",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1034483,
@@ -4263,8 +4263,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "325",
+   "visita": "Sex"
   },
   {
    "pv": 1213164,
@@ -4276,7 +4276,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C14",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1205414,
@@ -4288,7 +4288,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "114",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1216989,
@@ -4312,7 +4312,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S24",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1165771,
@@ -4323,8 +4323,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "512",
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1034188,
@@ -4336,7 +4336,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "316",
-   "visita": "Seg - Qua"
+   "visita": "Ter"
   },
   {
    "pv": 1092130,
@@ -4360,7 +4360,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U15",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1141945,
@@ -4384,7 +4384,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "528",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1091564,
@@ -4407,8 +4407,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "D14",
+   "visita": "Sab"
   },
   {
    "pv": 1053538,
@@ -4419,8 +4419,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O15",
+   "visita": "Qui"
   },
   {
    "pv": 1116822,
@@ -4444,7 +4444,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "115",
-   "visita": "Seg - Qua"
+   "visita": "Ter - Qui"
   },
   {
    "pv": 1093126,
@@ -4456,7 +4456,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "217",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1215554,
@@ -4467,8 +4467,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "133",
+   "visita": "Qui"
   },
   {
    "pv": 1220378,
@@ -4479,8 +4479,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "133",
+   "visita": "Sex"
   },
   {
    "pv": 1039283,
@@ -4491,8 +4491,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A15",
+   "visita": "Qui"
   },
   {
    "pv": 1015736,
@@ -4516,7 +4516,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A14",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1208209,
@@ -4528,7 +4528,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A34",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1067899,
@@ -4539,8 +4539,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A24",
+   "visita": "Qui"
   },
   {
    "pv": 1037793,
@@ -4551,8 +4551,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "225",
+   "visita": "Sex"
   },
   {
    "pv": 1181635,
@@ -4563,8 +4563,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "217",
+   "visita": "Ter"
   },
   {
    "pv": 1224965,
@@ -4576,7 +4576,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "527",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1129274,
@@ -4588,7 +4588,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S14",
-   "visita": "Ter - Qui"
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1035236,
@@ -4599,8 +4599,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "511",
+   "visita": "Qua"
   },
   {
    "pv": 1121834,
@@ -4612,7 +4612,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M13",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1212209,
@@ -4624,7 +4624,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "113",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1180894,
@@ -4636,7 +4636,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "113",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1144027,
@@ -4647,8 +4647,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "131",
+   "visita": "Sex"
   },
   {
    "pv": 1216132,
@@ -4659,8 +4659,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "511",
+   "visita": "Sex"
   },
   {
    "pv": 1171521,
@@ -4671,8 +4671,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "S21",
+   "visita": "Ter"
   },
   {
    "pv": 1224761,
@@ -4683,8 +4683,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "531",
+   "visita": "Qua"
   },
   {
    "pv": 1072800,
@@ -4695,8 +4695,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "P26",
+   "visita": "Ter"
   },
   {
    "pv": 1206912,
@@ -4708,7 +4708,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1057374,
@@ -4720,7 +4720,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "222",
-   "visita": "Ter - Qui"
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1032167,
@@ -4732,7 +4732,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "526",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1210244,
@@ -4744,7 +4744,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C23",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1199285,
@@ -4755,8 +4755,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "513",
+   "visita": "Qui"
   },
   {
    "pv": 1201571,
@@ -4768,7 +4768,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "112",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1073844,
@@ -4780,7 +4780,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "115",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1055711,
@@ -4803,8 +4803,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I14",
+   "visita": "Qui"
   },
   {
    "pv": 1206134,
@@ -4815,8 +4815,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "115",
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1061981,
@@ -4827,8 +4827,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "512",
+   "visita": "Qua - Sab"
   },
   {
    "pv": 1054869,
@@ -4839,8 +4839,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C12",
+   "visita": "Qua"
   },
   {
    "pv": 1025971,
@@ -4851,8 +4851,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A22",
+   "visita": "Qui"
   },
   {
    "pv": 1189102,
@@ -4864,7 +4864,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1020820,
@@ -4876,7 +4876,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I22",
-   "visita": "Seg"
+   "visita": "Qua"
   },
   {
    "pv": 1078247,
@@ -4887,8 +4887,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R25",
+   "visita": "Qua"
   },
   {
    "pv": 1208662,
@@ -4900,7 +4900,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "125",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1094158,
@@ -4923,8 +4923,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "131",
+   "visita": "Qui"
   },
   {
    "pv": 1177377,
@@ -4936,7 +4936,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "216",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1216728,
@@ -4960,7 +4960,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "113",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1092521,
@@ -4984,7 +4984,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O17",
-   "visita": "Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1138184,
@@ -4995,8 +4995,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O16",
+   "visita": "Ter"
   },
   {
    "pv": 1205836,
@@ -5008,7 +5008,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A23",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1216794,
@@ -5019,8 +5019,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "I22",
+   "visita": "Qui"
   },
   {
    "pv": 1216428,
@@ -5031,8 +5031,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "A22",
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1126271,
@@ -5044,7 +5044,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "115",
-   "visita": "Seg - Qua"
+   "visita": "Ter - Qui"
   },
   {
    "pv": 1195106,
@@ -5055,8 +5055,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "P25",
+   "visita": "Ter"
   },
   {
    "pv": 1204879,
@@ -5067,8 +5067,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "131",
+   "visita": "Ter"
   },
   {
    "pv": 1219435,
@@ -5079,8 +5079,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "512",
+   "visita": "Qua"
   },
   {
    "pv": 1124134,
@@ -5091,8 +5091,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "513",
+   "visita": "Qui"
   },
   {
    "pv": 1190632,
@@ -5116,7 +5116,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "324",
-   "visita": "Ter - Sex"
+   "visita": "Qua - Sab"
   },
   {
    "pv": 1210278,
@@ -5139,8 +5139,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R21",
+   "visita": "Ter"
   },
   {
    "pv": 1148701,
@@ -5151,8 +5151,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A25",
+   "visita": "Sab"
   },
   {
    "pv": 1217181,
@@ -5163,8 +5163,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "P24",
+   "visita": "Ter"
   },
   {
    "pv": 1215452,
@@ -5176,7 +5176,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R14",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1157774,
@@ -5187,8 +5187,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "G26",
+   "visita": "Sab"
   },
   {
    "pv": 1173773,
@@ -5199,8 +5199,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "G16",
+   "visita": "Sex"
   },
   {
    "pv": 1215214,
@@ -5211,8 +5211,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "R21",
+   "visita": "Qui"
   },
   {
    "pv": 1199461,
@@ -5223,8 +5223,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "513",
+   "visita": "Qua - Sab"
   },
   {
    "pv": 1134777,
@@ -5236,7 +5236,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A13",
-   "visita": "Seg"
+   "visita": "Ter"
   },
   {
    "pv": 1148731,
@@ -5247,8 +5247,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U22",
+   "visita": "Sex"
   },
   {
    "pv": 1036176,
@@ -5260,7 +5260,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "524",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1020971,
@@ -5272,7 +5272,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C16",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1032873,
@@ -5283,8 +5283,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "511",
+   "visita": "Qui"
   },
   {
    "pv": 1027145,
@@ -5296,7 +5296,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R23",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1215809,
@@ -5308,7 +5308,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "114",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1139337,
@@ -5320,7 +5320,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C16",
-   "visita": "Qua"
+   "visita": "Qui"
   },
   {
    "pv": 1195989,
@@ -5343,8 +5343,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "112",
+   "visita": "Sex"
   },
   {
    "pv": 1169298,
@@ -5355,8 +5355,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "511",
+   "visita": "Ter"
   },
   {
    "pv": 1194026,
@@ -5379,8 +5379,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "513",
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1201905,
@@ -5392,7 +5392,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "221",
-   "visita": "Qua - Sex"
+   "visita": "Qui - Sab"
   },
   {
    "pv": 1172112,
@@ -5403,8 +5403,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "515",
+   "visita": "Ter"
   },
   {
    "pv": 1223941,
@@ -5415,8 +5415,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "U13",
+   "visita": "Ter"
   },
   {
    "pv": 1152223,
@@ -5427,8 +5427,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "P27",
+   "visita": "Qua"
   },
   {
    "pv": 1203870,
@@ -5439,8 +5439,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "P12",
+   "visita": "Ter"
   },
   {
    "pv": 1219481,
@@ -5451,8 +5451,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "512",
+   "visita": "Qua"
   },
   {
    "pv": 1103154,
@@ -5463,8 +5463,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "124",
+   "visita": "Sab"
   },
   {
    "pv": 1182341,
@@ -5476,7 +5476,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "522",
-   "visita": "Ter"
+   "visita": "Qua"
   },
   {
    "pv": 1216485,
@@ -5488,7 +5488,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "531",
-   "visita": "Seg - Qui"
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1160720,
@@ -5500,7 +5500,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R12",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1156884,
@@ -5512,7 +5512,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "537",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1164781,
@@ -5523,8 +5523,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "C14",
+   "visita": "Ter"
   },
   {
    "pv": 1075190,
@@ -5547,8 +5547,8 @@
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
-   "rota": "",
-   "visita": ""
+   "rota": "225",
+   "visita": "Sab"
   },
   {
    "pv": 1002704,
@@ -5560,7 +5560,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "316",
-   "visita": "Qua - Sex"
+   "visita": "Sab"
   },
   {
    "pv": 1189067,
@@ -5572,7 +5572,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A34",
-   "visita": "Qui"
+   "visita": "Sex"
   },
   {
    "pv": 1200464,
@@ -5583,8 +5583,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G22",
+   "visita": "Qua"
   },
   {
    "pv": 1204126,
@@ -5595,8 +5595,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P27",
+   "visita": "Qua"
   },
   {
    "pv": 1048304,
@@ -5607,8 +5607,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A24",
+   "visita": "Qui"
   },
   {
    "pv": 1138623,
@@ -5619,8 +5619,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S24",
+   "visita": "Ter"
   },
   {
    "pv": 1067806,
@@ -5631,8 +5631,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "535",
+   "visita": "Ter"
   },
   {
    "pv": 1110447,
@@ -5643,8 +5643,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "528",
+   "visita": "Sex"
   },
   {
    "pv": 1197535,
@@ -5655,8 +5655,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P23",
+   "visita": "Qua"
   },
   {
    "pv": 1214475,
@@ -5667,8 +5667,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G23",
+   "visita": "Sab"
   },
   {
    "pv": 1039645,
@@ -5679,8 +5679,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A15",
+   "visita": "Qua"
   },
   {
    "pv": 1210741,
@@ -5691,8 +5691,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S24",
+   "visita": "Sab"
   },
   {
    "pv": 1015264,
@@ -5703,8 +5703,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G26",
+   "visita": "Sab"
   },
   {
    "pv": 1023606,
@@ -5715,8 +5715,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P24",
+   "visita": "Qua"
   },
   {
    "pv": 1123338,
@@ -5727,8 +5727,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S24",
+   "visita": "Ter"
   },
   {
    "pv": 1217478,
@@ -5739,8 +5739,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C21",
+   "visita": "Sab"
   },
   {
    "pv": 1188825,
@@ -5751,8 +5751,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C27",
+   "visita": "Sab"
   },
   {
    "pv": 1218952,
@@ -5763,8 +5763,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C23",
+   "visita": "Sex"
   },
   {
    "pv": 1180352,
@@ -5775,8 +5775,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C27",
+   "visita": "Sab"
   },
   {
    "pv": 1143716,
@@ -5787,8 +5787,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "525",
+   "visita": "Ter"
   },
   {
    "pv": 1050502,
@@ -5799,8 +5799,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O16",
+   "visita": "Qua"
   },
   {
    "pv": 1084899,
@@ -5811,8 +5811,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "321",
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1006928,
@@ -5823,8 +5823,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O15",
+   "visita": "Qui"
   },
   {
    "pv": 1182208,
@@ -5835,8 +5835,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "114",
+   "visita": "Sab"
   },
   {
    "pv": 1211921,
@@ -5859,8 +5859,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "525",
+   "visita": "Sab"
   },
   {
    "pv": 1138640,
@@ -5871,8 +5871,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "123",
+   "visita": "Sab"
   },
   {
    "pv": 1213345,
@@ -5883,8 +5883,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "212",
+   "visita": "Qui"
   },
   {
    "pv": 1201499,
@@ -5895,8 +5895,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U14",
+   "visita": "Sab"
   },
   {
    "pv": 1121708,
@@ -5907,8 +5907,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M26",
+   "visita": "Ter"
   },
   {
    "pv": 1210857,
@@ -5919,8 +5919,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "523",
+   "visita": "Sab"
   },
   {
    "pv": 1161716,
@@ -5931,8 +5931,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "212",
+   "visita": "Qui"
   },
   {
    "pv": 1109351,
@@ -5943,8 +5943,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O17",
+   "visita": "Qui"
   },
   {
    "pv": 1080079,
@@ -5955,8 +5955,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "212",
+   "visita": "Sab"
   },
   {
    "pv": 1121994,
@@ -5967,8 +5967,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M26",
+   "visita": "Sex"
   },
   {
    "pv": 1218525,
@@ -5979,8 +5979,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P27",
+   "visita": "Qua"
   },
   {
    "pv": 1191228,
@@ -5991,8 +5991,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "121",
+   "visita": "Qui"
   },
   {
    "pv": 1140947,
@@ -6003,8 +6003,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "116",
+   "visita": "Qua"
   },
   {
    "pv": 1095668,
@@ -6015,8 +6015,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I22",
+   "visita": "Qui"
   },
   {
    "pv": 1201436,
@@ -6027,8 +6027,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P14",
+   "visita": "Sex"
   },
   {
    "pv": 1097635,
@@ -6039,8 +6039,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U12",
+   "visita": "Qui"
   },
   {
    "pv": 1188342,
@@ -6051,8 +6051,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P14",
+   "visita": "Sex"
   },
   {
    "pv": 1011053,
@@ -6063,8 +6063,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G13",
+   "visita": "Qua"
   },
   {
    "pv": 1190053,
@@ -6075,8 +6075,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I13",
+   "visita": "Ter"
   },
   {
    "pv": 1195612,
@@ -6087,8 +6087,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A16",
+   "visita": "Ter"
   },
   {
    "pv": 1176544,
@@ -6099,8 +6099,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U22",
+   "visita": "Qui"
   },
   {
    "pv": 1078642,
@@ -6111,8 +6111,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P15",
+   "visita": "Sex"
   },
   {
    "pv": 1175993,
@@ -6123,8 +6123,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P34",
+   "visita": "Qui"
   },
   {
    "pv": 1123150,
@@ -6135,8 +6135,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M12",
+   "visita": "Ter"
   },
   {
    "pv": 1188779,
@@ -6147,8 +6147,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "D11",
+   "visita": "Qui"
   },
   {
    "pv": 1052971,
@@ -6159,8 +6159,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U21",
+   "visita": "Ter"
   },
   {
    "pv": 1219977,
@@ -6171,8 +6171,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A34",
+   "visita": "Qui"
   },
   {
    "pv": 1027194,
@@ -6183,8 +6183,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A13",
+   "visita": "Sab"
   },
   {
    "pv": 1193157,
@@ -6195,8 +6195,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A26",
+   "visita": "Ter"
   },
   {
    "pv": 1192320,
@@ -6207,8 +6207,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O13",
+   "visita": "Ter"
   },
   {
    "pv": 1134301,
@@ -6219,8 +6219,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I22",
+   "visita": "Ter"
   },
   {
    "pv": 1115882,
@@ -6231,8 +6231,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P25",
+   "visita": "Qua"
   },
   {
    "pv": 1213197,
@@ -6243,8 +6243,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "311",
+   "visita": "Sab"
   },
   {
    "pv": 1206934,
@@ -6255,8 +6255,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A15",
+   "visita": "Qua"
   },
   {
    "pv": 1123978,
@@ -6267,8 +6267,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "D15",
+   "visita": "Sab"
   },
   {
    "pv": 1135019,
@@ -6279,8 +6279,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P34",
+   "visita": "Qui"
   },
   {
    "pv": 1090189,
@@ -6291,8 +6291,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O12",
+   "visita": "Qua"
   },
   {
    "pv": 1120439,
@@ -6303,8 +6303,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "R15",
+   "visita": "Sex"
   },
   {
    "pv": 1164586,
@@ -6315,8 +6315,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A16",
+   "visita": "Sab"
   },
   {
    "pv": 1162947,
@@ -6327,8 +6327,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "R22",
+   "visita": "Sab"
   },
   {
    "pv": 1121525,
@@ -6339,8 +6339,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M15",
+   "visita": "Sex"
   },
   {
    "pv": 1160038,
@@ -6351,8 +6351,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O18",
+   "visita": "Qui"
   },
   {
    "pv": 1218961,
@@ -6363,8 +6363,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "115",
+   "visita": "Sab"
   },
   {
    "pv": 1216063,
@@ -6375,8 +6375,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P32",
+   "visita": "Qui"
   },
   {
    "pv": 1149602,
@@ -6387,8 +6387,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "313",
+   "visita": "Qua"
   },
   {
    "pv": 1188693,
@@ -6399,8 +6399,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I25",
+   "visita": "Ter"
   },
   {
    "pv": 1183998,
@@ -6411,8 +6411,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I21",
+   "visita": "Ter"
   },
   {
    "pv": 1172287,
@@ -6423,8 +6423,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G23",
+   "visita": "Qui"
   },
   {
    "pv": 1213021,
@@ -6435,8 +6435,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S11",
+   "visita": "Qui"
   },
   {
    "pv": 1224819,
@@ -6447,8 +6447,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C26",
+   "visita": "Sex"
   },
   {
    "pv": 1113195,
@@ -6459,8 +6459,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "522",
+   "visita": "Qui"
   },
   {
    "pv": 1125884,
@@ -6471,8 +6471,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P26",
+   "visita": "Qua"
   },
   {
    "pv": 1172666,
@@ -6483,8 +6483,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A21",
+   "visita": "Qua"
   },
   {
    "pv": 1154297,
@@ -6495,8 +6495,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "214",
+   "visita": "Sab"
   },
   {
    "pv": 1074841,
@@ -6507,8 +6507,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "523",
+   "visita": "Sab"
   },
   {
    "pv": 1138941,
@@ -6519,8 +6519,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I16",
+   "visita": "Ter"
   },
   {
    "pv": 1172602,
@@ -6531,8 +6531,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "534",
+   "visita": "Qua"
   },
   {
    "pv": 1100982,
@@ -6543,8 +6543,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A34",
+   "visita": "Qua"
   },
   {
    "pv": 1195399,
@@ -6555,8 +6555,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U14",
+   "visita": "Qui"
   },
   {
    "pv": 1173542,
@@ -6567,8 +6567,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U14",
+   "visita": "Sex"
   },
   {
    "pv": 1115495,
@@ -6579,8 +6579,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "224",
+   "visita": "Qua"
   },
   {
    "pv": 1203914,
@@ -6591,8 +6591,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "325",
+   "visita": "Qui"
   },
   {
    "pv": 1068875,
@@ -6603,8 +6603,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A37",
+   "visita": "Qua"
   },
   {
    "pv": 1208904,
@@ -6615,8 +6615,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A14",
+   "visita": "Qua"
   },
   {
    "pv": 1149802,
@@ -6627,8 +6627,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M26",
+   "visita": "Qui"
   },
   {
    "pv": 1214149,
@@ -6639,8 +6639,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "527",
+   "visita": "Sab"
   },
   {
    "pv": 1179798,
@@ -6651,8 +6651,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G22",
+   "visita": "Ter"
   },
   {
    "pv": 1140545,
@@ -6663,8 +6663,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A36",
+   "visita": "Sab"
   },
   {
    "pv": 1220517,
@@ -6675,8 +6675,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P15",
+   "visita": "Qua"
   },
   {
    "pv": 1217453,
@@ -6687,8 +6687,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "316",
+   "visita": "Sab"
   },
   {
    "pv": 1193898,
@@ -6699,8 +6699,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "323",
+   "visita": "Qui"
   },
   {
    "pv": 1182484,
@@ -6711,8 +6711,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M15",
+   "visita": "Ter"
   },
   {
    "pv": 1210416,
@@ -6723,8 +6723,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "222",
+   "visita": "Qui"
   },
   {
    "pv": 1216964,
@@ -6735,8 +6735,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S12",
+   "visita": "Ter"
   },
   {
    "pv": 1179736,
@@ -6747,8 +6747,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I12",
+   "visita": "Ter"
   },
   {
    "pv": 1148541,
@@ -6759,8 +6759,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I22",
+   "visita": "Qua"
   },
   {
    "pv": 1200765,
@@ -6771,8 +6771,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A14",
+   "visita": "Qua"
   },
   {
    "pv": 1166108,
@@ -6783,8 +6783,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "122",
+   "visita": "Qua"
   },
   {
    "pv": 1142666,
@@ -6795,8 +6795,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "216",
+   "visita": "Sab"
   },
   {
    "pv": 1167596,
@@ -6807,8 +6807,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U15",
+   "visita": "Ter"
   },
   {
    "pv": 1212938,
@@ -6819,8 +6819,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G17",
+   "visita": "Qui"
   },
   {
    "pv": 1156600,
@@ -6831,8 +6831,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "127",
+   "visita": "Qui"
   },
   {
    "pv": 1143173,
@@ -6843,8 +6843,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "216",
+   "visita": "Qui"
   },
   {
    "pv": 1219397,
@@ -6855,8 +6855,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C11",
+   "visita": "Ter"
   },
   {
    "pv": 1174337,
@@ -6867,8 +6867,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C21",
+   "visita": "Ter"
   },
   {
    "pv": 1152577,
@@ -6879,8 +6879,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "214",
+   "visita": "Qua"
   },
   {
    "pv": 1191648,
@@ -6891,8 +6891,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G15",
+   "visita": "Ter"
   },
   {
    "pv": 1212804,
@@ -6903,8 +6903,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M21",
+   "visita": "Qua"
   },
   {
    "pv": 1148737,
@@ -6915,8 +6915,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O12",
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1034392,
@@ -6927,8 +6927,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A35",
+   "visita": "Ter"
   },
   {
    "pv": 1013713,
@@ -6939,8 +6939,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P25",
+   "visita": "Qua"
   },
   {
    "pv": 1007642,
@@ -6951,8 +6951,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A35",
+   "visita": "Qua"
   },
   {
    "pv": 1100954,
@@ -6963,8 +6963,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C25",
+   "visita": "Sex"
   },
   {
    "pv": 1109663,
@@ -6975,8 +6975,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C16",
+   "visita": "Qui"
   },
   {
    "pv": 1111037,
@@ -6987,8 +6987,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S24",
+   "visita": "Ter"
   },
   {
    "pv": 1198922,
@@ -6999,8 +6999,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A16",
+   "visita": "Qui"
   },
   {
    "pv": 1100666,
@@ -7011,8 +7011,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "311",
+   "visita": "Sex"
   },
   {
    "pv": 1217191,
@@ -7023,8 +7023,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O11",
+   "visita": "Qua"
   },
   {
    "pv": 1199267,
@@ -7035,8 +7035,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C13",
+   "visita": "Sab"
   },
   {
    "pv": 1121350,
@@ -7047,8 +7047,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M26",
+   "visita": "Ter"
   },
   {
    "pv": 1183884,
@@ -7059,8 +7059,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A34",
+   "visita": "Qui"
   },
   {
    "pv": 1145795,
@@ -7071,8 +7071,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A34",
+   "visita": "Ter"
   },
   {
    "pv": 1125674,
@@ -7083,8 +7083,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U24",
+   "visita": "Ter"
   },
   {
    "pv": 1164639,
@@ -7095,8 +7095,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "121",
+   "visita": "Qua"
   },
   {
    "pv": 1205301,
@@ -7107,8 +7107,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U24",
+   "visita": "Sab"
   },
   {
    "pv": 1119783,
@@ -7119,8 +7119,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "122",
+   "visita": "Sab"
   },
   {
    "pv": 1130589,
@@ -7131,8 +7131,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "R15",
+   "visita": "Qua"
   },
   {
    "pv": 1205743,
@@ -7143,8 +7143,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "532",
+   "visita": "Qua"
   },
   {
    "pv": 1112238,
@@ -7155,8 +7155,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S15",
+   "visita": "Qui"
   },
   {
    "pv": 1140382,
@@ -7167,8 +7167,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "126",
+   "visita": "Ter"
   },
   {
    "pv": 1129580,
@@ -7179,8 +7179,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A21",
+   "visita": "Sab"
   },
   {
    "pv": 1076638,
@@ -7191,8 +7191,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "532",
+   "visita": "Ter"
   },
   {
    "pv": 1106614,
@@ -7203,8 +7203,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A22",
+   "visita": "Qua"
   },
   {
    "pv": 1117488,
@@ -7215,8 +7215,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "211",
+   "visita": "Qua - Sex"
   },
   {
    "pv": 1069343,
@@ -7227,8 +7227,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A31",
+   "visita": "Ter"
   },
   {
    "pv": 1125579,
@@ -7239,8 +7239,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "123",
+   "visita": "Ter"
   },
   {
    "pv": 1100359,
@@ -7251,8 +7251,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U13",
+   "visita": "Sab"
   },
   {
    "pv": 1080879,
@@ -7263,8 +7263,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I16",
+   "visita": "Qua"
   },
   {
    "pv": 1080444,
@@ -7275,8 +7275,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "212",
+   "visita": "Qui"
   },
   {
    "pv": 1041729,
@@ -7287,8 +7287,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A16",
+   "visita": "Sab"
   },
   {
    "pv": 1121898,
@@ -7299,8 +7299,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I23",
+   "visita": "Ter"
   },
   {
    "pv": 1080229,
@@ -7311,8 +7311,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A21",
+   "visita": "Sab"
   },
   {
    "pv": 1105778,
@@ -7323,8 +7323,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O11",
+   "visita": "Sex"
   },
   {
    "pv": 1116573,
@@ -7335,8 +7335,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "534",
+   "visita": "Ter"
   },
   {
    "pv": 1048835,
@@ -7347,8 +7347,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S23",
+   "visita": "Qua"
   },
   {
    "pv": 1192507,
@@ -7371,8 +7371,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A35",
+   "visita": "Qua"
   },
   {
    "pv": 1204673,
@@ -7383,8 +7383,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "226",
+   "visita": "Qui"
   },
   {
    "pv": 1077724,
@@ -7395,8 +7395,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "522",
+   "visita": "Qui"
   },
   {
    "pv": 1141882,
@@ -7407,8 +7407,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "222",
+   "visita": "Sex"
   },
   {
    "pv": 1206774,
@@ -7419,8 +7419,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U24",
+   "visita": "Qua"
   },
   {
    "pv": 1050261,
@@ -7431,8 +7431,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U25",
+   "visita": "Ter"
   },
   {
    "pv": 1212709,
@@ -7455,8 +7455,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U24",
+   "visita": "Qui - Sab"
   },
   {
    "pv": 1170830,
@@ -7467,8 +7467,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O15",
+   "visita": "Qua"
   },
   {
    "pv": 1160790,
@@ -7479,8 +7479,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "R21",
+   "visita": "Qui"
   },
   {
    "pv": 1046280,
@@ -7491,8 +7491,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "211",
+   "visita": "Qui"
   },
   {
    "pv": 1209693,
@@ -7503,8 +7503,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A31",
+   "visita": "Sex"
   },
   {
    "pv": 1110917,
@@ -7515,8 +7515,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A25",
+   "visita": "Ter"
   },
   {
    "pv": 1159545,
@@ -7527,8 +7527,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S11",
+   "visita": "Ter"
   },
   {
    "pv": 1130995,
@@ -7539,8 +7539,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "535",
+   "visita": "Ter"
   },
   {
    "pv": 1177647,
@@ -7551,8 +7551,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P12",
+   "visita": "Ter"
   },
   {
    "pv": 1123867,
@@ -7563,8 +7563,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M11",
+   "visita": "Qui"
   },
   {
    "pv": 1195117,
@@ -7575,8 +7575,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U14",
+   "visita": "Sab"
   },
   {
    "pv": 1190804,
@@ -7587,8 +7587,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "523",
+   "visita": "Sab"
   },
   {
    "pv": 1127421,
@@ -7599,8 +7599,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "126",
+   "visita": "Sex"
   },
   {
    "pv": 1124834,
@@ -7611,8 +7611,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "324",
+   "visita": "Qui"
   },
   {
    "pv": 1158839,
@@ -7623,8 +7623,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "525",
+   "visita": "Qua"
   },
   {
    "pv": 1224187,
@@ -7635,8 +7635,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I25",
+   "visita": "Ter"
   },
   {
    "pv": 1216021,
@@ -7647,8 +7647,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I22",
+   "visita": "Ter"
   },
   {
    "pv": 1110575,
@@ -7659,8 +7659,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "117",
+   "visita": "Qua"
   },
   {
    "pv": 1201797,
@@ -7671,8 +7671,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "532",
+   "visita": "Ter"
   },
   {
    "pv": 1033560,
@@ -7683,8 +7683,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "227",
+   "visita": "Qua"
   },
   {
    "pv": 1082742,
@@ -7695,8 +7695,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "535",
+   "visita": "Sab"
   },
   {
    "pv": 1150276,
@@ -7707,8 +7707,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "223",
+   "visita": "Qui"
   },
   {
    "pv": 1068532,
@@ -7719,8 +7719,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A33",
+   "visita": "Ter"
   },
   {
    "pv": 1198632,
@@ -7731,8 +7731,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A32",
+   "visita": "Sex"
   },
   {
    "pv": 1130381,
@@ -7743,8 +7743,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "537",
+   "visita": "Sab"
   },
   {
    "pv": 1210177,
@@ -7755,8 +7755,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I12",
+   "visita": "Qui"
   },
   {
    "pv": 1086400,
@@ -7767,8 +7767,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U15",
+   "visita": "Ter"
   },
   {
    "pv": 1013390,
@@ -7779,8 +7779,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O18",
+   "visita": "Ter"
   },
   {
    "pv": 1180582,
@@ -7791,8 +7791,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O17",
+   "visita": "Sex"
   },
   {
    "pv": 1025467,
@@ -7803,8 +7803,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A36",
+   "visita": "Qua"
   },
   {
    "pv": 1086060,
@@ -7815,8 +7815,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A14",
+   "visita": "Qui"
   },
   {
    "pv": 1135925,
@@ -7827,8 +7827,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A36",
+   "visita": "Ter"
   },
   {
    "pv": 1042956,
@@ -7839,8 +7839,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "214",
+   "visita": "Ter"
   },
   {
    "pv": 1129870,
@@ -7851,8 +7851,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "117",
+   "visita": "Sab"
   },
   {
    "pv": 1216405,
@@ -7863,8 +7863,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U12",
+   "visita": "Sex"
   },
   {
    "pv": 1115249,
@@ -7875,8 +7875,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "121",
+   "visita": "Qua"
   },
   {
    "pv": 1128841,
@@ -7887,8 +7887,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "534",
+   "visita": "Sex"
   },
   {
    "pv": 1177230,
@@ -7899,8 +7899,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U13",
+   "visita": "Qui"
   },
   {
    "pv": 1174920,
@@ -7911,8 +7911,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U25",
+   "visita": "Qua"
   },
   {
    "pv": 1213637,
@@ -7923,8 +7923,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "115",
+   "visita": "Qui"
   },
   {
    "pv": 1139838,
@@ -7935,8 +7935,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U12",
+   "visita": "Sex"
   },
   {
    "pv": 1108887,
@@ -7947,8 +7947,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A13",
+   "visita": "Qui"
   },
   {
    "pv": 1213545,
@@ -7959,8 +7959,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "114",
+   "visita": "Sab"
   },
   {
    "pv": 1183703,
@@ -7971,8 +7971,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A13",
+   "visita": "Qui"
   },
   {
    "pv": 1045085,
@@ -7983,8 +7983,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "125",
+   "visita": "Sab"
   },
   {
    "pv": 1215904,
@@ -7995,8 +7995,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O16",
+   "visita": "Sab"
   },
   {
    "pv": 1152850,
@@ -8007,8 +8007,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A33",
+   "visita": "Ter"
   },
   {
    "pv": 1139178,
@@ -8019,8 +8019,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C25",
+   "visita": "Sex"
   },
   {
    "pv": 1121228,
@@ -8031,8 +8031,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M12",
+   "visita": "Qua"
   },
   {
    "pv": 1118522,
@@ -8043,8 +8043,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "212",
+   "visita": "Ter"
   },
   {
    "pv": 1197321,
@@ -8055,8 +8055,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O14",
+   "visita": "Ter"
   },
   {
    "pv": 1207196,
@@ -8067,8 +8067,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U24",
+   "visita": "Sex"
   },
   {
    "pv": 1171368,
@@ -8079,8 +8079,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C24",
+   "visita": "Qui"
   },
   {
    "pv": 1131641,
@@ -8091,8 +8091,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "537",
+   "visita": "Qui"
   },
   {
    "pv": 1160925,
@@ -8103,8 +8103,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S21",
+   "visita": "Qua"
   },
   {
    "pv": 1188843,
@@ -8115,8 +8115,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "214",
+   "visita": "Sex"
   },
   {
    "pv": 1140328,
@@ -8127,8 +8127,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "525",
+   "visita": "Sex"
   },
   {
    "pv": 1206150,
@@ -8151,8 +8151,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "227",
+   "visita": "Ter"
   },
   {
    "pv": 1133877,
@@ -8163,8 +8163,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A21",
+   "visita": "Sab"
   },
   {
    "pv": 1180033,
@@ -8175,8 +8175,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "115",
+   "visita": "Sex"
   },
   {
    "pv": 1149003,
@@ -8187,8 +8187,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "525",
+   "visita": "Sab"
   },
   {
    "pv": 1028356,
@@ -8199,8 +8199,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P14",
+   "visita": "Ter - Qui"
   },
   {
    "pv": 1170873,
@@ -8211,8 +8211,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "227",
+   "visita": "Qua"
   },
   {
    "pv": 1190428,
@@ -8223,8 +8223,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I25",
+   "visita": "Sex"
   },
   {
    "pv": 1130224,
@@ -8235,8 +8235,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M11",
+   "visita": "Sex"
   },
   {
    "pv": 1168038,
@@ -8247,8 +8247,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A37",
+   "visita": "Qua"
   },
   {
    "pv": 1128709,
@@ -8259,8 +8259,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "211",
+   "visita": "Sex"
   },
   {
    "pv": 1215483,
@@ -8271,8 +8271,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S23",
+   "visita": "Ter"
   },
   {
    "pv": 1218634,
@@ -8283,8 +8283,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "532",
+   "visita": "Sab"
   },
   {
    "pv": 1189066,
@@ -8295,8 +8295,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I23",
+   "visita": "Qui"
   },
   {
    "pv": 1172975,
@@ -8307,8 +8307,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I25",
+   "visita": "Ter"
   },
   {
    "pv": 1027177,
@@ -8319,8 +8319,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "R24",
+   "visita": "Sex"
   },
   {
    "pv": 1037298,
@@ -8331,8 +8331,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "317",
+   "visita": "Qui"
   },
   {
    "pv": 1006194,
@@ -8343,8 +8343,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S14",
+   "visita": "Sab"
   },
   {
    "pv": 1197137,
@@ -8355,8 +8355,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A16",
+   "visita": "Sex"
   },
   {
    "pv": 1146948,
@@ -8367,8 +8367,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "123",
+   "visita": "Ter"
   },
   {
    "pv": 1095169,
@@ -8379,8 +8379,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "524",
+   "visita": "Sex"
   },
   {
    "pv": 1138961,
@@ -8391,8 +8391,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O18",
+   "visita": "Sab"
   },
   {
    "pv": 1120710,
@@ -8403,8 +8403,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M26",
+   "visita": "Qua"
   },
   {
    "pv": 1111476,
@@ -8415,8 +8415,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G22",
+   "visita": "Qua"
   },
   {
    "pv": 1194418,
@@ -8427,8 +8427,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U13",
+   "visita": "Sab"
   },
   {
    "pv": 1220465,
@@ -8439,8 +8439,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "214",
+   "visita": "Sex"
   },
   {
    "pv": 1169307,
@@ -8451,8 +8451,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M13",
+   "visita": "Qua"
   },
   {
    "pv": 1114553,
@@ -8463,8 +8463,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "117",
+   "visita": "Qui"
   },
   {
    "pv": 1202082,
@@ -8475,8 +8475,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G14",
+   "visita": "Sex"
   },
   {
    "pv": 1069364,
@@ -8487,8 +8487,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A23",
+   "visita": "Sex"
   },
   {
    "pv": 1216116,
@@ -8499,8 +8499,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A25",
+   "visita": "Qui"
   },
   {
    "pv": 1088678,
@@ -8511,8 +8511,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S13",
+   "visita": "Sab"
   },
   {
    "pv": 1039442,
@@ -8523,8 +8523,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A15",
+   "visita": "Qui"
   },
   {
    "pv": 1128287,
@@ -8535,8 +8535,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "114",
+   "visita": "Qui"
   },
   {
    "pv": 1025338,
@@ -8547,8 +8547,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A35",
+   "visita": "Qua"
   },
   {
    "pv": 1143074,
@@ -8559,8 +8559,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "R21",
+   "visita": "Qui"
   },
   {
    "pv": 1022679,
@@ -8571,8 +8571,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "111",
+   "visita": "Qua"
   },
   {
    "pv": 1045703,
@@ -8583,8 +8583,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "533",
+   "visita": "Qui"
   },
   {
    "pv": 1052425,
@@ -8595,8 +8595,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O13",
+   "visita": "Ter"
   },
   {
    "pv": 1069121,
@@ -8607,8 +8607,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "223",
+   "visita": "Sex"
   },
   {
    "pv": 1097440,
@@ -8619,8 +8619,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "227",
+   "visita": "Ter"
   },
   {
    "pv": 1052590,
@@ -8631,8 +8631,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "226",
+   "visita": "Sex"
   },
   {
    "pv": 1021492,
@@ -8643,8 +8643,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "111",
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1197591,
@@ -8655,8 +8655,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "212",
+   "visita": "Sex"
   },
   {
    "pv": 1109733,
@@ -8667,8 +8667,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S25",
+   "visita": "Ter - Qui"
   },
   {
    "pv": 1201075,
@@ -8679,8 +8679,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "522",
+   "visita": "Qua - Sab"
   },
   {
    "pv": 1168318,
@@ -8691,8 +8691,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O18",
+   "visita": "Qua"
   },
   {
    "pv": 1095682,
@@ -8703,8 +8703,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "211",
+   "visita": "Qui"
   },
   {
    "pv": 1127383,
@@ -8715,8 +8715,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "227",
+   "visita": "Ter"
   },
   {
    "pv": 1067087,
@@ -8727,8 +8727,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "111",
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1061647,
@@ -8739,8 +8739,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P23",
+   "visita": "Qua"
   },
   {
    "pv": 1077923,
@@ -8751,8 +8751,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O16",
+   "visita": "Qui"
   },
   {
    "pv": 1081160,
@@ -8763,8 +8763,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "221",
+   "visita": "Sex"
   },
   {
    "pv": 1214457,
@@ -8775,8 +8775,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "526",
+   "visita": "Ter"
   },
   {
    "pv": 1174371,
@@ -8787,8 +8787,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "115",
+   "visita": "Sab"
   },
   {
    "pv": 1219499,
@@ -8799,8 +8799,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "R21",
+   "visita": "Qui"
   },
   {
    "pv": 1042241,
@@ -8811,8 +8811,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A35",
+   "visita": "Sab"
   },
   {
    "pv": 1163094,
@@ -8823,8 +8823,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "121",
+   "visita": "Sex"
   },
   {
    "pv": 1223096,
@@ -8835,8 +8835,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "R24",
+   "visita": "Sab"
   },
   {
    "pv": 1135482,
@@ -8847,8 +8847,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "115",
+   "visita": "Sex"
   },
   {
    "pv": 1206130,
@@ -8859,8 +8859,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "112",
+   "visita": "Ter"
   },
   {
    "pv": 1223022,
@@ -8871,8 +8871,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "533",
+   "visita": "Qui"
   },
   {
    "pv": 1206660,
@@ -8883,8 +8883,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "322",
+   "visita": "Ter - Sex"
   },
   {
    "pv": 1049635,
@@ -8895,8 +8895,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P24",
+   "visita": "Ter"
   },
   {
    "pv": 1190400,
@@ -8907,8 +8907,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C13",
+   "visita": "Sab"
   },
   {
    "pv": 1058881,
@@ -8919,8 +8919,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "112",
+   "visita": "Ter"
   },
   {
    "pv": 1218129,
@@ -8943,8 +8943,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U21",
+   "visita": "Sab"
   },
   {
    "pv": 1050811,
@@ -8955,8 +8955,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "O14",
+   "visita": "Qua"
   },
   {
    "pv": 1162957,
@@ -8967,8 +8967,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "P12",
+   "visita": "Qua"
   },
   {
    "pv": 1092712,
@@ -8979,8 +8979,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "G25",
+   "visita": "Sex"
   },
   {
    "pv": 1219959,
@@ -8991,8 +8991,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "215",
+   "visita": "Qua"
   },
   {
    "pv": 1094283,
@@ -9003,8 +9003,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A14",
+   "visita": "Sab"
   },
   {
    "pv": 1199882,
@@ -9015,8 +9015,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I22",
+   "visita": "Sex"
   },
   {
    "pv": 1149854,
@@ -9027,8 +9027,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "U23",
+   "visita": "Sex"
   },
   {
    "pv": 1150080,
@@ -9039,8 +9039,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "112",
+   "visita": "Qui"
   },
   {
    "pv": 1192554,
@@ -9051,8 +9051,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A13",
+   "visita": "Sab"
   },
   {
    "pv": 1063100,
@@ -9063,8 +9063,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "525",
+   "visita": "Qua"
   },
   {
    "pv": 1209214,
@@ -9075,8 +9075,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "227",
+   "visita": "Ter"
   },
   {
    "pv": 1073816,
@@ -9087,8 +9087,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "C11",
+   "visita": "Qua"
   },
   {
    "pv": 1219755,
@@ -9099,8 +9099,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "532",
+   "visita": "Ter"
   },
   {
    "pv": 1208538,
@@ -9111,8 +9111,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S22",
+   "visita": "Sab"
   },
   {
    "pv": 1224009,
@@ -9123,8 +9123,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "I22",
+   "visita": "Ter"
   },
   {
    "pv": 1114034,
@@ -9135,8 +9135,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "A35",
+   "visita": "Qui"
   },
   {
    "pv": 1157435,
@@ -9147,8 +9147,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "S14",
+   "visita": "Ter"
   },
   {
    "pv": 1205736,
@@ -9159,8 +9159,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "537",
+   "visita": "Ter"
   },
   {
    "pv": 1049588,
@@ -9171,8 +9171,8 @@
    "status": "pendente",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "216",
+   "visita": "Sex"
   }
  ]
 }

@@ -3,16 +3,16 @@
  "mes": "2026-10",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-10-27T19:13:16.000Z",
- "dataMissao": "2026-10-27T19:13:16.000Z",
- "geradoEm": "2026-10-27T19:13:38.000Z",
+ "dataVolume": "2026-10-27T21:07:06.000Z",
+ "dataMissao": "2026-10-27T21:07:06.000Z",
+ "geradoEm": "2026-10-27T21:07:27.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
-   "eng": 68.269248,
+   "eng": 68.326713,
    "con": 37.931034,
-   "ati": 45.802743,
-   "still": 90.289879,
+   "ati": 46.170759,
+   "still": 91.020438,
    "pesoEng": 18767.531,
    "pesoStill": 107767.39,
    "conecta": {
@@ -38,17 +38,17 @@
    ]
   },
   "G2": {
-   "eng": 82.138538,
-   "con": 46.428571,
-   "ati": 85.45726,
-   "still": 95.998744,
+   "eng": 82.536173,
+   "con": 50.0,
+   "ati": 86.868222,
+   "still": 95.559775,
    "pesoEng": 32840.526,
    "pesoStill": 37391.173,
    "conecta": {
     "tipo": "missao",
-    "total": 13,
-    "nao": 1,
-    "online": 0,
+    "total": 14,
+    "nao": 2,
+    "online": 1,
     "base": 28
    },
    "equipe": [
@@ -63,10 +63,10 @@
    ]
   },
   "G3": {
-   "eng": 71.370855,
+   "eng": 71.590048,
    "con": 42.307692,
-   "ati": 52.327762,
-   "still": 78.096469,
+   "ati": 52.916289,
+   "still": 78.671227,
    "pesoEng": 1904.7345,
    "pesoStill": 17128.867,
    "conecta": {
@@ -92,10 +92,10 @@
    ]
   },
   "AP": {
-   "eng": 60.415745,
+   "eng": 62.896856,
    "con": 13.513514,
-   "ati": 66.629174,
-   "still": 90.390116,
+   "ati": 68.944218,
+   "still": 92.182143,
    "pesoEng": 3729.3713,
    "pesoStill": 22773.983,
    "conecta": {
@@ -121,10 +121,10 @@
    ]
   },
   "AN": {
-   "eng": 56.790407,
+   "eng": 58.650233,
    "con": 29.62963,
-   "ati": 61.485643,
-   "still": 85.713991,
+   "ati": 62.93752,
+   "still": 87.716244,
    "pesoEng": 27328.092,
    "pesoStill": 48142.446,
    "conecta": {
@@ -171,10 +171,10 @@
    ]
   },
   "SL": {
-   "eng": 44.06564,
+   "eng": 44.436256,
    "con": 38.095238,
-   "ati": 79.591833,
-   "still": 77.501186,
+   "ati": 80.783063,
+   "still": 78.156516,
    "pesoEng": 7296.338,
    "pesoStill": 10563.171,
    "conecta": {
@@ -200,17 +200,17 @@
    ]
   },
   "RV": {
-   "eng": 54.129139,
-   "con": 28.0,
-   "ati": 78.863516,
-   "still": 77.010886,
+   "eng": 55.027798,
+   "con": 32.0,
+   "ati": 79.216848,
+   "still": 78.201118,
    "pesoEng": 15561.388,
    "pesoStill": 34189.062,
    "conecta": {
     "tipo": "missao",
-    "total": 7,
+    "total": 8,
     "nao": 0,
-    "online": 1,
+    "online": 2,
     "base": 25
    },
    "equipe": [
@@ -229,10 +229,10 @@
    ]
   },
   "IT": {
-   "eng": 72.607502,
+   "eng": 72.799556,
    "con": 42.857143,
-   "ati": 67.805297,
-   "still": 81.481909,
+   "ati": 72.706041,
+   "still": 83.483929,
    "pesoEng": 2388.7811,
    "pesoStill": 33264.723,
    "conecta": {
@@ -258,10 +258,10 @@
    ]
   },
   "MO": {
-   "eng": 63.889035,
+   "eng": 64.418773,
    "con": 35.0,
-   "ati": 126.254,
-   "still": 82.925259,
+   "ati": 127.85911,
+   "still": 83.774526,
    "pesoEng": 14240.043,
    "pesoStill": 7798.1045,
    "conecta": {
@@ -283,17 +283,17 @@
    ]
   },
   "GU": {
-   "eng": 49.088843,
-   "con": 71.428571,
-   "ati": 62.6184,
-   "still": 69.892423,
+   "eng": 50.173219,
+   "con": 80.952381,
+   "ati": 62.783794,
+   "still": 71.266164,
    "pesoEng": 17144.055,
    "pesoStill": 51573.521,
    "conecta": {
     "tipo": "missao",
-    "total": 15,
+    "total": 17,
     "nao": 4,
-    "online": 4,
+    "online": 6,
     "base": 21
    },
    "equipe": [
@@ -308,10 +308,10 @@
    ]
   },
   "PO": {
-   "eng": 47.460617,
+   "eng": 47.817763,
    "con": 64.705882,
-   "ati": 85.628585,
-   "still": 72.398494,
+   "ati": 86.517976,
+   "still": 74.116102,
    "pesoEng": 4819.2217,
    "pesoStill": 30430.052,
    "conecta": {
@@ -333,10 +333,10 @@
    ]
   },
   "UR": {
-   "eng": 68.526223,
+   "eng": 68.904064,
    "con": 33.333333,
-   "ati": 34.995177,
-   "still": 75.984725,
+   "ati": 35.173374,
+   "still": 76.822112,
    "pesoEng": 12074.801,
    "pesoStill": 60736.575,
    "conecta": {
@@ -362,10 +362,10 @@
    ]
   },
   "RI": {
-   "eng": 52.187208,
+   "eng": 53.791092,
    "con": 68.421053,
-   "ati": 81.802297,
-   "still": 84.678562,
+   "ati": 85.494361,
+   "still": 86.815399,
    "pesoEng": 13966.142,
    "pesoStill": 10955.728,
    "conecta": {
@@ -387,10 +387,10 @@
    ]
   },
   "PA": {
-   "eng": 69.808779,
+   "eng": 71.815208,
    "con": 60.0,
-   "ati": 59.078097,
-   "still": 76.75683,
+   "ati": 59.279827,
+   "still": 77.762094,
    "pesoEng": 21859.96,
    "pesoStill": 13459.068,
    "conecta": {
@@ -416,10 +416,10 @@
    ]
   },
   "DI": {
-   "eng": 63.925987,
+   "eng": 65.978392,
    "con": 66.666667,
-   "ati": 69.17557,
-   "still": 72.519624,
+   "ati": 70.718857,
+   "still": 75.5321,
    "pesoEng": 6042.6264,
    "pesoStill": 21688.925,
    "conecta": {
@@ -564,7 +564,7 @@
    "gc": "G2",
    "produto": "Del Valle Uva TP 1 L",
    "cod": 1633,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "223",
@@ -1188,7 +1188,7 @@
    "gc": "GU",
    "produto": "Monster Energy Green LT 473 ml",
    "cod": 2051,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "G24",
@@ -1968,7 +1968,7 @@
    "gc": "RV",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "R24",
@@ -5364,7 +5364,7 @@
    "gc": "GU",
    "produto": "Kapo Maracujá TP 200 ml",
    "cod": 3604,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "G11",

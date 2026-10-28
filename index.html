@@ -502,7 +502,7 @@ details.como .pop b{color:#fff}
    ========================================================= */
 const CONFIG = {
   meses: [
-    { id: "2026-10", nome: "Outubro",  curto: "Out" },
+    { id: "2026-10", nome: "Outubro",  curto: "Out", metaEngaja: 90 },   /* outubro: Bateu, Levou com 90% (decisão de 28/10) */
     { id: "2026-11", nome: "Novembro", curto: "Nov" },
     { id: "2026-12", nome: "Dezembro", curto: "Dez" }
   ],
@@ -554,7 +554,7 @@ const norm = s => String(s ?? "").normalize("NFD").replace(/[\u0300-\u036f]/g,""
 const siglaGC = s => { const t = String(s ?? "").toUpperCase().replace(/^GC\.?\s*/,"").trim(); return SIGLAS.includes(t) ? t : null; };
 const num = v => { if (v === null || v === undefined || v === "") return null; const n = typeof v === "number" ? v : parseFloat(String(v).replace(",", ".")); return isFinite(n) ? n : null; };
 /* mostra com 1 casa; se o arredondamento levar a um limite das regras (ex.: 99,96% viraria 100,0%), corta em vez de arredondar */
-const LIMITES = [50, 60, 90, 95, 100, 130];
+const LIMITES = [50, 60, 85, 90, 95, 100, 130];
 const corta = x => { const r = Math.round(x * 10) / 10; return (r !== x && LIMITES.includes(r) && x < r) ? Math.floor(x * 10 + 1e-9) / 10 : r; };
 const f1 = x => x === null || x === undefined ? "—" : corta(x).toLocaleString("pt-BR",{minimumFractionDigits:1,maximumFractionDigits:1});
 const pct = x => x === null || x === undefined ? "—" : f1(x) + "%";
@@ -567,7 +567,8 @@ const nomeBonito = s => String(s).toLowerCase().replace(/(^|\s)(\S)/g,(m,a,b)=>a
 /* =========================================================
    CÁLCULO
    ========================================================= */
-function calcularMes(P){
+function calcularMes(P, meta = REGRAS.bateu){
+  const perto = meta - (REGRAS.bateu - REGRAS.perto);   /* "perto de bater" = 5 p.p. abaixo da meta */
   const linhasGC = SIGLAS.map(g => {
     const d = (P.gcs && P.gcs[g]) || {};
     const val = x => (typeof x === "number" && isFinite(x)) ? x : null;
@@ -580,16 +581,16 @@ function calcularMes(P){
   });
   const ordem = (a,b) => (b.total - a.total) || ((b.still ?? -1) - (a.still ?? -1));
   [...linhasGC].sort(ordem).forEach((l,i) => l.rank = i+1);
-  const elegiveis = linhasGC.filter(l => l.eng !== null && l.eng >= REGRAS.bateu).sort(ordem);
+  const elegiveis = linhasGC.filter(l => l.eng !== null && l.eng >= meta).sort(ordem);
   const rei = elegiveis[0] || null;
   linhasGC.forEach(l => {
     if (rei && l.g === rei.g) l.status = "rei";
-    else if (l.eng !== null && l.eng >= REGRAS.bateu) l.status = "bat";
-    else if (l.eng !== null && l.eng >= REGRAS.perto) l.status = "perto";
+    else if (l.eng !== null && l.eng >= meta) l.status = "bat";
+    else if (l.eng !== null && l.eng >= perto) l.status = "perto";
     else if (l.total > 0) l.status = "ne";
     else l.status = "abx";
   });
-  return { linhas: linhasGC, rei, elegiveis };
+  return { linhas: linhasGC, rei, elegiveis, meta, perto };
 }
 
 function calcularTrimestre(meses){
@@ -643,11 +644,11 @@ function barra(nome, cor, p, pts, regra, det, semPts){
   </div>`;
 }
 
-function premioTxt(s){
+function premioTxt(s, meta = REGRAS.bateu){
   if (s === "rei") return `<b>Prêmio dobrado:</b> Analista R$ 400 · Assistente R$ 200 em produtos, destaque no e-mail corporativo e apresentação na reunião prévia.`;
   if (s === "bat") return `<b>Bateu, Levou:</b> Analista R$ 200 · Assistente R$ 100 em produtos.`;
   if (s === "perto") return `Faltam poucos pontos de Engaja para o <b>Bateu, Levou</b>.`;
-  return `Bate o Engaja (100%) para garantir o <b>Bateu, Levou</b> e entrar na disputa da coroa.`;
+  return `Bate o Engaja (${meta}%) para garantir o <b>Bateu, Levou</b> e entrar na disputa da coroa.`;
 }
 
 function timeHTML(p){
@@ -680,12 +681,12 @@ const corrida = (lista, campo, alvo, rotulo) => `<ol class="corrida">${lista.map
 
 
 /* destaque BATEU, LEVOU: os 3 mais perto de 100% do Engaja, com figurinha e cor própria */
-const bateuLevou = lista => `<div class="bl-cab"><span class="bl-selo">Bateu, Levou!</span><span class="bl-premio">Bateu 100% do Engaja, levou:<b>Analista R$ 200 · Assistente R$ 100</b></span></div>
-  <p class="sub">Ninguém bateu o Engaja ainda. Quem está mais perto dos 100% e de entrar na corrida pela coroa 👑:</p>
-  <div class="bl-lista">${lista.map((l,i) => `<button class="bl-card p${i+1}" data-gc="${l.g}" aria-label="${i+1}º mais perto: ${plat(l.g)}, Engaja ${pct(l.eng)}, faltam ${f1(Math.max(0,100-l.eng))} pontos percentuais">
+const bateuLevou = (lista, meta) => `<div class="bl-cab"><span class="bl-selo">Bateu, Levou!</span><span class="bl-premio">Bateu ${meta}% do Engaja, levou:<b>Analista R$ 200 · Assistente R$ 100</b></span></div>
+  <p class="sub">Ninguém bateu o Engaja ainda. Quem está mais perto dos ${meta}% e de entrar na corrida pela coroa 👑:</p>
+  <div class="bl-lista">${lista.map((l,i) => `<button class="bl-card p${i+1}" data-gc="${l.g}" aria-label="${i+1}º mais perto: ${plat(l.g)}, Engaja ${pct(l.eng)}, faltam ${f1(Math.max(0,meta-l.eng))} pontos percentuais">
     <span class="pos">${i+1}º</span><img src="${fig(l.g)}" alt="" width="512" height="512"><span class="nm">${plat(l.g)}</span><span class="gc">GC ${l.g}</span>
-    <span class="pc">${pct(l.eng)}</span><span class="br" aria-hidden="true"><i style="width:${Math.min(l.eng,100)}%"></i></span>
-    <span class="ft">faltam <b>${f1(Math.max(0,100-l.eng))} p.p.</b></span></button>`).join("")}</div>`;
+    <span class="pc">${pct(l.eng)}</span><span class="br" aria-hidden="true"><i style="width:${Math.min(l.eng/meta*100,100)}%"></i></span>
+    <span class="ft">faltam <b>${f1(Math.max(0,meta-l.eng))} p.p.</b></span></button>`).join("")}</div>`;
 
 /* ---------- TELA 1 · RESUMO ---------- */
 function vistaResumo(){
@@ -694,18 +695,18 @@ function vistaResumo(){
   let kpis, esq, dir, blDestaque = false;
   if (!c.tri){
     const calc = c.m.calc, L = calc.linhas;
-    const bateram = L.filter(l => l.eng !== null && l.eng >= REGRAS.bateu).length;
+    const bateram = L.filter(l => l.eng !== null && l.eng >= calc.meta).length;
     const perto = L.filter(l => l.status === "perto").length;
     kpis = `<div class="kpi"><small>Bateram o Engaja</small><div>${bateram} <span>de 16</span></div></div>
-      <div class="kpi"><small>Perto de bater (95%+)</small><div>${perto} <span>Gerência${perto===1?"":"s"}</span></div></div>
+      <div class="kpi"><small>Perto de bater (${calc.perto}%+)</small><div>${perto} <span>Gerência${perto===1?"":"s"}</span></div></div>
       <div class="kpi ouro"><small>Influenciador do Mês</small>${calc.rei ? `<div>👑 ${plat(calc.rei.g)}</div>` : `<p class="vazio">Ainda ninguém. Precisa bater o Engaja.</p>`}</div>
       <div class="kpi"><small>Líder do Trimestre</small>${tri.lider ? `<div>🏆 ${plat(tri.lider.g)}</div>` : `<p class="vazio">Ainda sem líder elegível.</p>`}</div>`;
     if (calc.elegiveis.length){
       const t = calc.elegiveis.slice(0,3);
-      esq = `<h3>Pódio do mês</h3><p class="sub">Só entra quem bateu o Engaja (100%). Vence a maior pontuação.</p><div class="podio">${degrau(t[1],"d2",2)}${degrau(t[0],"d1",1,"👑")}${degrau(t[2],"d3",3)}</div>`;
+      esq = `<h3>Pódio do mês</h3><p class="sub">Só entra quem bateu o Engaja (${calc.meta}%). Vence a maior pontuação.</p><div class="podio">${degrau(t[1],"d2",2)}${degrau(t[0],"d1",1,"👑")}${degrau(t[2],"d3",3)}</div>`;
     } else {
       const t = L.filter(l => l.eng !== null).sort((a,b) => b.eng - a.eng).slice(0,3);
-      esq = bateuLevou(t); blDestaque = true;
+      esq = bateuLevou(t, calc.meta); blDestaque = true;
     }
     if (tri.lider) dir = `<h3>Líder do Trimestre</h3><div class="lider"><span class="tro">🏆</span><div><div class="nm">${plat(tri.lider.g)}</div><div class="det">GC ${tri.lider.g} · ${f1(tri.lider.total)} pts · Engaja acumulado ${pct(tri.lider.engAc)}</div></div></div>`;
     else {
@@ -751,7 +752,7 @@ function vistaRanking(){
         <td class="pt">${ptsTxt(l.total)}</td><td>${pct(l.engAc)}${mini(l.engAc,COR.engaja)}</td><td>${l.rank}º</td><td>${pill(l.status)}</td></tr>`).join("")}</tbody></table>`;
   }
   return `<div class="vista-rk"><div class="vista-head"><h2>Ranking ${c.tri ? "do trimestre" : "de " + c.nome}<small>Toque em uma Gerência para ver os detalhes.</small></h2>
-      <details class="como"><summary>ⓘ Como pontua</summary><div class="pop"><b>1% de atingimento = 1 ponto.</b> Engaja (Del Valle Frut) e Ativa pontuam a partir de 90% e travam em 130. Conecta pontua a partir de 50% e trava em 100 (GC AT: Ades TT, a partir de 60%). Abaixo do mínimo, o pilar vale 0. Desempate: maior % de volume de Still. Quem fica em 99,9x% aparece como 99,9% (não bateu).</div></details></div>
+      <details class="como"><summary>ⓘ Como pontua</summary><div class="pop"><b>1% de atingimento = 1 ponto.</b> Engaja (Del Valle Frut) e Ativa pontuam a partir de 90% e travam em 130. Conecta pontua a partir de 50% e trava em 100 (GC AT: Ades TT, a partir de 60%). Abaixo do mínimo, o pilar vale 0. Desempate: maior % de volume de Still. <b>Bateu, Levou</b>: Engaja a partir de ${c.tri ? "100% (outubro: 90%)" : c.m.calc.meta + "%"}. Quem fica a centésimos da meta aparece arredondado para baixo (não bateu).</div></details></div>
     <section class="dash" style="margin-top:0"><div class="tabela-wrap" style="margin-top:0">${tabela}</div></section></div>`;
 }
 
@@ -904,7 +905,7 @@ function cartaoDetalhe(g){
       ${barra("CONECTA", COR.conecta, l.con, l.pC, l.regraCon, detConecta(l))}
       ${barra("ATIVA", COR.ativa, l.ati, l.pA, REGRAS.ativa, esc(c.m.ativaUsada) + (c.m.ativaHerdada ? " (produto a confirmar)" : ""))}
       <div class="legenda"><span><i style="background:rgba(255,255,255,.75)"></i>mínimo para pontuar</span><span><i style="background:var(--yellow)"></i>trava</span><span><i style="background:rgba(255,255,255,.35);width:1px"></i>100%</span></div>
-      <div class="premio">${premioTxt(l.status)}</div>${timeHTML(l.pessoas)}`;
+      <div class="premio">${premioTxt(l.status, c.m.calc.meta)}</div>${timeHTML(l.pessoas)}`;
   }
   return `${l.status==="lider" ? `<span class="rib">🏆 LÍDER DO TRIMESTRE</span>` : ""}${cab}
     <div class="linha-st">${pill(l.status)}<span class="total">${f1(l.total)} <span>pontos</span></span></div>
@@ -1031,7 +1032,7 @@ function processar(){
     m.dataVol = P.dataVolume ? new Date(P.dataVolume) : m.dataVol;
     m.dataMis = P.dataMissao ? new Date(P.dataMissao) : null;
     (P.avisos || []).forEach(a => STATE.avisos.push(String(a).startsWith(m.nome) ? a : `${m.nome} · ${a}`));
-    m.calc = calcularMes(P);
+    m.calc = calcularMes(P, m.metaEngaja || REGRAS.bateu);
   });
   STATE.tri = calcularTrimestre(STATE.meses);
   const comDados = STATE.meses.filter(m => m.calc);

@@ -3,16 +3,16 @@
  "mes": "2026-10",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-10-28T11:22:32.000Z",
- "dataMissao": "2026-10-28T11:22:32.000Z",
- "geradoEm": "2026-10-28T11:22:47.000Z",
+ "dataVolume": "2026-10-28T14:06:53.000Z",
+ "dataMissao": "2026-10-28T14:06:53.000Z",
+ "geradoEm": "2026-10-28T14:07:31.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
-   "eng": 68.170281,
+   "eng": 71.990097,
    "con": 37.931034,
-   "ati": 46.155425,
-   "still": 90.957458,
+   "ati": 47.044799,
+   "still": 93.299143,
    "pesoEng": 18767.531,
    "pesoStill": 107767.39,
    "conecta": {
@@ -38,17 +38,17 @@
    ]
   },
   "G2": {
-   "eng": 82.40303,
-   "con": 67.857143,
-   "ati": 86.82119,
-   "still": 95.461718,
+   "eng": 87.143385,
+   "con": 71.428571,
+   "ati": 89.54905,
+   "still": 98.128464,
    "pesoEng": 32840.526,
    "pesoStill": 37391.173,
    "conecta": {
     "tipo": "missao",
-    "total": 19,
-    "nao": 7,
-    "online": 0,
+    "total": 20,
+    "nao": 8,
+    "online": 1,
     "base": 28
    },
    "equipe": [
@@ -63,10 +63,10 @@
    ]
   },
   "G3": {
-   "eng": 72.013811,
+   "eng": 73.835621,
    "con": 46.153846,
-   "ati": 52.225409,
-   "still": 78.635149,
+   "ati": 60.336852,
+   "still": 81.294446,
    "pesoEng": 1904.7345,
    "pesoStill": 17128.867,
    "conecta": {
@@ -92,10 +92,10 @@
    ]
   },
   "AP": {
-   "eng": 63.075781,
+   "eng": 63.321075,
    "con": 13.513514,
-   "ati": 69.208794,
-   "still": 91.702976,
+   "ati": 70.553725,
+   "still": 92.26265,
    "pesoEng": 3729.3713,
    "pesoStill": 22773.983,
    "conecta": {
@@ -121,10 +121,10 @@
    ]
   },
   "AN": {
-   "eng": 58.466738,
+   "eng": 58.651102,
    "con": 33.333333,
-   "ati": 62.80055,
-   "still": 86.569332,
+   "ati": 63.238853,
+   "still": 87.316433,
    "pesoEng": 27328.092,
    "pesoStill": 48142.446,
    "conecta": {
@@ -152,8 +152,8 @@
   "AT": {
    "eng": 6.5373522,
    "con": 42.31815,
-   "ati": 48.720942,
-   "still": 86.864418,
+   "ati": 60.305037,
+   "still": 88.784601,
    "pesoEng": 12565.626,
    "pesoStill": 43721.878,
    "conecta": {
@@ -171,17 +171,17 @@
    ]
   },
   "SL": {
-   "eng": 44.486342,
-   "con": 38.095238,
-   "ati": 80.915422,
-   "still": 78.165299,
+   "eng": 44.686671,
+   "con": 42.857143,
+   "ati": 82.062533,
+   "still": 79.086543,
    "pesoEng": 7296.338,
    "pesoStill": 10563.171,
    "conecta": {
     "tipo": "missao",
-    "total": 8,
+    "total": 9,
     "nao": 0,
-    "online": 0,
+    "online": 1,
     "base": 21
    },
    "equipe": [
@@ -200,10 +200,10 @@
    ]
   },
   "RV": {
-   "eng": 54.70566,
+   "eng": 54.905437,
    "con": 32.0,
-   "ati": 79.028404,
-   "still": 78.004228,
+   "ati": 79.475957,
+   "still": 78.228681,
    "pesoEng": 15561.388,
    "pesoStill": 34189.062,
    "conecta": {
@@ -229,10 +229,10 @@
    ]
   },
   "IT": {
-   "eng": 72.778979,
+   "eng": 73.319695,
    "con": 50.0,
-   "ati": 72.63603,
-   "still": 83.372561,
+   "ati": 73.021089,
+   "still": 83.896279,
    "pesoEng": 2388.7811,
    "pesoStill": 33264.723,
    "conecta": {
@@ -258,17 +258,17 @@
    ]
   },
   "MO": {
-   "eng": 63.757792,
-   "con": 40.0,
-   "ati": 127.81687,
-   "still": 83.239273,
+   "eng": 64.04326,
+   "con": 45.0,
+   "ati": 128.45046,
+   "still": 83.830095,
    "pesoEng": 14240.043,
    "pesoStill": 7798.1045,
    "conecta": {
     "tipo": "missao",
-    "total": 8,
+    "total": 9,
     "nao": 1,
-    "online": 0,
+    "online": 1,
     "base": 20
    },
    "equipe": [
@@ -283,10 +283,10 @@
    ]
   },
   "GU": {
-   "eng": 50.233555,
+   "eng": 51.560368,
    "con": 80.952381,
-   "ati": 62.651479,
-   "still": 71.212821,
+   "ati": 63.114584,
+   "still": 72.388472,
    "pesoEng": 17144.055,
    "pesoStill": 51573.521,
    "conecta": {
@@ -308,10 +308,10 @@
    ]
   },
   "PO": {
-   "eng": 47.841572,
+   "eng": 47.996334,
    "con": 82.352941,
-   "ati": 83.503929,
-   "still": 74.008839,
+   "ati": 83.800393,
+   "still": 74.626691,
    "pesoEng": 4819.2217,
    "pesoStill": 30430.052,
    "conecta": {
@@ -333,10 +333,10 @@
    ]
   },
   "UR": {
-   "eng": 68.337716,
+   "eng": 70.171923,
    "con": 38.888889,
-   "ati": 34.405756,
-   "still": 76.076022,
+   "ati": 35.063714,
+   "still": 77.25023,
    "pesoEng": 12074.801,
    "pesoStill": 60736.575,
    "conecta": {
@@ -362,10 +362,10 @@
    ]
   },
   "RI": {
-   "eng": 53.804298,
+   "eng": 54.430395,
    "con": 68.421053,
-   "ati": 83.879083,
-   "still": 84.359146,
+   "ati": 86.455836,
+   "still": 86.161211,
    "pesoEng": 13966.142,
    "pesoStill": 10955.728,
    "conecta": {
@@ -387,10 +387,10 @@
    ]
   },
   "PA": {
-   "eng": 71.873677,
+   "eng": 72.414368,
    "con": 60.0,
-   "ati": 59.078097,
-   "still": 77.704161,
+   "ati": 59.62565,
+   "still": 78.5518,
    "pesoEng": 21859.96,
    "pesoStill": 13459.068,
    "conecta": {
@@ -416,17 +416,17 @@
    ]
   },
   "DI": {
-   "eng": 65.823677,
-   "con": 66.666667,
-   "ati": 70.537294,
-   "still": 72.211911,
+   "eng": 68.432284,
+   "con": 77.777778,
+   "ati": 71.263546,
+   "still": 74.234159,
    "pesoEng": 6042.6264,
    "pesoStill": 21688.925,
    "conecta": {
     "tipo": "missao",
-    "total": 6,
+    "total": 7,
     "nao": 1,
-    "online": 0,
+    "online": 1,
     "base": 9
    },
    "equipe": [
@@ -1980,7 +1980,7 @@
    "gc": "MO",
    "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
    "cod": 2317,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "M12",
@@ -2676,7 +2676,7 @@
    "gc": "SL",
    "produto": "Del Valle Uva TP 1 L",
    "cod": 1633,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "S25",
@@ -3768,7 +3768,7 @@
    "gc": "DI",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "D15",
@@ -6840,7 +6840,7 @@
    "gc": "G2",
    "produto": "Del Valle Frut Uva PET 1.5 L",
    "cod": 2323,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "216",

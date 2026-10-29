@@ -3,23 +3,23 @@
  "mes": "2026-10",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-10-29T17:54:20.000Z",
- "dataMissao": "2026-10-29T17:54:20.000Z",
- "geradoEm": "2026-10-29T17:55:47.000Z",
+ "dataVolume": "2026-10-29T20:43:49.000Z",
+ "dataMissao": "2026-10-29T20:43:49.000Z",
+ "geradoEm": "2026-10-29T20:44:25.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
-   "eng": 82.934571,
-   "con": 37.931034,
-   "ati": 77.88153,
-   "still": 115.75671,
+   "eng": 85.011849,
+   "con": 41.37931,
+   "ati": 79.414933,
+   "still": 118.37603,
    "pesoEng": 18767.531,
    "pesoStill": 107767.39,
    "conecta": {
     "tipo": "missao",
-    "total": 11,
+    "total": 12,
     "nao": 0,
-    "online": 0,
+    "online": 1,
     "base": 29
    },
    "equipe": [
@@ -38,17 +38,17 @@
    ]
   },
   "G2": {
-   "eng": 90.792684,
-   "con": 103.57143,
-   "ati": 93.393921,
-   "still": 101.33338,
+   "eng": 93.208602,
+   "con": 117.85714,
+   "ati": 111.65412,
+   "still": 106.21277,
    "pesoEng": 32840.526,
    "pesoStill": 37391.173,
    "conecta": {
     "tipo": "missao",
-    "total": 29,
-    "nao": 14,
-    "online": 2,
+    "total": 33,
+    "nao": 18,
+    "online": 6,
     "base": 28
    },
    "equipe": [
@@ -63,10 +63,10 @@
    ]
   },
   "G3": {
-   "eng": 79.442302,
+   "eng": 80.114529,
    "con": 65.384615,
-   "ati": 63.791252,
-   "still": 85.602697,
+   "ati": 65.88948,
+   "still": 87.248866,
    "pesoEng": 1904.7345,
    "pesoStill": 17128.867,
    "conecta": {
@@ -92,10 +92,10 @@
    ]
   },
   "AP": {
-   "eng": 67.58718,
+   "eng": 71.50498,
    "con": 18.918919,
-   "ati": 87.464571,
-   "still": 102.41238,
+   "ati": 91.719842,
+   "still": 104.84194,
    "pesoEng": 3729.3713,
    "pesoStill": 22773.983,
    "conecta": {
@@ -121,10 +121,10 @@
    ]
   },
   "AN": {
-   "eng": 60.648108,
+   "eng": 62.694479,
    "con": 33.333333,
-   "ati": 66.320669,
-   "still": 91.208866,
+   "ati": 88.906952,
+   "still": 99.022947,
    "pesoEng": 27328.092,
    "pesoStill": 48142.446,
    "conecta": {
@@ -152,8 +152,8 @@
   "AT": {
    "eng": 6.5373522,
    "con": 42.31815,
-   "ati": 60.305037,
-   "still": 88.784601,
+   "ati": 60.616656,
+   "still": 88.813391,
    "pesoEng": 12565.626,
    "pesoStill": 43721.878,
    "conecta": {
@@ -171,10 +171,10 @@
    ]
   },
   "SL": {
-   "eng": 47.243409,
+   "eng": 48.725862,
    "con": 47.619048,
-   "ati": 90.312906,
-   "still": 83.517422,
+   "ati": 99.048595,
+   "still": 85.875327,
    "pesoEng": 7296.338,
    "pesoStill": 10563.171,
    "conecta": {
@@ -200,10 +200,10 @@
    ]
   },
   "RV": {
-   "eng": 58.867148,
+   "eng": 61.469795,
    "con": 36.0,
-   "ati": 87.767462,
-   "still": 83.012242,
+   "ati": 107.01223,
+   "still": 88.834648,
    "pesoEng": 15561.388,
    "pesoStill": 34189.062,
    "conecta": {
@@ -229,17 +229,17 @@
    ]
   },
   "IT": {
-   "eng": 79.263128,
-   "con": 85.714286,
-   "ati": 82.017455,
-   "still": 91.281351,
+   "eng": 81.15394,
+   "con": 114.28571,
+   "ati": 83.69771,
+   "still": 94.637575,
    "pesoEng": 2388.7811,
    "pesoStill": 33264.723,
    "conecta": {
     "tipo": "missao",
-    "total": 12,
-    "nao": 5,
-    "online": 5,
+    "total": 16,
+    "nao": 7,
+    "online": 9,
     "base": 14
    },
    "equipe": [
@@ -258,17 +258,17 @@
    ]
   },
   "MO": {
-   "eng": 70.31106,
-   "con": 60.0,
-   "ati": 133.85712,
-   "still": 89.749835,
+   "eng": 71.883032,
+   "con": 70.0,
+   "ati": 134.87087,
+   "still": 93.751802,
    "pesoEng": 14240.043,
    "pesoStill": 7798.1045,
    "conecta": {
     "tipo": "missao",
-    "total": 12,
-    "nao": 3,
-    "online": 0,
+    "total": 14,
+    "nao": 4,
+    "online": 2,
     "base": 20
    },
    "equipe": [
@@ -283,10 +283,10 @@
    ]
   },
   "GU": {
-   "eng": 53.797219,
+   "eng": 58.889112,
    "con": 95.238095,
-   "ati": 57.226535,
-   "still": 73.427651,
+   "ati": 59.409744,
+   "still": 76.398414,
    "pesoEng": 17144.055,
    "pesoStill": 51573.521,
    "conecta": {
@@ -308,17 +308,17 @@
    ]
   },
   "PO": {
-   "eng": 54.861372,
-   "con": 100.0,
-   "ati": 88.593222,
-   "still": 79.927029,
+   "eng": 59.932867,
+   "con": 105.88235,
+   "ati": 89.630845,
+   "still": 83.985021,
    "pesoEng": 4819.2217,
    "pesoStill": 30430.052,
    "conecta": {
     "tipo": "missao",
-    "total": 17,
+    "total": 18,
     "nao": 6,
-    "online": 1,
+    "online": 2,
     "base": 17
    },
    "equipe": [
@@ -333,10 +333,10 @@
    ]
   },
   "UR": {
-   "eng": 71.98259,
+   "eng": 73.152535,
    "con": 50.0,
-   "ati": 36.804563,
-   "still": 81.205178,
+   "ati": 38.120481,
+   "still": 82.03947,
    "pesoEng": 12074.801,
    "pesoStill": 60736.575,
    "conecta": {
@@ -362,10 +362,10 @@
    ]
   },
   "RI": {
-   "eng": 58.957372,
+   "eng": 59.360907,
    "con": 73.684211,
-   "ati": 97.820471,
-   "still": 92.002988,
+   "ati": 100.93565,
+   "still": 93.083467,
    "pesoEng": 13966.142,
    "pesoStill": 10955.728,
    "conecta": {
@@ -387,17 +387,17 @@
    ]
   },
   "PA": {
-   "eng": 77.989036,
-   "con": 92.0,
-   "ati": 61.340355,
-   "still": 83.742902,
+   "eng": 86.385052,
+   "con": 100.0,
+   "ati": 63.127108,
+   "still": 87.567298,
    "pesoEng": 21859.96,
    "pesoStill": 13459.068,
    "conecta": {
     "tipo": "missao",
-    "total": 23,
-    "nao": 9,
-    "online": 4,
+    "total": 25,
+    "nao": 11,
+    "online": 6,
     "base": 25
    },
    "equipe": [
@@ -416,10 +416,10 @@
    ]
   },
   "DI": {
-   "eng": 74.330993,
+   "eng": 75.637242,
    "con": 100.0,
-   "ati": 74.531684,
-   "still": 84.099458,
+   "ati": 74.985591,
+   "still": 86.633166,
    "pesoEng": 6042.6264,
    "pesoStill": 21688.925,
    "conecta": {
@@ -768,7 +768,7 @@
    "gc": "IT",
    "produto": "Monster Energy Green LT 473 ml",
    "cod": 2051,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "I24",
@@ -2064,7 +2064,7 @@
    "gc": "G1",
    "produto": "Del Valle Uva TP 1 L",
    "cod": 1633,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "113",
@@ -2196,7 +2196,7 @@
    "gc": "IT",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "I25",
@@ -2316,7 +2316,7 @@
    "gc": "IT",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "I14",
@@ -3384,7 +3384,7 @@
    "gc": "PO",
    "produto": "Del Valle Uva TP 1 L",
    "cod": 1633,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "O17",
@@ -3480,7 +3480,7 @@
    "gc": "MO",
    "produto": "Del Valle Frut Uva PET 450 ml",
    "cod": 2327,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "M23",
@@ -3600,7 +3600,7 @@
    "gc": "G2",
    "produto": "Del Valle Frut Uva PET 1.5 L",
    "cod": 2323,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "225",
@@ -5016,7 +5016,7 @@
    "gc": "IT",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "I22",
@@ -6120,7 +6120,7 @@
    "gc": "PA",
    "produto": "Powerade Squeeze Limão PET 500 ml",
    "cod": 3637,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "P34",
@@ -6276,7 +6276,7 @@
    "gc": "PA",
    "produto": "Del Valle Laranja TP 1 L",
    "cod": 1635,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "P34",
@@ -7560,7 +7560,7 @@
    "gc": "MO",
    "produto": "Del Valle Frut Uva PET 450 ml",
    "cod": 2327,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "M11",
@@ -8112,7 +8112,7 @@
    "gc": "G2",
    "produto": "Del Valle Frut Uva PET 1.5 L",
    "cod": 2323,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "214",
@@ -8604,7 +8604,7 @@
    "gc": "G2",
    "produto": "Del Valle Uva TP 1 L",
    "cod": 1633,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "223",
@@ -9168,7 +9168,7 @@
    "gc": "G2",
    "produto": "Del Valle Frut Uva PET 450 ml",
    "cod": 2327,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "216",

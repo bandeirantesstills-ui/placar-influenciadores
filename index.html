@@ -502,7 +502,7 @@ details.como .pop b{color:#fff}
    ========================================================= */
 const CONFIG = {
   meses: [
-    { id: "2026-10", nome: "Outubro",  curto: "Out", metaEngaja: 90 },   /* outubro: Bateu, Levou com 90% (decisão de 28/10) */
+    { id: "2026-10", nome: "Outubro",  curto: "Out", metaEngaja: 90, conectaATMin: 50 },   /* outubro: Bateu, Levou com 90% (decisão de 28/10) */
     { id: "2026-11", nome: "Novembro", curto: "Nov" },
     { id: "2026-12", nome: "Dezembro", curto: "Dez" }
   ],
@@ -567,13 +567,14 @@ const nomeBonito = s => String(s).toLowerCase().replace(/(^|\s)(\S)/g,(m,a,b)=>a
 /* =========================================================
    CÁLCULO
    ========================================================= */
-function calcularMes(P, meta = REGRAS.bateu){
+function calcularMes(P, meta = REGRAS.bateu, conATmin = REGRAS.conectaAT.min){
+  const regraAT = { min: conATmin, trava: REGRAS.conectaAT.trava };   /* GC AT: Conecta pelo Ades (outubro: a partir de 50%) */
   const perto = meta - (REGRAS.bateu - REGRAS.perto);   /* "perto de bater" = 5 p.p. abaixo da meta */
   const linhasGC = SIGLAS.map(g => {
     const d = (P.gcs && P.gcs[g]) || {};
     const val = x => (typeof x === "number" && isFinite(x)) ? x : null;
     const eng = val(d.eng), con = val(d.con), ati = val(d.ati), still = val(d.still);
-    const regraCon = g === "AT" ? REGRAS.conectaAT : REGRAS.conecta;
+    const regraCon = g === "AT" ? regraAT : REGRAS.conecta;
     const pE = pontos(eng, REGRAS.engaja), pC = pontos(con, regraCon), pA = pontos(ati, REGRAS.ativa);
     return { g, eng, con, ati, still, pE, pC, pA, total: pE+pC+pA, regraCon, detCon: d.conecta || null,
              pesoEng: val(d.pesoEng), pesoStill: val(d.pesoStill),
@@ -590,7 +591,7 @@ function calcularMes(P, meta = REGRAS.bateu){
     else if (l.total > 0) l.status = "ne";
     else l.status = "abx";
   });
-  return { linhas: linhasGC, rei, elegiveis, meta, perto };
+  return { linhas: linhasGC, rei, elegiveis, meta, perto, conATmin };
 }
 
 function calcularTrimestre(meses){
@@ -659,7 +660,7 @@ function timeHTML(p){
 
 function detConecta(l){
   const d = l.detCon; if (!d) return "Sem dados de Missão Guiada.";
-  if (d.tipo === "ades") return `Volume de Ades TT sobre a meta NEG · pontua a partir de 60%`;
+  if (d.tipo === "ades") return `Volume de Ades TT sobre a meta NEG · pontua a partir de ${l.regraCon.min}%`;
   let t = `${d.total} de ${d.base} clientes compraram a missão`;
   if (d.online) t += ` (${d.online} pelo online)`;
   if (d.nao) t += ` · <span class="estrela">⭐ ${d.nao} cliente${d.nao>1?"s":""} sem cadastro B2B comprou${d.nao>1?"ram":""}</span>`;
@@ -752,7 +753,7 @@ function vistaRanking(){
         <td class="pt">${ptsTxt(l.total)}</td><td>${pct(l.engAc)}${mini(l.engAc,COR.engaja)}</td><td>${l.rank}º</td><td>${pill(l.status)}</td></tr>`).join("")}</tbody></table>`;
   }
   return `<div class="vista-rk"><div class="vista-head"><h2>Ranking ${c.tri ? "do trimestre" : "de " + c.nome}<small>Toque em uma Gerência para ver os detalhes.</small></h2>
-      <details class="como"><summary>ⓘ Como pontua</summary><div class="pop"><b>1% de atingimento = 1 ponto.</b> Engaja (Del Valle Frut) e Ativa pontuam a partir de 90% e travam em 130. Conecta pontua a partir de 50% e trava em 100 (GC AT: Ades TT, a partir de 60%). Abaixo do mínimo, o pilar vale 0. Desempate: maior % de volume de Still. <b>Bateu, Levou</b>: Engaja a partir de ${c.tri ? "100% (outubro: 90%)" : c.m.calc.meta + "%"}. Quem fica a centésimos da meta aparece arredondado para baixo (não bateu).</div></details></div>
+      <details class="como"><summary>ⓘ Como pontua</summary><div class="pop"><b>1% de atingimento = 1 ponto.</b> Engaja (Del Valle Frut) e Ativa pontuam a partir de 90% e travam em 130. Conecta pontua a partir de 50% e trava em 100 (GC AT: Ades TT, a partir de ${c.tri ? "60% (outubro: 50%)" : c.m.calc.conATmin + "%"}). Abaixo do mínimo, o pilar vale 0. Desempate: maior % de volume de Still. <b>Bateu, Levou</b>: Engaja a partir de ${c.tri ? "100% (outubro: 90%)" : c.m.calc.meta + "%"}. Quem fica a centésimos da meta aparece arredondado para baixo (não bateu).</div></details></div>
     <section class="dash" style="margin-top:0"><div class="tabela-wrap" style="margin-top:0">${tabela}</div></section></div>`;
 }
 
@@ -1032,7 +1033,7 @@ function processar(){
     m.dataVol = P.dataVolume ? new Date(P.dataVolume) : m.dataVol;
     m.dataMis = P.dataMissao ? new Date(P.dataMissao) : null;
     (P.avisos || []).forEach(a => STATE.avisos.push(String(a).startsWith(m.nome) ? a : `${m.nome} · ${a}`));
-    m.calc = calcularMes(P, m.metaEngaja || REGRAS.bateu);
+    m.calc = calcularMes(P, m.metaEngaja || REGRAS.bateu, m.conectaATMin || REGRAS.conectaAT.min);
   });
   STATE.tri = calcularTrimestre(STATE.meses);
   const comDados = STATE.meses.filter(m => m.calc);

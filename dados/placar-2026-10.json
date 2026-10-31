@@ -3,9 +3,9 @@
  "mes": "2026-10",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-10-31T18:49:03.000Z",
- "dataMissao": "2026-10-31T18:49:03.000Z",
- "geradoEm": "2026-10-31T18:49:23.000Z",
+ "dataVolume": "2026-10-31T19:05:45.000Z",
+ "dataMissao": "2026-10-31T19:05:45.000Z",
+ "geradoEm": "2026-10-31T19:05:57.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
@@ -203,7 +203,7 @@
    "eng": 101.95433,
    "con": 40.0,
    "ati": 158.08036,
-   "still": 115.47243,
+   "still": 115.48588,
    "pesoEng": 15561.388,
    "pesoStill": 34189.062,
    "conecta": {
@@ -308,10 +308,10 @@
    ]
   },
   "PO": {
-   "eng": 73.556041,
+   "eng": 73.159209,
    "con": 105.88235,
    "ati": 107.76454,
-   "still": 93.611349,
+   "still": 93.472905,
    "pesoEng": 4819.2217,
    "pesoStill": 30430.052,
    "conecta": {
@@ -387,10 +387,10 @@
    ]
   },
   "PA": {
-   "eng": 110.21088,
+   "eng": 109.29039,
    "con": 108.0,
-   "ati": 126.06689,
-   "still": 112.65368,
+   "ati": 125.72107,
+   "still": 112.27778,
    "pesoEng": 21859.96,
    "pesoStill": 13459.068,
    "conecta": {
@@ -416,17 +416,17 @@
    ]
   },
   "DI": {
-   "eng": 95.777582,
-   "con": 122.22222,
-   "ati": 79.161544,
-   "still": 101.76172,
+   "eng": 96.071345,
+   "con": 133.33333,
+   "ati": 80.250924,
+   "still": 101.94061,
    "pesoEng": 6042.6264,
    "pesoStill": 21688.925,
    "conecta": {
     "tipo": "missao",
-    "total": 11,
-    "nao": 2,
-    "online": 2,
+    "total": 12,
+    "nao": 3,
+    "online": 3,
     "base": 9
    },
    "equipe": [
@@ -6264,7 +6264,7 @@
    "gc": "DI",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "D15",

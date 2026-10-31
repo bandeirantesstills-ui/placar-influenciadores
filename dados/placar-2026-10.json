@@ -3,16 +3,16 @@
  "mes": "2026-10",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-10-31T17:00:00.000Z",
- "dataMissao": "2026-10-31T17:00:00.000Z",
- "geradoEm": "2026-10-31T17:00:34.000Z",
+ "dataVolume": "2026-10-31T18:09:45.000Z",
+ "dataMissao": "2026-10-31T18:09:45.000Z",
+ "geradoEm": "2026-10-31T18:10:03.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
-   "eng": 100.14214,
+   "eng": 105.40973,
    "con": 41.37931,
-   "ati": 94.656957,
-   "still": 125.50643,
+   "ati": 95.991017,
+   "still": 127.09368,
    "pesoEng": 18767.531,
    "pesoStill": 107767.39,
    "conecta": {
@@ -38,10 +38,10 @@
    ]
   },
   "G2": {
-   "eng": 125.32234,
+   "eng": 131.67696,
    "con": 110.71429,
-   "ati": 125.9989,
-   "still": 118.54003,
+   "ati": 126.63383,
+   "still": 120.31552,
    "pesoEng": 32840.526,
    "pesoStill": 37391.173,
    "conecta": {
@@ -63,10 +63,10 @@
    ]
   },
   "G3": {
-   "eng": 104.75806,
+   "eng": 102.88749,
    "con": 73.076923,
-   "ati": 73.258867,
-   "still": 93.9922,
+   "ati": 73.361219,
+   "still": 94.215934,
    "pesoEng": 1904.7345,
    "pesoStill": 17128.867,
    "conecta": {
@@ -92,10 +92,10 @@
    ]
   },
   "AP": {
-   "eng": 85.070128,
+   "eng": 87.885697,
    "con": 24.324324,
-   "ati": 102.43519,
-   "still": 110.62205,
+   "ati": 106.40384,
+   "still": 112.32501,
    "pesoEng": 3729.3713,
    "pesoStill": 22773.983,
    "conecta": {
@@ -121,10 +121,10 @@
    ]
   },
   "AN": {
-   "eng": 73.568675,
+   "eng": 81.270921,
    "con": 33.333333,
-   "ati": 114.89008,
-   "still": 111.52088,
+   "ati": 121.50571,
+   "still": 114.23801,
    "pesoEng": 27328.092,
    "pesoStill": 48142.446,
    "conecta": {
@@ -150,10 +150,10 @@
    ]
   },
   "AT": {
-   "eng": 36.603968,
-   "con": 44.337485,
-   "ati": 81.928681,
-   "still": 100.34436,
+   "eng": 91.296037,
+   "con": 57.068042,
+   "ati": 122.76431,
+   "still": 121.99392,
    "pesoEng": 12565.626,
    "pesoStill": 43721.878,
    "conecta": {
@@ -171,10 +171,10 @@
    ]
   },
   "SL": {
-   "eng": 70.602289,
+   "eng": 71.43365,
    "con": 47.619048,
-   "ati": 123.04968,
-   "still": 99.325372,
+   "ati": 126.09394,
+   "still": 100.16843,
    "pesoEng": 7296.338,
    "pesoStill": 10563.171,
    "conecta": {
@@ -200,10 +200,10 @@
    ]
   },
   "RV": {
-   "eng": 101.35154,
+   "eng": 101.95433,
    "con": 40.0,
-   "ati": 157.63281,
-   "still": 114.8706,
+   "ati": 158.03325,
+   "still": 115.45881,
    "pesoEng": 15561.388,
    "pesoStill": 34189.062,
    "conecta": {
@@ -223,16 +223,16 @@
      "cargo": "Assistente"
     },
     {
-     "nome": "Mariana Ester Barbosa Nunes",
+     "nome": "Lucas Gabriel Macena da Silva",
      "cargo": "Assistente"
     }
    ]
   },
   "IT": {
-   "eng": 109.82425,
+   "eng": 110.24609,
    "con": 128.57143,
-   "ati": 108.79652,
-   "still": 114.64712,
+   "ati": 112.33206,
+   "still": 115.11903,
    "pesoEng": 2388.7811,
    "pesoStill": 33264.723,
    "conecta": {
@@ -258,17 +258,17 @@
    ]
   },
   "MO": {
-   "eng": 91.401033,
-   "con": 80.0,
-   "ati": 155.14585,
-   "still": 108.31854,
+   "eng": 93.402192,
+   "con": 95.0,
+   "ati": 157.68023,
+   "still": 109.95224,
    "pesoEng": 14240.043,
    "pesoStill": 7798.1045,
    "conecta": {
     "tipo": "missao",
-    "total": 16,
-    "nao": 5,
-    "online": 1,
+    "total": 19,
+    "nao": 8,
+    "online": 4,
     "base": 20
    },
    "equipe": [
@@ -283,10 +283,10 @@
    ]
   },
   "GU": {
-   "eng": 71.260033,
+   "eng": 73.723248,
    "con": 95.238095,
-   "ati": 78.926308,
-   "still": 88.115672,
+   "ati": 96.325822,
+   "still": 92.57571,
    "pesoEng": 17144.055,
    "pesoStill": 51573.521,
    "conecta": {
@@ -308,10 +308,10 @@
    ]
   },
   "PO": {
-   "eng": 72.020314,
+   "eng": 73.556041,
    "con": 105.88235,
-   "ati": 105.49165,
-   "still": 91.331695,
+   "ati": 107.76454,
+   "still": 93.58216,
    "pesoEng": 4819.2217,
    "pesoStill": 30430.052,
    "conecta": {
@@ -333,10 +333,10 @@
    ]
   },
   "UR": {
-   "eng": 83.54596,
+   "eng": 86.788794,
    "con": 55.555556,
-   "ati": 47.660881,
-   "still": 92.249123,
+   "ati": 49.004214,
+   "still": 94.021455,
    "pesoEng": 12074.801,
    "pesoStill": 60736.575,
    "conecta": {
@@ -362,10 +362,10 @@
    ]
   },
   "RI": {
-   "eng": 80.921062,
+   "eng": 84.698175,
    "con": 78.947368,
-   "ati": 116.14619,
-   "still": 107.37298,
+   "ati": 117.83838,
+   "still": 110.02952,
    "pesoEng": 13966.142,
    "pesoStill": 10955.728,
    "conecta": {
@@ -387,10 +387,10 @@
    ]
   },
   "PA": {
-   "eng": 108.70618,
+   "eng": 109.23147,
    "con": 108.0,
-   "ati": 125.07265,
-   "still": 111.64793,
+   "ati": 125.59139,
+   "still": 112.23933,
    "pesoEng": 21859.96,
    "pesoStill": 13459.068,
    "conecta": {
@@ -416,17 +416,17 @@
    ]
   },
   "DI": {
-   "eng": 87.965468,
-   "con": 111.11111,
-   "ati": 76.528878,
-   "still": 97.937368,
+   "eng": 92.322936,
+   "con": 122.22222,
+   "ati": 78.34451,
+   "still": 100.33438,
    "pesoEng": 6042.6264,
    "pesoStill": 21688.925,
    "conecta": {
     "tipo": "missao",
-    "total": 10,
+    "total": 11,
     "nao": 2,
-    "online": 1,
+    "online": 2,
     "base": 9
    },
    "equipe": [
@@ -720,11 +720,11 @@
    "gc": "MO",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
-   "rota": "",
-   "visita": ""
+   "rota": "M11",
+   "visita": "Seg - Sab"
   },
   {
    "pv": 1008705,
@@ -3060,7 +3060,7 @@
    "gc": "DI",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "D14",
@@ -4164,7 +4164,7 @@
    "gc": "MO",
    "produto": "Del Valle Frut Uva PET 1.5 L",
    "cod": 2323,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "M11",
@@ -5904,7 +5904,7 @@
    "gc": "MO",
    "produto": "Del Valle Frut Uva PET 1.5 L",
    "cod": 2323,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "M26",

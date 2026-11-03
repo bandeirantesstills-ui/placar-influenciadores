@@ -3,9 +3,9 @@
  "mes": "2026-10",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-11-03T10:55:19.000Z",
- "dataMissao": "2026-11-03T10:55:19.000Z",
- "geradoEm": "2026-11-03T10:55:30.000Z",
+ "dataVolume": "2026-11-03T21:05:48.000Z",
+ "dataMissao": "2026-11-03T21:05:48.000Z",
+ "geradoEm": "2026-11-03T21:06:13.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
@@ -724,7 +724,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "M11",
-   "visita": "--"
+   "visita": "Seg - Sab"
   },
   {
    "pv": 1008705,
@@ -904,7 +904,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "P25",
-   "visita": "--"
+   "visita": "Seg - Sab"
   },
   {
    "pv": 1018785,
@@ -4168,7 +4168,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "M11",
-   "visita": "--"
+   "visita": "Seg - Sab"
   },
   {
    "pv": 1213198,
@@ -4504,7 +4504,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "P14",
-   "visita": "--"
+   "visita": "Seg - Sab"
   },
   {
    "pv": 1151140,
@@ -7360,7 +7360,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "P27",
-   "visita": "--"
+   "visita": "Seg - Sab"
   },
   {
    "pv": 1169630,
@@ -7444,7 +7444,7 @@
    "b2b": "Não",
    "obs": "Vale prêmio surpresa adicional",
    "rota": "M13",
-   "visita": "--"
+   "visita": "Seg - Sab"
   },
   {
    "pv": 1149347,

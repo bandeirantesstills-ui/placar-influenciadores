@@ -504,7 +504,7 @@ const CONFIG = {
   meses: [
     { id: "2026-10", nome: "Outubro",  curto: "Out", metaEngaja: 90, conectaATMin: 50 },   /* outubro: Bateu, Levou com 90% (decisão de 28/10) */
     { id: "2026-11", nome: "Novembro", curto: "Nov", conectaATMin: 50, bonusNaoCadastrado: false },   /* novembro: sem prêmio extra para cliente não cadastrado */   /* novembro: Engaja volta a 100%; Conecta da AT a partir de 50% */
-    { id: "2026-12", nome: "Dezembro", curto: "Dez" }
+    { id: "2026-12", nome: "Dezembro", curto: "Dez", conectaATMin: 50 }   /* dezembro: Conecta da AT a partir de 50% (05/11) */
   ],
   pasta: "dados",
   arquivo: id => `placar-${id}.json`
@@ -753,7 +753,7 @@ function vistaRanking(){
         <td class="pt">${ptsTxt(l.total)}</td><td>${pct(l.engAc)}${mini(l.engAc,COR.engaja)}</td><td>${l.rank}º</td><td>${pill(l.status)}</td></tr>`).join("")}</tbody></table>`;
   }
   return `<div class="vista-rk"><div class="vista-head"><h2>Ranking ${c.tri ? "do trimestre" : "de " + c.nome}<small>Toque em uma Gerência para ver os detalhes.</small></h2>
-      <details class="como"><summary>ⓘ Como pontua</summary><div class="pop"><b>1% de atingimento = 1 ponto.</b> Engaja (Del Valle Frut) e Ativa pontuam a partir de 90% e travam em 130. Conecta pontua a partir de 50% e trava em 100 (GC AT: Ades TT, a partir de ${c.tri ? "50% em outubro e novembro" : c.m.calc.conATmin + "%"}). Abaixo do mínimo, o pilar vale 0. Desempate: maior % de volume de Still. <b>Bateu, Levou</b>: Engaja a partir de ${c.tri ? "100% (outubro: 90%)" : c.m.calc.meta + "%"}. Quem fica a centésimos da meta aparece arredondado para baixo (não bateu).</div></details></div>
+      <details class="como"><summary>ⓘ Como pontua</summary><div class="pop"><b>1% de atingimento = 1 ponto.</b> Engaja (Del Valle Frut) e Ativa pontuam a partir de 90% e travam em 130. Conecta pontua a partir de 50% e trava em 100 (GC AT: Ades TT, a partir de ${c.tri ? "50%" : c.m.calc.conATmin + "%"}). Abaixo do mínimo, o pilar vale 0. Desempate: maior % de volume de Still. <b>Bateu, Levou</b>: Engaja a partir de ${c.tri ? "100% (outubro: 90%)" : c.m.calc.meta + "%"}. Quem fica a centésimos da meta aparece arredondado para baixo (não bateu).</div></details></div>
     <section class="dash" style="margin-top:0"><div class="tabela-wrap" style="margin-top:0">${tabela}</div></section></div>`;
 }
 

@@ -502,7 +502,7 @@ details.como .pop b{color:#fff}
    ========================================================= */
 const CONFIG = {
   meses: [
-    { id: "2026-10", nome: "Outubro",  curto: "Out", metaEngaja: 90, conectaATMin: 50 },   /* outubro: Bateu, Levou com 90% (decisão de 28/10) */
+    { id: "2026-10", nome: "Outubro",  curto: "Out", metaEngaja: 90, conectaATMin: 50, fechado: "09/11" },   /* outubro: Bateu, Levou com 90% (decisão de 28/10) */
     { id: "2026-11", nome: "Novembro", curto: "Nov", conectaATMin: 50, bonusNaoCadastrado: false },   /* novembro: sem prêmio extra para cliente não cadastrado */   /* novembro: Engaja volta a 100%; Conecta da AT a partir de 50% */
     { id: "2026-12", nome: "Dezembro", curto: "Dez", conectaATMin: 50 }   /* dezembro: Conecta da AT a partir de 50% (05/11) */
   ],
@@ -1004,7 +1004,7 @@ function render(){
     const [a, mm] = m.id.split("-").map(Number);
     const parcial = hoje < new Date(a, mm, 1);
     $("#h1").textContent = "Placar de " + m.nome;
-    $("#periodo").innerHTML = `${m.nome} ${a} · Ativa: ${esc(m.ativaUsada)}${parcial ? '<span class="tag-parcial">parcial</span>' : ""}`;
+    $("#periodo").innerHTML = `${m.nome} ${a} · Ativa: ${esc(m.ativaUsada)}${m.fechado ? `<span class="tag-parcial" style="background:#35B24A;color:#fff">fechado em ${m.fechado}</span>` : parcial ? '<span class="tag-parcial">parcial</span>' : ""}`;
     $("#upd").innerHTML = `Atualizado: volumes <b>${dataCurta(m.dataVol)}</b> · Missão Guiada <b>${m.dataMis ? dataCurta(m.dataMis) : "sem arquivo"}</b>`;
   }
   const html = STATE.visao === "ranking" ? vistaRanking() : STATE.visao === "gerencias" ? vistaGerencias() : STATE.visao === "planificador" ? vistaPlanificador() : vistaResumo();

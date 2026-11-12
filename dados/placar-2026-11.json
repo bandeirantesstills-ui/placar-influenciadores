@@ -3,23 +3,23 @@
  "mes": "2026-11",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-11-11T18:35:55.000Z",
- "dataMissao": "2026-11-11T18:35:55.000Z",
- "geradoEm": "2026-11-11T18:36:12.000Z",
+ "dataVolume": "2026-11-12T14:40:37.000Z",
+ "dataMissao": "2026-11-12T14:40:37.000Z",
+ "geradoEm": "2026-11-12T15:26:31.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
-   "eng": 11.523062,
+   "eng": 13.468974,
    "con": 6.6666667,
-   "ati": 29.746372,
-   "still": 19.586745,
+   "ati": 34.209994,
+   "still": 22.162466,
    "pesoEng": 17242.982,
    "pesoStill": 99929.617,
    "conecta": {
     "tipo": "missao",
     "total": 3,
     "nao": 1,
-    "online": 2,
+    "online": 0,
     "base": 45
    },
    "equipe": [
@@ -38,17 +38,17 @@
    ]
   },
   "G2": {
-   "eng": 18.219281,
-   "con": 11.904762,
-   "ati": 53.46745,
-   "still": 32.610553,
+   "eng": 18.561286,
+   "con": 16.666667,
+   "ati": 54.543202,
+   "still": 33.49682,
    "pesoEng": 30097.315,
    "pesoStill": 34139.156,
    "conecta": {
     "tipo": "missao",
-    "total": 5,
-    "nao": 2,
-    "online": 1,
+    "total": 7,
+    "nao": 3,
+    "online": 2,
     "base": 42
    },
    "equipe": [
@@ -63,15 +63,15 @@
    ]
   },
   "G3": {
-   "eng": 16.377389,
-   "con": 4.7619048,
-   "ati": 39.045793,
-   "still": 22.911772,
+   "eng": 16.50494,
+   "con": 9.5238095,
+   "ati": 39.658058,
+   "still": 27.482876,
    "pesoEng": 1746.0066,
    "pesoStill": 16511.581,
    "conecta": {
     "tipo": "missao",
-    "total": 2,
+    "total": 4,
     "nao": 0,
     "online": 0,
     "base": 42
@@ -92,17 +92,17 @@
    ]
   },
   "AP": {
-   "eng": 26.563444,
-   "con": 11.320755,
-   "ati": 43.49076,
-   "still": 33.307888,
+   "eng": 28.368501,
+   "con": 9.4339623,
+   "ati": 47.612198,
+   "still": 35.115531,
    "pesoEng": 3411.6234,
    "pesoStill": 20801.668,
    "conecta": {
     "tipo": "missao",
-    "total": 6,
+    "total": 5,
     "nao": 0,
-    "online": 3,
+    "online": 0,
     "base": 53
    },
    "equipe": [
@@ -121,17 +121,17 @@
    ]
   },
   "AN": {
-   "eng": 11.067198,
-   "con": 2.9411765,
-   "ati": 29.381732,
-   "still": 25.852709,
+   "eng": 11.897333,
+   "con": 11.764706,
+   "ati": 35.450052,
+   "still": 29.154704,
    "pesoEng": 26707.854,
    "pesoStill": 44719.418,
    "conecta": {
     "tipo": "missao",
-    "total": 1,
+    "total": 4,
     "nao": 0,
-    "online": 1,
+    "online": 0,
     "base": 34
    },
    "equipe": [
@@ -150,10 +150,10 @@
    ]
   },
   "AT": {
-   "eng": 80.070953,
-   "con": 1.8369965,
-   "ati": 25.198218,
-   "still": 23.738661,
+   "eng": 81.198058,
+   "con": 2.5934009,
+   "ati": 29.545279,
+   "still": 25.294151,
    "pesoEng": 10305.645,
    "pesoStill": 37586.788,
    "conecta": {
@@ -171,15 +171,15 @@
    ]
   },
   "SL": {
-   "eng": 17.82292,
-   "con": 12.0,
-   "ati": 41.315485,
-   "still": 23.601553,
+   "eng": 19.166671,
+   "con": 16.0,
+   "ati": 45.058351,
+   "still": 25.474357,
    "pesoEng": 6635.478,
    "pesoStill": 9654.4942,
    "conecta": {
     "tipo": "missao",
-    "total": 3,
+    "total": 4,
     "nao": 0,
     "online": 0,
     "base": 25
@@ -200,15 +200,15 @@
    ]
   },
   "RV": {
-   "eng": 14.08023,
-   "con": 15.151515,
-   "ati": 31.076294,
-   "still": 18.453909,
+   "eng": 16.357671,
+   "con": 18.181818,
+   "ati": 34.099379,
+   "still": 19.918397,
    "pesoEng": 14264.605,
    "pesoStill": 31718.645,
    "conecta": {
     "tipo": "missao",
-    "total": 5,
+    "total": 6,
     "nao": 0,
     "online": 1,
     "base": 33
@@ -229,17 +229,17 @@
    ]
   },
   "IT": {
-   "eng": 12.599994,
-   "con": 39.130435,
-   "ati": 32.590085,
-   "still": 24.290367,
+   "eng": 14.215035,
+   "con": 43.478261,
+   "ati": 34.455639,
+   "still": 26.758075,
    "pesoEng": 2166.0269,
    "pesoStill": 30555.195,
    "conecta": {
     "tipo": "missao",
-    "total": 9,
+    "total": 10,
     "nao": 1,
-    "online": 6,
+    "online": 3,
     "base": 23
    },
    "equipe": [
@@ -258,15 +258,15 @@
    ]
   },
   "MO": {
-   "eng": 14.769378,
-   "con": 39.130435,
-   "ati": 26.921211,
-   "still": 19.370579,
+   "eng": 16.143589,
+   "con": 56.521739,
+   "ati": 39.784588,
+   "still": 22.432646,
    "pesoEng": 13053.373,
    "pesoStill": 7139.5166,
    "conecta": {
     "tipo": "missao",
-    "total": 9,
+    "total": 13,
     "nao": 4,
     "online": 1,
     "base": 23
@@ -283,17 +283,17 @@
    ]
   },
   "GU": {
-   "eng": 17.983376,
-   "con": 18.75,
-   "ati": 32.055812,
-   "still": 22.086957,
+   "eng": 19.863976,
+   "con": 37.5,
+   "ati": 36.984708,
+   "still": 24.483602,
    "pesoEng": 15633.064,
    "pesoStill": 47390.227,
    "conecta": {
     "tipo": "missao",
-    "total": 6,
-    "nao": 1,
-    "online": 2,
+    "total": 12,
+    "nao": 3,
+    "online": 5,
     "base": 32
    },
    "equipe": [
@@ -308,15 +308,15 @@
    ]
   },
   "PO": {
-   "eng": 16.601847,
-   "con": 15.0,
-   "ati": 44.335528,
-   "still": 32.099245,
+   "eng": 17.883243,
+   "con": 20.0,
+   "ati": 45.732769,
+   "still": 32.575425,
    "pesoEng": 4417.6199,
    "pesoStill": 28028.994,
    "conecta": {
     "tipo": "missao",
-    "total": 3,
+    "total": 4,
     "nao": 0,
     "online": 1,
     "base": 20
@@ -333,17 +333,17 @@
    ]
   },
   "UR": {
-   "eng": 24.660622,
-   "con": 23.076923,
-   "ati": 49.287633,
-   "still": 31.788963,
+   "eng": 24.95543,
+   "con": 30.769231,
+   "ati": 50.271596,
+   "still": 32.699381,
    "pesoEng": 11068.568,
    "pesoStill": 51249.152,
    "conecta": {
     "tipo": "missao",
-    "total": 6,
+    "total": 8,
     "nao": 0,
-    "online": 1,
+    "online": 2,
     "base": 26
    },
    "equipe": [
@@ -362,15 +362,15 @@
    ]
   },
   "RI": {
-   "eng": 14.75996,
-   "con": 10.714286,
-   "ati": 35.930967,
-   "still": 24.990063,
+   "eng": 16.220958,
+   "con": 14.285714,
+   "ati": 38.817156,
+   "still": 27.23191,
    "pesoEng": 12802.297,
    "pesoStill": 10081.141,
    "conecta": {
     "tipo": "missao",
-    "total": 3,
+    "total": 4,
     "nao": 0,
     "online": 1,
     "base": 28
@@ -387,17 +387,17 @@
    ]
   },
   "PA": {
-   "eng": 15.144194,
-   "con": 29.310345,
-   "ati": 43.486999,
-   "still": 34.198331,
+   "eng": 23.596501,
+   "con": 36.206897,
+   "ati": 28.185218,
+   "still": 35.124979,
    "pesoEng": 20038.296,
    "pesoStill": 12409.621,
    "conecta": {
     "tipo": "missao",
-    "total": 17,
+    "total": 21,
     "nao": 0,
-    "online": 2,
+    "online": 3,
     "base": 58
    },
    "equipe": [
@@ -416,17 +416,17 @@
    ]
   },
   "DI": {
-   "eng": 19.046254,
-   "con": 31.25,
-   "ati": 46.603389,
-   "still": 27.679545,
+   "eng": 21.317274,
+   "con": 56.25,
+   "ati": 48.775581,
+   "still": 29.694746,
    "pesoEng": 5539.0742,
    "pesoStill": 20078.229,
    "conecta": {
     "tipo": "missao",
-    "total": 5,
-    "nao": 2,
-    "online": 1,
+    "total": 9,
+    "nao": 3,
+    "online": 4,
     "base": 16
    },
    "equipe": [
@@ -442,12 +442,13 @@
    "pv": 1210392,
    "cliente": "SUPERMERCADO NOTA 10",
    "gc": "AN",
-   "produto": "Del Valle Frut Cítricas PET 1 L",
-   "cod": 3389,
-   "status": "pendente",
+   "produto": "Del Valle Frut Laranja PET 1,5 L",
+   "cod": 2321,
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "A36",
+   "sv": "SV. AN. 3",
    "visita": "Ter"
   },
   {
@@ -460,6 +461,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A16",
+   "sv": "SV. AN. 1",
    "visita": "Qui"
   },
   {
@@ -472,6 +474,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A36",
+   "sv": "SV. AN. 3",
    "visita": "Sex"
   },
   {
@@ -484,6 +487,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A22",
+   "sv": "SV. AN. 2",
    "visita": "Ter"
   },
   {
@@ -496,6 +500,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A25",
+   "sv": "SV. AN. 2",
    "visita": "Ter"
   },
   {
@@ -508,6 +513,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A25",
+   "sv": "SV. AN. 2",
    "visita": "Sex"
   },
   {
@@ -520,6 +526,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A37",
+   "sv": "SV. AN. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -528,10 +535,11 @@
    "gc": "AN",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "A21",
+   "sv": "SV. AN. 2",
    "visita": "Qua"
   },
   {
@@ -544,30 +552,33 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A25",
+   "sv": "SV. AN. 2",
    "visita": "Qua - Sex"
   },
   {
    "pv": 1149153,
    "cliente": "BAR DO MARANHÃO",
    "gc": "AN",
-   "produto": "Del Valle Frut Uva PET 1 L",
-   "cod": 2453,
+   "produto": "Del Valle Frut Uva PET 1,5 L",
+   "cod": 2323,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "A33",
+   "sv": "SV. AN. 3",
    "visita": "Qui"
   },
   {
    "pv": 1078632,
    "cliente": "SUPER JK",
    "gc": "AN",
-   "produto": "Del Valle Néctar Abacaxi TP 1 L",
-   "cod": 2898,
-   "status": "pendente",
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "A36",
+   "sv": "SV. AN. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -580,6 +591,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A35",
+   "sv": "SV. AN. 3",
    "visita": "Qui"
   },
   {
@@ -592,18 +604,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A23",
+   "sv": "SV. AN. 2",
    "visita": "Qua"
   },
   {
    "pv": 1079350,
    "cliente": "MINI BOX LIDER",
    "gc": "AN",
-   "produto": "Del Valle Néctar Laranja TP 1 L",
-   "cod": 1635,
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "A37",
+   "sv": "SV. AN. 3",
    "visita": "Ter"
   },
   {
@@ -616,6 +630,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A32",
+   "sv": "SV. AN. 3",
    "visita": "Sex"
   },
   {
@@ -628,6 +643,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A21",
+   "sv": "SV. AN. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -640,6 +656,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A32",
+   "sv": "SV. AN. 3",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -652,6 +669,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A37",
+   "sv": "SV. AN. 3",
    "visita": "Qui"
   },
   {
@@ -664,6 +682,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A37",
+   "sv": "SV. AN. 3",
    "visita": "Qui"
   },
   {
@@ -676,6 +695,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A23",
+   "sv": "SV. AN. 2",
    "visita": "Qui"
   },
   {
@@ -688,6 +708,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A25",
+   "sv": "SV. AN. 2",
    "visita": "Ter"
   },
   {
@@ -700,6 +721,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A37",
+   "sv": "SV. AN. 3",
    "visita": "Ter"
   },
   {
@@ -712,6 +734,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A13",
+   "sv": "SV. AN. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -724,6 +747,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A33",
+   "sv": "SV. AN. 3",
    "visita": "Qua"
   },
   {
@@ -736,6 +760,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A32",
+   "sv": "SV. AN. 3",
    "visita": "Qui"
   },
   {
@@ -748,6 +773,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A34",
+   "sv": "SV. AN. 3",
    "visita": "Ter"
   },
   {
@@ -760,30 +786,33 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A35",
+   "sv": "SV. AN. 3",
    "visita": "Qua"
   },
   {
    "pv": 1198027,
    "cliente": "TIM TIM",
    "gc": "AN",
-   "produto": "Powerade Tangerina PET 500 ml",
-   "cod": 3641,
+   "produto": "Powerade Uva PET 500 ml",
+   "cod": 3633,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "A13",
+   "sv": "SV. AN. 1",
    "visita": "Qua"
   },
   {
    "pv": 1024939,
    "cliente": "SUPER AMERICA",
    "gc": "AN",
-   "produto": "Powerade Tangerina PET 500 ml",
-   "cod": 3641,
-   "status": "pendente",
+   "produto": "Powerade Uva PET 500 ml",
+   "cod": 3633,
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "A24",
+   "sv": "SV. AN. 2",
    "visita": "Qua"
   },
   {
@@ -796,6 +825,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A31",
+   "sv": "SV. AN. 3",
    "visita": "Ter"
   },
   {
@@ -808,6 +838,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A34",
+   "sv": "SV. AN. 3",
    "visita": "Sex"
   },
   {
@@ -820,6 +851,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A22",
+   "sv": "SV. AN. 2",
    "visita": "Ter"
   },
   {
@@ -832,6 +864,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A31",
+   "sv": "SV. AN. 3",
    "visita": "Ter"
   },
   {
@@ -844,18 +877,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "A32",
+   "sv": "SV. AN. 3",
    "visita": "Qua"
   },
   {
    "pv": 1144075,
    "cliente": "SUPERMERCADO RIBEIRO",
    "gc": "AN",
-   "produto": "Del Valle Frut Cítricas PET 1 L",
-   "cod": 3389,
+   "produto": "Del Valle Frut Laranja PET 1,5 L",
+   "cod": 2321,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "A34",
+   "sv": "SV. AN. 3",
    "visita": "Qua"
   },
   {
@@ -868,6 +903,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A34",
+   "sv": "SV. AN. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -880,6 +916,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A16",
+   "sv": "SV. AN. 1",
    "visita": "Qui"
   },
   {
@@ -892,6 +929,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A35",
+   "sv": "SV. AN. 3",
    "visita": "Sex"
   },
   {
@@ -904,6 +942,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A31",
+   "sv": "SV. AN. 3",
    "visita": "Qua"
   },
   {
@@ -916,6 +955,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A35",
+   "sv": "SV. AN. 3",
    "visita": "Ter"
   },
   {
@@ -928,6 +968,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A13",
+   "sv": "SV. AN. 1",
    "visita": "Qua"
   },
   {
@@ -940,6 +981,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A34",
+   "sv": "SV. AN. 3",
    "visita": "Qui"
   },
   {
@@ -952,6 +994,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A36",
+   "sv": "SV. AN. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -964,6 +1007,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A21",
+   "sv": "SV. AN. 2",
    "visita": "Ter"
   },
   {
@@ -976,6 +1020,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A35",
+   "sv": "SV. AN. 3",
    "visita": "Ter"
   },
   {
@@ -988,6 +1033,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A27",
+   "sv": "SV. AN. 2",
    "visita": "Qui"
   },
   {
@@ -1000,6 +1046,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A34",
+   "sv": "SV. AN. 3",
    "visita": "Qua"
   },
   {
@@ -1012,6 +1059,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A23",
+   "sv": "SV. AN. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -1024,6 +1072,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A36",
+   "sv": "SV. AN. 3",
    "visita": "Ter"
   },
   {
@@ -1036,6 +1085,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A31",
+   "sv": "SV. AN. 3",
    "visita": "Sex"
   },
   {
@@ -1048,6 +1098,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A36",
+   "sv": "SV. AN. 3",
    "visita": "Qua"
   },
   {
@@ -1060,6 +1111,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A16",
+   "sv": "SV. AN. 1",
    "visita": "Qua"
   },
   {
@@ -1072,6 +1124,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A14",
+   "sv": "SV. AN. 1",
    "visita": "Ter"
   },
   {
@@ -1084,6 +1137,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A14",
+   "sv": "SV. AN. 1",
    "visita": "Sex"
   },
   {
@@ -1096,6 +1150,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A22",
+   "sv": "SV. AN. 2",
    "visita": "Ter"
   },
   {
@@ -1108,6 +1163,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A27",
+   "sv": "SV. AN. 2",
    "visita": "Sex"
   },
   {
@@ -1120,6 +1176,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A32",
+   "sv": "SV. AN. 3",
    "visita": "Sex"
   },
   {
@@ -1132,6 +1189,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A21",
+   "sv": "SV. AN. 2",
    "visita": "Sex"
   },
   {
@@ -1144,6 +1202,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A33",
+   "sv": "SV. AN. 3",
    "visita": "Sex"
   },
   {
@@ -1156,6 +1215,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A21",
+   "sv": "SV. AN. 2",
    "visita": "Qui"
   },
   {
@@ -1168,6 +1228,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A23",
+   "sv": "SV. AN. 2",
    "visita": "Ter"
   },
   {
@@ -1180,6 +1241,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A35",
+   "sv": "SV. AN. 3",
    "visita": "Qua"
   },
   {
@@ -1192,6 +1254,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A37",
+   "sv": "SV. AN. 3",
    "visita": "Sex"
   },
   {
@@ -1204,6 +1267,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A33",
+   "sv": "SV. AN. 3",
    "visita": "Sex"
   },
   {
@@ -1216,6 +1280,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A22",
+   "sv": "SV. AN. 2",
    "visita": "Qua"
   },
   {
@@ -1228,6 +1293,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A35",
+   "sv": "SV. AN. 3",
    "visita": "Qua"
   },
   {
@@ -1240,6 +1306,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A35",
+   "sv": "SV. AN. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -1252,6 +1319,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A23",
+   "sv": "SV. AN. 2",
    "visita": "Ter"
   },
   {
@@ -1264,6 +1332,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A34",
+   "sv": "SV. AN. 3",
    "visita": "Sex"
   },
   {
@@ -1276,6 +1345,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A13",
+   "sv": "SV. AN. 1",
    "visita": "Qua"
   },
   {
@@ -1288,6 +1358,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A31",
+   "sv": "SV. AN. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -1300,6 +1371,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A37",
+   "sv": "SV. AN. 3",
    "visita": "Qui"
   },
   {
@@ -1312,6 +1384,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A35",
+   "sv": "SV. AN. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -1324,6 +1397,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "A23",
+   "sv": "SV. AN. 2",
    "visita": "Ter"
   },
   {
@@ -1336,6 +1410,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "524",
+   "sv": "SV. AP. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -1348,6 +1423,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "527",
+   "sv": "SV. AP. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -1360,6 +1436,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "527",
+   "sv": "SV. AP. 2",
    "visita": "Qui"
   },
   {
@@ -1368,10 +1445,11 @@
    "gc": "AP",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "523",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1384,6 +1462,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "536",
+   "sv": "SV. AP. 3",
    "visita": "Ter"
   },
   {
@@ -1396,6 +1475,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "526",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1408,6 +1488,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "528",
+   "sv": "SV. AP. 2",
    "visita": "Ter"
   },
   {
@@ -1420,6 +1501,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "521",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1432,6 +1514,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "527",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1444,6 +1527,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "528",
+   "sv": "SV. AP. 2",
    "visita": "Ter"
   },
   {
@@ -1456,6 +1540,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "531",
+   "sv": "SV. AP. 3",
    "visita": "Qui"
   },
   {
@@ -1468,6 +1553,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "523",
+   "sv": "SV. AP. 2",
    "visita": "Ter"
   },
   {
@@ -1480,6 +1566,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "535",
+   "sv": "SV. AP. 3",
    "visita": "Qui"
   },
   {
@@ -1492,6 +1579,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "534",
+   "sv": "SV. AP. 3",
    "visita": "Qui"
   },
   {
@@ -1504,6 +1592,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "531",
+   "sv": "SV. AP. 3",
    "visita": "Ter"
   },
   {
@@ -1516,30 +1605,33 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "522",
+   "sv": "SV. AP. 2",
    "visita": "Qui"
   },
   {
    "pv": 1206375,
    "cliente": "SELECT MARAJO",
    "gc": "AP",
-   "produto": "Del Valle Néctar Manga LT 290 ml",
-   "cod": 2894,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "528",
+   "sv": "SV. AP. 2",
    "visita": "Sex"
   },
   {
    "pv": 1191058,
    "cliente": "EMPÓRIO MARTINI",
    "gc": "AP",
-   "produto": "Del Valle Néctar Manga LT 290 ml",
-   "cod": 2894,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "537",
+   "sv": "SV. AP. 3",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -1552,6 +1644,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "533",
+   "sv": "SV. AP. 3",
    "visita": "Ter - Sex"
   },
   {
@@ -1564,6 +1657,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "531",
+   "sv": "SV. AP. 3",
    "visita": "Ter"
   },
   {
@@ -1576,6 +1670,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "527",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1588,18 +1683,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "528",
+   "sv": "SV. AP. 2",
    "visita": "Qui"
   },
   {
    "pv": 1206712,
    "cliente": "MALU SUPERMERCADO",
    "gc": "AP",
-   "produto": "Del Valle Néctar Pêssego TP 200 ml",
-   "cod": 2884,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "524",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1612,6 +1709,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "522",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1624,6 +1722,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "533",
+   "sv": "SV. AP. 3",
    "visita": "Ter"
   },
   {
@@ -1636,6 +1735,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "533",
+   "sv": "SV. AP. 3",
    "visita": "Sex"
   },
   {
@@ -1648,6 +1748,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "533",
+   "sv": "SV. AP. 3",
    "visita": "Qui"
   },
   {
@@ -1660,6 +1761,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "524",
+   "sv": "SV. AP. 2",
    "visita": "Qui"
   },
   {
@@ -1672,6 +1774,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "536",
+   "sv": "SV. AP. 3",
    "visita": "Qua"
   },
   {
@@ -1684,6 +1787,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "521",
+   "sv": "SV. AP. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -1696,6 +1800,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "536",
+   "sv": "SV. AP. 3",
    "visita": "Ter"
   },
   {
@@ -1704,10 +1809,11 @@
    "gc": "AP",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "528",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1720,6 +1826,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "535",
+   "sv": "SV. AP. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -1732,6 +1839,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "534",
+   "sv": "SV. AP. 3",
    "visita": "Ter"
   },
   {
@@ -1744,6 +1852,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "534",
+   "sv": "SV. AP. 3",
    "visita": "Ter"
   },
   {
@@ -1756,6 +1865,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "528",
+   "sv": "SV. AP. 2",
    "visita": "Ter"
   },
   {
@@ -1768,6 +1878,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "527",
+   "sv": "SV. AP. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -1780,6 +1891,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "524",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1792,6 +1904,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "532",
+   "sv": "SV. AP. 3",
    "visita": "Qua"
   },
   {
@@ -1804,6 +1917,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "525",
+   "sv": "SV. AP. 2",
    "visita": "Qui"
   },
   {
@@ -1816,6 +1930,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "533",
+   "sv": "SV. AP. 3",
    "visita": "Ter"
   },
   {
@@ -1828,6 +1943,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "525",
+   "sv": "SV. AP. 2",
    "visita": "Ter"
   },
   {
@@ -1840,6 +1956,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "521",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1852,6 +1969,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "528",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1864,6 +1982,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "521",
+   "sv": "SV. AP. 2",
    "visita": "Sex"
   },
   {
@@ -1876,6 +1995,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "537",
+   "sv": "SV. AP. 3",
    "visita": "Ter"
   },
   {
@@ -1888,30 +2008,33 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "537",
+   "sv": "SV. AP. 3",
    "visita": "Sex"
   },
   {
    "pv": 1211127,
    "cliente": "CONVENIÊNCIA POSTO SÃO JOAO BATISTA",
    "gc": "AP",
-   "produto": "Powerade Laranja PET 500 ml",
-   "cod": 3635,
+   "produto": "Powerade Uva PET 500 ml",
+   "cod": 3633,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "526",
+   "sv": "SV. AP. 2",
    "visita": "Qui"
   },
   {
    "pv": 1089570,
    "cliente": "CONV AUTO POSTO N",
    "gc": "AP",
-   "produto": "Powerade Laranja PET 500 ml",
-   "cod": 3635,
-   "status": "d1",
+   "produto": "Powerade Uva PET 500 ml",
+   "cod": 3633,
+   "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "528",
+   "sv": "SV. AP. 2",
    "visita": "Ter"
   },
   {
@@ -1924,6 +2047,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "524",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1936,6 +2060,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "525",
+   "sv": "SV. AP. 2",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -1944,10 +2069,11 @@
    "gc": "AP",
    "produto": "Powerade Uva PET 500 ml",
    "cod": 3633,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "522",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1960,6 +2086,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "521",
+   "sv": "SV. AP. 2",
    "visita": "Qui"
   },
   {
@@ -1972,6 +2099,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "528",
+   "sv": "SV. AP. 2",
    "visita": "Qui"
   },
   {
@@ -1984,6 +2112,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "522",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -1996,6 +2125,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "534",
+   "sv": "SV. AP. 3",
    "visita": "Qui"
   },
   {
@@ -2008,6 +2138,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "536",
+   "sv": "SV. AP. 3",
    "visita": "Qua"
   },
   {
@@ -2020,6 +2151,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "532",
+   "sv": "SV. AP. 3",
    "visita": "Ter"
   },
   {
@@ -2032,6 +2164,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "523",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -2044,6 +2177,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "533",
+   "sv": "SV. AP. 3",
    "visita": "Sex"
   },
   {
@@ -2056,6 +2190,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "525",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -2068,6 +2203,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "533",
+   "sv": "SV. AP. 3",
    "visita": "Qui"
   },
   {
@@ -2080,6 +2216,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "527",
+   "sv": "SV. AP. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -2092,6 +2229,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "528",
+   "sv": "SV. AP. 2",
    "visita": "Qua"
   },
   {
@@ -2104,6 +2242,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "531",
+   "sv": "SV. AP. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -2116,6 +2255,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "531",
+   "sv": "SV. AP. 3",
    "visita": "Sex"
   },
   {
@@ -2128,6 +2268,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "522",
+   "sv": "SV. AP. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -2140,6 +2281,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "525",
+   "sv": "SV. AP. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -2152,6 +2294,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "527",
+   "sv": "SV. AP. 2",
    "visita": "Qui"
   },
   {
@@ -2164,6 +2307,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "532",
+   "sv": "SV. AP. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -2176,6 +2320,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "532",
+   "sv": "SV. AP. 3",
    "visita": "Sex"
   },
   {
@@ -2188,6 +2333,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "525",
+   "sv": "SV. AP. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -2196,10 +2342,11 @@
    "gc": "DI",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "D14",
+   "sv": "SV. DI. 1",
    "visita": "Qui"
   },
   {
@@ -2212,6 +2359,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "D12",
+   "sv": "SV. DI. 1",
    "visita": "Qua"
   },
   {
@@ -2224,90 +2372,98 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "D11",
+   "sv": "SV. DI. 1",
    "visita": "Sex"
   },
   {
    "pv": 1189935,
    "cliente": "SUPERMERCADO TREVO",
    "gc": "DI",
-   "produto": "Del Valle Néctar Laranja TP 1 L",
-   "cod": 1635,
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "D13",
+   "sv": "SV. DI. 1",
    "visita": "Qui"
   },
   {
    "pv": 1207392,
    "cliente": "SUPER SÃO JOSÉ",
    "gc": "DI",
-   "produto": "Del Valle Néctar Laranja TP 1 L",
-   "cod": 1635,
-   "status": "d1",
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
+   "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "D15",
+   "sv": "SV. DI. 1",
    "visita": "Sex"
   },
   {
    "pv": 1098532,
    "cliente": "COMERCIAL CARNE E FRIOS DIAS",
    "gc": "DI",
-   "produto": "Del Valle Néctar Manga TP 1 L",
-   "cod": 2896,
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "D14",
+   "sv": "SV. DI. 1",
    "visita": "Ter"
   },
   {
    "pv": 1203774,
    "cliente": "SUPERMERCADO PAIVA",
    "gc": "DI",
-   "produto": "Del Valle Néctar Maracujá LT 290 ml",
-   "cod": 2167,
-   "status": "pendente",
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "D11",
+   "sv": "SV. DI. 1",
    "visita": "Qua"
   },
   {
    "pv": 1199766,
    "cliente": "LAGOA DO JAPONES",
    "gc": "DI",
-   "produto": "Del Valle Néctar Maracujá LT 290 ml",
-   "cod": 2167,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "D12",
+   "sv": "SV. DI. 1",
    "visita": "Ter"
   },
   {
    "pv": 1093042,
    "cliente": "PANIF DOCE PÃO 2",
    "gc": "DI",
-   "produto": "Kapo Maçã TP 200 ml",
-   "cod": 3606,
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "D14",
+   "sv": "SV. DI. 1",
    "visita": "Ter"
   },
   {
    "pv": 1222857,
    "cliente": "NOSSO PAO",
    "gc": "DI",
-   "produto": "Kapo Maçã TP 200 ml",
-   "cod": 3606,
-   "status": "pendente",
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "D14",
+   "sv": "SV. DI. 1",
    "visita": "Qua"
   },
   {
@@ -2320,6 +2476,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "D11",
+   "sv": "SV. DI. 1",
    "visita": "Qua"
   },
   {
@@ -2328,10 +2485,11 @@
    "gc": "DI",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "D14",
+   "sv": "SV. DI. 1",
    "visita": "Qui"
   },
   {
@@ -2344,6 +2502,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "D12",
+   "sv": "SV. DI. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -2356,6 +2515,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "D11",
+   "sv": "SV. DI. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -2368,6 +2528,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "D12",
+   "sv": "SV. DI. 1",
    "visita": "Qua"
   },
   {
@@ -2380,6 +2541,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "D12",
+   "sv": "SV. DI. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -2392,18 +2554,20 @@
    "b2b": "Não",
    "obs": "",
    "rota": "D11",
+   "sv": "SV. DI. 1",
    "visita": "Ter"
   },
   {
    "pv": 1131948,
    "cliente": "PIZZ E PAS DA LU",
    "gc": "DI",
-   "produto": "Del Valle Néctar Maracujá LT 290 ml",
-   "cod": 2167,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "D13",
+   "sv": "SV. DI. 1",
    "visita": "Ter"
   },
   {
@@ -2416,6 +2580,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "D14",
+   "sv": "SV. DI. 1",
    "visita": "Qui"
   },
   {
@@ -2428,6 +2593,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "D14",
+   "sv": "SV. DI. 1",
    "visita": "Ter"
   },
   {
@@ -2440,6 +2606,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "D11",
+   "sv": "SV. DI. 1",
    "visita": "Sex"
   },
   {
@@ -2452,6 +2619,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "D12",
+   "sv": "SV. DI. 1",
    "visita": "Ter"
   },
   {
@@ -2464,6 +2632,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "D13",
+   "sv": "SV. DI. 1",
    "visita": "Qui"
   },
   {
@@ -2476,6 +2645,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "D14",
+   "sv": "SV. DI. 1",
    "visita": "Qua"
   },
   {
@@ -2488,6 +2658,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "D11",
+   "sv": "SV. DI. 1",
    "visita": "Ter"
   },
   {
@@ -2496,10 +2667,11 @@
    "gc": "DI",
    "produto": "Powerade Uva PET 500 ml",
    "cod": 3633,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "D13",
+   "sv": "SV. DI. 1",
    "visita": "Qui"
   },
   {
@@ -2512,6 +2684,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "113",
+   "sv": "SV. G1. 1",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -2524,6 +2697,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "117",
+   "sv": "SV. G1. 1",
    "visita": "Qui"
   },
   {
@@ -2536,6 +2710,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "112",
+   "sv": "SV. G1. 1",
    "visita": "Ter"
   },
   {
@@ -2548,6 +2723,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "123",
+   "sv": "SV. G1. 2",
    "visita": "Qui"
   },
   {
@@ -2560,6 +2736,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "122",
+   "sv": "SV. G1. 2",
    "visita": "Ter"
   },
   {
@@ -2572,6 +2749,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "122",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -2584,6 +2762,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "124",
+   "sv": "SV. G1. 2",
    "visita": "Qua"
   },
   {
@@ -2596,6 +2775,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "112",
+   "sv": "SV. G1. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -2608,6 +2788,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "125",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -2616,10 +2797,11 @@
    "gc": "G1",
    "produto": "Del Valle Frut Uva PET 450 ml",
    "cod": 2327,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "112",
+   "sv": "SV. G1. 1",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -2632,6 +2814,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "116",
+   "sv": "SV. G1. 1",
    "visita": "Ter"
   },
   {
@@ -2644,6 +2827,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "122",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -2656,6 +2840,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "116",
+   "sv": "SV. G1. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -2668,6 +2853,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "126",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -2680,6 +2866,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "116",
+   "sv": "SV. G1. 1",
    "visita": "Sex"
   },
   {
@@ -2692,6 +2879,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "124",
+   "sv": "SV. G1. 2",
    "visita": "Qua"
   },
   {
@@ -2704,6 +2892,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "112",
+   "sv": "SV. G1. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -2716,6 +2905,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "112",
+   "sv": "SV. G1. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -2728,6 +2918,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "111",
+   "sv": "SV. G1. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -2740,6 +2931,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "122",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -2752,6 +2944,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "123",
+   "sv": "SV. G1. 2",
    "visita": "Ter"
   },
   {
@@ -2764,6 +2957,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "125",
+   "sv": "SV. G1. 2",
    "visita": "Ter"
   },
   {
@@ -2776,6 +2970,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "123",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -2788,6 +2983,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "114",
+   "sv": "SV. G1. 1",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -2800,6 +2996,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "122",
+   "sv": "SV. G1. 2",
    "visita": "Qua"
   },
   {
@@ -2812,6 +3009,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "122",
+   "sv": "SV. G1. 2",
    "visita": "Qui"
   },
   {
@@ -2824,6 +3022,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "121",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -2836,6 +3035,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "115",
+   "sv": "SV. G1. 1",
    "visita": "Sex"
   },
   {
@@ -2848,6 +3048,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "116",
+   "sv": "SV. G1. 1",
    "visita": "Qui"
   },
   {
@@ -2860,6 +3061,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "123",
+   "sv": "SV. G1. 2",
    "visita": "Qua"
   },
   {
@@ -2872,6 +3074,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "112",
+   "sv": "SV. G1. 1",
    "visita": "Ter"
   },
   {
@@ -2884,6 +3087,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "116",
+   "sv": "SV. G1. 1",
    "visita": "Qua"
   },
   {
@@ -2896,6 +3100,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "113",
+   "sv": "SV. G1. 1",
    "visita": "Ter"
   },
   {
@@ -2908,6 +3113,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "113",
+   "sv": "SV. G1. 1",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -2920,6 +3126,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "124",
+   "sv": "SV. G1. 2",
    "visita": "Qui"
   },
   {
@@ -2932,6 +3139,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "125",
+   "sv": "SV. G1. 2",
    "visita": "Qui"
   },
   {
@@ -2944,6 +3152,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "125",
+   "sv": "SV. G1. 2",
    "visita": "Ter"
   },
   {
@@ -2956,6 +3165,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "125",
+   "sv": "SV. G1. 2",
    "visita": "Qua"
   },
   {
@@ -2968,6 +3178,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "113",
+   "sv": "SV. G1. 1",
    "visita": "Sex"
   },
   {
@@ -2980,6 +3191,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "127",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -2992,6 +3204,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "117",
+   "sv": "SV. G1. 1",
    "visita": "Sex"
   },
   {
@@ -3004,6 +3217,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "122",
+   "sv": "SV. G1. 2",
    "visita": "Ter"
   },
   {
@@ -3016,6 +3230,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "126",
+   "sv": "SV. G1. 2",
    "visita": "Qui"
   },
   {
@@ -3024,10 +3239,11 @@
    "gc": "G1",
    "produto": "Powerade Uva PET 500 ml",
    "cod": 3633,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "122",
+   "sv": "SV. G1. 2",
    "visita": "Qua"
   },
   {
@@ -3040,6 +3256,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "121",
+   "sv": "SV. G1. 2",
    "visita": "Qua"
   },
   {
@@ -3052,6 +3269,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "121",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -3064,6 +3282,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "126",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -3076,6 +3295,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "111",
+   "sv": "SV. G1. 1",
    "visita": "Qui"
   },
   {
@@ -3088,6 +3308,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "124",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -3100,6 +3321,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "113",
+   "sv": "SV. G1. 1",
    "visita": "Qua"
   },
   {
@@ -3112,6 +3334,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "114",
+   "sv": "SV. G1. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -3124,6 +3347,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "117",
+   "sv": "SV. G1. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -3136,6 +3360,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "111",
+   "sv": "SV. G1. 1",
    "visita": "Qua"
   },
   {
@@ -3148,6 +3373,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "111",
+   "sv": "SV. G1. 1",
    "visita": "Ter"
   },
   {
@@ -3160,6 +3386,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "112",
+   "sv": "SV. G1. 1",
    "visita": "Sex"
   },
   {
@@ -3172,6 +3399,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "111",
+   "sv": "SV. G1. 1",
    "visita": "Sex"
   },
   {
@@ -3184,6 +3412,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "111",
+   "sv": "SV. G1. 1",
    "visita": "Ter"
   },
   {
@@ -3196,6 +3425,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "111",
+   "sv": "SV. G1. 1",
    "visita": "Qua"
   },
   {
@@ -3208,6 +3438,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "123",
+   "sv": "SV. G1. 2",
    "visita": "Qua"
   },
   {
@@ -3220,6 +3451,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "121",
+   "sv": "SV. G1. 2",
    "visita": "Qui"
   },
   {
@@ -3232,6 +3464,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "124",
+   "sv": "SV. G1. 2",
    "visita": "Sex"
   },
   {
@@ -3244,6 +3477,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "121",
+   "sv": "SV. G1. 2",
    "visita": "Qui"
   },
   {
@@ -3256,6 +3490,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "121",
+   "sv": "SV. G1. 2",
    "visita": "Qua"
   },
   {
@@ -3268,6 +3503,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "126",
+   "sv": "SV. G1. 2",
    "visita": "Ter"
   },
   {
@@ -3280,6 +3516,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "115",
+   "sv": "SV. G1. 1",
    "visita": "Qua"
   },
   {
@@ -3292,6 +3529,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "113",
+   "sv": "SV. G1. 1",
    "visita": "Qui"
   },
   {
@@ -3304,18 +3542,20 @@
    "b2b": "Não",
    "obs": "",
    "rota": "112",
+   "sv": "SV. G1. 1",
    "visita": "Seg - Sab"
   },
   {
    "pv": 1198818,
    "cliente": "ANGELS PAMONHARIA",
    "gc": "G2",
-   "produto": "Del Valle Frut Cítricas PET 1 L",
-   "cod": 3389,
+   "produto": "Del Valle Frut Laranja PET 1,5 L",
+   "cod": 2321,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "216",
+   "sv": "SV. G2. 1",
    "visita": "Qui"
   },
   {
@@ -3328,6 +3568,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "223",
+   "sv": "SV. G2. 2",
    "visita": "Qui"
   },
   {
@@ -3340,6 +3581,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "224",
+   "sv": "SV. G2. 2",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -3352,6 +3594,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "227",
+   "sv": "SV. G2. 2",
    "visita": "Qua"
   },
   {
@@ -3364,6 +3607,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "225",
+   "sv": "SV. G2. 2",
    "visita": "Sex"
   },
   {
@@ -3376,6 +3620,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "225",
+   "sv": "SV. G2. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -3388,6 +3633,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "224",
+   "sv": "SV. G2. 2",
    "visita": "Sex"
   },
   {
@@ -3400,6 +3646,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "223",
+   "sv": "SV. G2. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -3412,6 +3659,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "214",
+   "sv": "SV. G2. 1",
    "visita": "Qua"
   },
   {
@@ -3424,6 +3672,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
+   "sv": "SV. G2. 1",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -3436,6 +3685,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "217",
+   "sv": "SV. G2. 1",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -3448,6 +3698,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
+   "sv": "SV. G2. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -3460,6 +3711,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "221",
+   "sv": "SV. G2. 2",
    "visita": "Sex"
   },
   {
@@ -3472,6 +3724,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "223",
+   "sv": "SV. G2. 2",
    "visita": "Qua"
   },
   {
@@ -3480,10 +3733,11 @@
    "gc": "G2",
    "produto": "Del Valle Néctar Pêssego TP 1 L",
    "cod": 1630,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "221",
+   "sv": "SV. G2. 2",
    "visita": "Qua"
   },
   {
@@ -3496,6 +3750,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "222",
+   "sv": "SV. G2. 2",
    "visita": "Qua"
   },
   {
@@ -3508,6 +3763,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "223",
+   "sv": "SV. G2. 2",
    "visita": "Qui"
   },
   {
@@ -3520,6 +3776,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "227",
+   "sv": "SV. G2. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -3532,6 +3789,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "221",
+   "sv": "SV. G2. 2",
    "visita": "Ter - Qui"
   },
   {
@@ -3544,6 +3802,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "211",
+   "sv": "SV. G2. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -3556,6 +3815,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "227",
+   "sv": "SV. G2. 2",
    "visita": "Qui"
   },
   {
@@ -3568,6 +3828,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "212",
+   "sv": "SV. G2. 1",
    "visita": "Ter"
   },
   {
@@ -3580,6 +3841,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
+   "sv": "SV. G2. 1",
    "visita": "Ter"
   },
   {
@@ -3592,6 +3854,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "213",
+   "sv": "SV. G2. 1",
    "visita": "Qua"
   },
   {
@@ -3604,6 +3867,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "227",
+   "sv": "SV. G2. 2",
    "visita": "Sex"
   },
   {
@@ -3616,6 +3880,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "216",
+   "sv": "SV. G2. 1",
    "visita": "Ter"
   },
   {
@@ -3628,6 +3893,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "223",
+   "sv": "SV. G2. 2",
    "visita": "Ter"
   },
   {
@@ -3640,6 +3906,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "226",
+   "sv": "SV. G2. 2",
    "visita": "Qui"
   },
   {
@@ -3652,6 +3919,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
+   "sv": "SV. G2. 1",
    "visita": "Ter"
   },
   {
@@ -3664,6 +3932,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "211",
+   "sv": "SV. G2. 1",
    "visita": "Ter"
   },
   {
@@ -3676,6 +3945,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "223",
+   "sv": "SV. G2. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -3688,6 +3958,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
+   "sv": "SV. G2. 1",
    "visita": "Qua"
   },
   {
@@ -3700,6 +3971,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "213",
+   "sv": "SV. G2. 1",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -3712,18 +3984,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "227",
+   "sv": "SV. G2. 2",
    "visita": "Seg - Sab"
   },
   {
    "pv": 1034939,
    "cliente": "SUPER GUANABARA III",
    "gc": "G2",
-   "produto": "Powerade Laranja PET 500 ml",
-   "cod": 3635,
-   "status": "pendente",
+   "produto": "Powerade Uva PET 500 ml",
+   "cod": 3633,
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "222",
+   "sv": "SV. G2. 2",
    "visita": "Qui"
   },
   {
@@ -3736,6 +4010,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "214",
+   "sv": "SV. G2. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -3748,6 +4023,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "215",
+   "sv": "SV. G2. 1",
    "visita": "Ter"
   },
   {
@@ -3760,6 +4036,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "212",
+   "sv": "SV. G2. 1",
    "visita": "Qua"
   },
   {
@@ -3772,6 +4049,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "224",
+   "sv": "SV. G2. 2",
    "visita": "Qui"
   },
   {
@@ -3784,6 +4062,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "221",
+   "sv": "SV. G2. 2",
    "visita": "Qui"
   },
   {
@@ -3796,6 +4075,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "224",
+   "sv": "SV. G2. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -3808,6 +4088,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "217",
+   "sv": "SV. G2. 1",
    "visita": "Qua"
   },
   {
@@ -3820,6 +4101,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "212",
+   "sv": "SV. G2. 1",
    "visita": "Qui"
   },
   {
@@ -3828,10 +4110,11 @@
    "gc": "G2",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "211",
+   "sv": "SV. G2. 1",
    "visita": "Qui"
   },
   {
@@ -3844,6 +4127,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "215",
+   "sv": "SV. G2. 1",
    "visita": "Sex"
   },
   {
@@ -3856,6 +4140,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "224",
+   "sv": "SV. G2. 2",
    "visita": "Ter"
   },
   {
@@ -3868,6 +4153,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "224",
+   "sv": "SV. G2. 2",
    "visita": "Sex"
   },
   {
@@ -3880,6 +4166,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "211",
+   "sv": "SV. G2. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -3892,6 +4179,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "215",
+   "sv": "SV. G2. 1",
    "visita": "Sex"
   },
   {
@@ -3904,6 +4192,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "214",
+   "sv": "SV. G2. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -3916,18 +4205,20 @@
    "b2b": "Não",
    "obs": "",
    "rota": "214",
+   "sv": "SV. G2. 1",
    "visita": "Sex"
   },
   {
    "pv": 1219127,
    "cliente": "FLASH SMASH",
    "gc": "G2",
-   "produto": "Del Valle Néctar Pêssego TP 200 ml",
-   "cod": 2884,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "213",
+   "sv": "SV. G2. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -3940,6 +4231,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "211",
+   "sv": "SV. G2. 1",
    "visita": "Qui"
   },
   {
@@ -3952,6 +4244,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "214",
+   "sv": "SV. G2. 1",
    "visita": "Qua"
   },
   {
@@ -3964,6 +4257,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "214",
+   "sv": "SV. G2. 1",
    "visita": "Qua"
   },
   {
@@ -3976,6 +4270,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "227",
+   "sv": "SV. G2. 2",
    "visita": "Qui"
   },
   {
@@ -3988,6 +4283,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "212",
+   "sv": "SV. G2. 1",
    "visita": "Sex"
   },
   {
@@ -4000,6 +4296,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "212",
+   "sv": "SV. G2. 1",
    "visita": "Qui"
   },
   {
@@ -4012,6 +4309,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "214",
+   "sv": "SV. G2. 1",
    "visita": "Ter"
   },
   {
@@ -4024,6 +4322,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "213",
+   "sv": "SV. G2. 1",
    "visita": "Sex"
   },
   {
@@ -4036,6 +4335,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "221",
+   "sv": "SV. G2. 2",
    "visita": "Ter"
   },
   {
@@ -4048,6 +4348,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "223",
+   "sv": "SV. G2. 2",
    "visita": "Ter"
   },
   {
@@ -4060,6 +4361,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "213",
+   "sv": "SV. G2. 1",
    "visita": "Ter"
   },
   {
@@ -4072,6 +4374,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "227",
+   "sv": "SV. G2. 2",
    "visita": "Ter"
   },
   {
@@ -4084,6 +4387,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "212",
+   "sv": "SV. G2. 1",
    "visita": "Qui"
   },
   {
@@ -4096,6 +4400,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "324",
+   "sv": "SV. G3. 2",
    "visita": "Qui"
   },
   {
@@ -4108,6 +4413,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "323",
+   "sv": "SV. G3. 2",
    "visita": "Sex"
   },
   {
@@ -4120,6 +4426,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "321",
+   "sv": "SV. G3. 2",
    "visita": "Ter"
   },
   {
@@ -4132,6 +4439,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "323",
+   "sv": "SV. G3. 2",
    "visita": "Qui"
   },
   {
@@ -4140,10 +4448,11 @@
    "gc": "G3",
    "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
    "cod": 2317,
-   "status": "pendente",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "324",
+   "sv": "SV. G3. 2",
    "visita": "Qua"
   },
   {
@@ -4156,6 +4465,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "325",
+   "sv": "SV. G3. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -4168,6 +4478,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "316",
+   "sv": "SV. G3. 1",
    "visita": "Qua - Sex"
   },
   {
@@ -4180,6 +4491,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "312",
+   "sv": "SV. G3. 1",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -4192,6 +4504,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "311",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4204,6 +4517,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "317",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4216,54 +4530,59 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "323",
+   "sv": "SV. G3. 2",
    "visita": "Ter"
   },
   {
    "pv": 1162762,
    "cliente": "COMPLETINHA CONVENIÊNCIA",
    "gc": "G3",
-   "produto": "Del Valle Néctar Manga LT 290 ml",
-   "cod": 2894,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "315",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
    "pv": 1115173,
    "cliente": "SUPER PÃO",
    "gc": "G3",
-   "produto": "Del Valle Néctar Manga LT 290 ml",
-   "cod": 2894,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "317",
+   "sv": "SV. G3. 1",
    "visita": "Qua - Sex"
   },
   {
    "pv": 1174141,
    "cliente": "CAMPINAS ATACADO",
    "gc": "G3",
-   "produto": "Del Valle Néctar Manga LT 290 ml",
-   "cod": 2894,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "312",
+   "sv": "SV. G3. 1",
    "visita": "Qua - Sex"
   },
   {
    "pv": 1104963,
    "cliente": "SUPER KAIROS",
    "gc": "G3",
-   "produto": "Del Valle Néctar Manga TP 1 L",
-   "cod": 2896,
-   "status": "pendente",
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "322",
+   "sv": "SV. G3. 2",
    "visita": "Qua"
   },
   {
@@ -4276,6 +4595,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "323",
+   "sv": "SV. G3. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -4288,6 +4608,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "324",
+   "sv": "SV. G3. 2",
    "visita": "Ter"
   },
   {
@@ -4300,6 +4621,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "312",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4312,6 +4634,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "323",
+   "sv": "SV. G3. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -4324,6 +4647,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "323",
+   "sv": "SV. G3. 2",
    "visita": "Qua"
   },
   {
@@ -4336,6 +4660,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "324",
+   "sv": "SV. G3. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -4348,6 +4673,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "325",
+   "sv": "SV. G3. 2",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -4360,6 +4686,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "316",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4372,6 +4699,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "313",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4384,6 +4712,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "324",
+   "sv": "SV. G3. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -4396,30 +4725,33 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "311",
+   "sv": "SV. G3. 1",
    "visita": "Qua - Sex"
   },
   {
    "pv": 1198322,
    "cliente": "LANCHINHO DA DONA KATIA",
    "gc": "G3",
-   "produto": "Del Valle Néctar Pêssego TP 200 ml",
-   "cod": 2884,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "314",
+   "sv": "SV. G3. 1",
    "visita": "Seg - Qua - Sab"
   },
   {
    "pv": 1216843,
    "cliente": "RESTAURANTE NOVO SABOR",
    "gc": "G3",
-   "produto": "Del Valle Néctar Pêssego TP 200 ml",
-   "cod": 2884,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "313",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4432,6 +4764,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "313",
+   "sv": "SV. G3. 1",
    "visita": "Qua - Sex"
   },
   {
@@ -4444,6 +4777,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "311",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4456,6 +4790,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "311",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4468,6 +4803,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "322",
+   "sv": "SV. G3. 2",
    "visita": "Qui"
   },
   {
@@ -4480,6 +4816,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "321",
+   "sv": "SV. G3. 2",
    "visita": "Qua - Sab"
   },
   {
@@ -4492,6 +4829,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "325",
+   "sv": "SV. G3. 2",
    "visita": "Qua"
   },
   {
@@ -4504,6 +4842,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "316",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4516,6 +4855,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "322",
+   "sv": "SV. G3. 2",
    "visita": "Qua"
   },
   {
@@ -4528,6 +4868,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "324",
+   "sv": "SV. G3. 2",
    "visita": "Qui"
   },
   {
@@ -4540,6 +4881,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "314",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4552,6 +4894,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "312",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4564,6 +4907,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "316",
+   "sv": "SV. G3. 1",
    "visita": "Qua - Sex"
   },
   {
@@ -4576,6 +4920,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "316",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4588,6 +4933,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "324",
+   "sv": "SV. G3. 2",
    "visita": "Ter"
   },
   {
@@ -4600,6 +4946,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "325",
+   "sv": "SV. G3. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -4612,6 +4959,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "312",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4624,6 +4972,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "315",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4636,6 +4985,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "322",
+   "sv": "SV. G3. 2",
    "visita": "Sex"
   },
   {
@@ -4648,6 +4998,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "322",
+   "sv": "SV. G3. 2",
    "visita": "Ter - Sab"
   },
   {
@@ -4660,6 +5011,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "314",
+   "sv": "SV. G3. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -4672,6 +5024,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "315",
+   "sv": "SV. G3. 1",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -4684,6 +5037,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G21",
+   "sv": "SV. GU. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -4692,10 +5046,11 @@
    "gc": "GU",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "G13",
+   "sv": "SV. GU. 1",
    "visita": "Qua"
   },
   {
@@ -4708,6 +5063,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G12",
+   "sv": "SV. GU. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -4720,6 +5076,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G24",
+   "sv": "SV. GU. 2",
    "visita": "Sex"
   },
   {
@@ -4732,6 +5089,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G23",
+   "sv": "SV. GU. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -4744,6 +5102,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G25",
+   "sv": "SV. GU. 2",
    "visita": "Qua"
   },
   {
@@ -4756,6 +5115,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G16",
+   "sv": "SV. GU. 1",
    "visita": "Qua"
   },
   {
@@ -4768,6 +5128,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G13",
+   "sv": "SV. GU. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -4780,6 +5141,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G16",
+   "sv": "SV. GU. 1",
    "visita": "Qui"
   },
   {
@@ -4792,6 +5154,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G14",
+   "sv": "SV. GU. 1",
    "visita": "Ter"
   },
   {
@@ -4804,6 +5167,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G13",
+   "sv": "SV. GU. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -4816,6 +5180,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G15",
+   "sv": "SV. GU. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -4828,6 +5193,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G26",
+   "sv": "SV. GU. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -4836,10 +5202,11 @@
    "gc": "GU",
    "produto": "Del Valle Néctar Pêssego TP 1 L",
    "cod": 1630,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "G14",
+   "sv": "SV. GU. 1",
    "visita": "Qui"
   },
   {
@@ -4852,18 +5219,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G15",
+   "sv": "SV. GU. 1",
    "visita": "Qui"
   },
   {
    "pv": 1220193,
    "cliente": "DECIO CHURRASCARIA",
    "gc": "GU",
-   "produto": "Del Valle Néctar Pêssego TP 200 ml",
-   "cod": 2884,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "G15",
+   "sv": "SV. GU. 1",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -4876,6 +5245,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G24",
+   "sv": "SV. GU. 2",
    "visita": "Ter"
   },
   {
@@ -4888,6 +5258,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G16",
+   "sv": "SV. GU. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -4900,6 +5271,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G12",
+   "sv": "SV. GU. 1",
    "visita": "Sex"
   },
   {
@@ -4908,10 +5280,11 @@
    "gc": "GU",
    "produto": "Kapo Maracujá TP 200 ml",
    "cod": 3604,
-   "status": "pendente",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "G13",
+   "sv": "SV. GU. 1",
    "visita": "Qua"
   },
   {
@@ -4920,10 +5293,11 @@
    "gc": "GU",
    "produto": "Kapo Maracujá TP 200 ml",
    "cod": 3604,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "G25",
+   "sv": "SV. GU. 2",
    "visita": "Qui"
   },
   {
@@ -4936,6 +5310,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G12",
+   "sv": "SV. GU. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -4948,6 +5323,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G25",
+   "sv": "SV. GU. 2",
    "visita": "Qua"
   },
   {
@@ -4960,6 +5336,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G13",
+   "sv": "SV. GU. 1",
    "visita": "Qua"
   },
   {
@@ -4972,6 +5349,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G16",
+   "sv": "SV. GU. 1",
    "visita": "Qua"
   },
   {
@@ -4984,6 +5362,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G22",
+   "sv": "SV. GU. 2",
    "visita": "Qui"
   },
   {
@@ -4996,6 +5375,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G22",
+   "sv": "SV. GU. 2",
    "visita": "Sex"
   },
   {
@@ -5008,6 +5388,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G24",
+   "sv": "SV. GU. 2",
    "visita": "Ter"
   },
   {
@@ -5020,6 +5401,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G23",
+   "sv": "SV. GU. 2",
    "visita": "Ter"
   },
   {
@@ -5028,10 +5410,11 @@
    "gc": "GU",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "G21",
+   "sv": "SV. GU. 2",
    "visita": "Qua"
   },
   {
@@ -5044,6 +5427,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "G16",
+   "sv": "SV. GU. 1",
    "visita": "Qui"
   },
   {
@@ -5052,10 +5436,11 @@
    "gc": "GU",
    "produto": "Powerade Mix PET 500 ml",
    "cod": 3631,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "G12",
+   "sv": "SV. GU. 1",
    "visita": "Qua"
   },
   {
@@ -5064,10 +5449,11 @@
    "gc": "GU",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "G24",
+   "sv": "SV. GU. 2",
    "visita": "Qua"
   },
   {
@@ -5080,6 +5466,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G21",
+   "sv": "SV. GU. 2",
    "visita": "Sex"
   },
   {
@@ -5092,6 +5479,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G22",
+   "sv": "SV. GU. 2",
    "visita": "Ter"
   },
   {
@@ -5104,6 +5492,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G15",
+   "sv": "SV. GU. 1",
    "visita": "Qui"
   },
   {
@@ -5112,22 +5501,24 @@
    "gc": "GU",
    "produto": "Del Valle Frut Uva PET 450 ml",
    "cod": 2327,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "G22",
+   "sv": "SV. GU. 2",
    "visita": "Qua"
   },
   {
    "pv": 1124123,
    "cliente": "DIST POINT CERTO",
    "gc": "GU",
-   "produto": "Del Valle Néctar Laranja TP 1 L",
-   "cod": 1635,
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "G26",
+   "sv": "SV. GU. 2",
    "visita": "Qua"
   },
   {
@@ -5140,6 +5531,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G14",
+   "sv": "SV. GU. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -5152,6 +5544,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G15",
+   "sv": "SV. GU. 1",
    "visita": "Qua"
   },
   {
@@ -5164,6 +5557,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G26",
+   "sv": "SV. GU. 2",
    "visita": "Ter"
   },
   {
@@ -5176,6 +5570,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G17",
+   "sv": "SV. GU. 1",
    "visita": "Ter"
   },
   {
@@ -5188,6 +5583,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G21",
+   "sv": "SV. GU. 2",
    "visita": "Sex"
   },
   {
@@ -5200,6 +5596,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G25",
+   "sv": "SV. GU. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -5212,6 +5609,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G25",
+   "sv": "SV. GU. 2",
    "visita": "Qui"
   },
   {
@@ -5224,6 +5622,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G26",
+   "sv": "SV. GU. 2",
    "visita": "Qui"
   },
   {
@@ -5236,6 +5635,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G21",
+   "sv": "SV. GU. 2",
    "visita": "Ter"
   },
   {
@@ -5248,6 +5648,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G22",
+   "sv": "SV. GU. 2",
    "visita": "Sex"
   },
   {
@@ -5260,6 +5661,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G16",
+   "sv": "SV. GU. 1",
    "visita": "Qui"
   },
   {
@@ -5272,6 +5674,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G14",
+   "sv": "SV. GU. 1",
    "visita": "Ter"
   },
   {
@@ -5284,6 +5687,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G21",
+   "sv": "SV. GU. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -5296,6 +5700,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G12",
+   "sv": "SV. GU. 1",
    "visita": "Sex"
   },
   {
@@ -5308,6 +5713,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G16",
+   "sv": "SV. GU. 1",
    "visita": "Qua"
   },
   {
@@ -5320,6 +5726,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G24",
+   "sv": "SV. GU. 2",
    "visita": "Ter"
   },
   {
@@ -5332,6 +5739,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G25",
+   "sv": "SV. GU. 2",
    "visita": "Sex"
   },
   {
@@ -5344,6 +5752,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G21",
+   "sv": "SV. GU. 2",
    "visita": "Qui"
   },
   {
@@ -5356,6 +5765,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "G12",
+   "sv": "SV. GU. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -5364,10 +5774,11 @@
    "gc": "IT",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "I23",
+   "sv": "SV. IT. 2",
    "visita": "Qua"
   },
   {
@@ -5380,6 +5791,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I23",
+   "sv": "SV. IT. 2",
    "visita": "Qui"
   },
   {
@@ -5392,6 +5804,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I21",
+   "sv": "SV. IT. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -5404,18 +5817,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I23",
+   "sv": "SV. IT. 2",
    "visita": "Qui"
   },
   {
    "pv": 1108056,
    "cliente": "TEK FRIOS",
    "gc": "IT",
-   "produto": "Del Valle Néctar Manga LT 290 ml",
-   "cod": 2894,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "I22",
+   "sv": "SV. IT. 2",
    "visita": "Sex"
   },
   {
@@ -5428,6 +5843,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I13",
+   "sv": "SV. IT. 1",
    "visita": "Sex"
   },
   {
@@ -5440,6 +5856,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I11",
+   "sv": "SV. IT. 1",
    "visita": "Ter"
   },
   {
@@ -5452,6 +5869,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I24",
+   "sv": "SV. IT. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -5464,6 +5882,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I21",
+   "sv": "SV. IT. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -5476,6 +5895,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I25",
+   "sv": "SV. IT. 2",
    "visita": "Qua"
   },
   {
@@ -5488,6 +5908,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I22",
+   "sv": "SV. IT. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -5500,6 +5921,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I24",
+   "sv": "SV. IT. 2",
    "visita": "Ter"
   },
   {
@@ -5508,10 +5930,11 @@
    "gc": "IT",
    "produto": "Del Valle Néctar Uva LT 290 ml",
    "cod": 2169,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "I13",
+   "sv": "SV. IT. 1",
    "visita": "Qua"
   },
   {
@@ -5520,10 +5943,11 @@
    "gc": "IT",
    "produto": "Del Valle Néctar Uva TP 1 L",
    "cod": 1633,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "I15",
+   "sv": "SV. IT. 1",
    "visita": "Qua"
   },
   {
@@ -5536,6 +5960,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I22",
+   "sv": "SV. IT. 2",
    "visita": "Qua"
   },
   {
@@ -5548,6 +5973,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I21",
+   "sv": "SV. IT. 2",
    "visita": "Qui"
   },
   {
@@ -5560,6 +5986,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I11",
+   "sv": "SV. IT. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -5572,6 +5999,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I23",
+   "sv": "SV. IT. 2",
    "visita": "Qua"
   },
   {
@@ -5584,6 +6012,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I16",
+   "sv": "SV. IT. 1",
    "visita": "Qui"
   },
   {
@@ -5596,6 +6025,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I25",
+   "sv": "SV. IT. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -5604,10 +6034,11 @@
    "gc": "IT",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "I22",
+   "sv": "SV. IT. 2",
    "visita": "Qua"
   },
   {
@@ -5620,6 +6051,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I21",
+   "sv": "SV. IT. 2",
    "visita": "Sex"
   },
   {
@@ -5632,18 +6064,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "I16",
+   "sv": "SV. IT. 1",
    "visita": "Ter"
   },
   {
    "pv": 1061556,
    "cliente": "PANIF REAL",
    "gc": "IT",
-   "produto": "Del Valle Frut Laranja PET 1 L",
-   "cod": 2450,
+   "produto": "Del Valle Frut Laranja PET 1,5 L",
+   "cod": 2321,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "I24",
+   "sv": "SV. IT. 2",
    "visita": "Sex"
   },
   {
@@ -5652,10 +6086,11 @@
    "gc": "IT",
    "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
    "cod": 2317,
-   "status": "online",
+   "status": "d1",
    "b2b": "Não",
    "obs": "",
    "rota": "I12",
+   "sv": "SV. IT. 1",
    "visita": "Qua"
   },
   {
@@ -5668,6 +6103,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "I24",
+   "sv": "SV. IT. 2",
    "visita": "Sex"
   },
   {
@@ -5680,6 +6116,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "I12",
+   "sv": "SV. IT. 1",
    "visita": "Ter"
   },
   {
@@ -5692,6 +6129,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "I23",
+   "sv": "SV. IT. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -5704,6 +6142,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "I24",
+   "sv": "SV. IT. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -5716,6 +6155,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "I16",
+   "sv": "SV. IT. 1",
    "visita": "Sex"
   },
   {
@@ -5728,6 +6168,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "I23",
+   "sv": "SV. IT. 2",
    "visita": "Sex"
   },
   {
@@ -5740,6 +6181,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "I22",
+   "sv": "SV. IT. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -5752,6 +6194,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "I14",
+   "sv": "SV. IT. 1",
    "visita": "Ter"
   },
   {
@@ -5764,6 +6207,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "I12",
+   "sv": "SV. IT. 1",
    "visita": "Qua"
   },
   {
@@ -5776,18 +6220,20 @@
    "b2b": "Não",
    "obs": "",
    "rota": "I22",
+   "sv": "SV. IT. 2",
    "visita": "Seg - Sab"
   },
   {
    "pv": 1194292,
    "cliente": "MR SUPERMERCADO",
    "gc": "MO",
-   "produto": "Del Valle Frut Laranja PET 1 L",
-   "cod": 2450,
-   "status": "pendente",
+   "produto": "Del Valle Frut Laranja PET 1,5 L",
+   "cod": 2321,
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "M14",
+   "sv": "SV. MO. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -5796,10 +6242,11 @@
    "gc": "MO",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "pendente",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "M12",
+   "sv": "SV. MO. 1",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -5812,6 +6259,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M13",
+   "sv": "SV. MO. 1",
    "visita": "Qua"
   },
   {
@@ -5820,10 +6268,11 @@
    "gc": "MO",
    "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
    "cod": 2317,
-   "status": "pendente",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "M21",
+   "sv": "SV. MO. 2",
    "visita": "Qua"
   },
   {
@@ -5836,18 +6285,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M12",
+   "sv": "SV. MO. 1",
    "visita": "Qua"
   },
   {
    "pv": 1020729,
    "cliente": "SUPERMERCADO TIO PATIN",
    "gc": "MO",
-   "produto": "Del Valle Néctar Maracujá TP 1 L",
-   "cod": 1634,
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "M12",
+   "sv": "SV. MO. 1",
    "visita": "Sex"
   },
   {
@@ -5860,6 +6311,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M14",
+   "sv": "SV. MO. 1",
    "visita": "Ter - Sab"
   },
   {
@@ -5872,6 +6324,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M11",
+   "sv": "SV. MO. 1",
    "visita": "Qui"
   },
   {
@@ -5884,6 +6337,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M25",
+   "sv": "SV. MO. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -5896,6 +6350,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M15",
+   "sv": "SV. MO. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -5908,18 +6363,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M22",
+   "sv": "SV. MO. 2",
    "visita": "Qui"
   },
   {
    "pv": 1121475,
    "cliente": "POSTO FLORESTA",
    "gc": "MO",
-   "produto": "Del Valle Néctar Uva TP 200 ml",
-   "cod": 2882,
+   "produto": "Del Valle Néctar Uva TP 1 L",
+   "cod": 1633,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "M26",
+   "sv": "SV. MO. 2",
    "visita": "Qui"
   },
   {
@@ -5932,6 +6389,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M13",
+   "sv": "SV. MO. 1",
    "visita": "Ter"
   },
   {
@@ -5944,6 +6402,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M25",
+   "sv": "SV. MO. 2",
    "visita": "Ter"
   },
   {
@@ -5956,6 +6415,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M24",
+   "sv": "SV. MO. 2",
    "visita": "Seg - Ter - Qui - Sab"
   },
   {
@@ -5968,6 +6428,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M23",
+   "sv": "SV. MO. 2",
    "visita": "Ter"
   },
   {
@@ -5980,6 +6441,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M25",
+   "sv": "SV. MO. 2",
    "visita": "Qua"
   },
   {
@@ -5992,6 +6454,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M14",
+   "sv": "SV. MO. 1",
    "visita": "Sex"
   },
   {
@@ -6000,10 +6463,11 @@
    "gc": "MO",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "M21",
+   "sv": "SV. MO. 2",
    "visita": "Qui"
   },
   {
@@ -6016,6 +6480,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M22",
+   "sv": "SV. MO. 2",
    "visita": "Ter"
   },
   {
@@ -6028,6 +6493,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M22",
+   "sv": "SV. MO. 2",
    "visita": "Qui"
   },
   {
@@ -6040,6 +6506,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M26",
+   "sv": "SV. MO. 2",
    "visita": "Ter"
   },
   {
@@ -6052,6 +6519,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "M22",
+   "sv": "SV. MO. 2",
    "visita": "Qui"
   },
   {
@@ -6064,18 +6532,20 @@
    "b2b": "Não",
    "obs": "",
    "rota": "M11",
+   "sv": "SV. MO. 1",
    "visita": "Seg - Sab"
   },
   {
    "pv": 1121906,
    "cliente": "COMPLEM RIO QUENTE",
    "gc": "MO",
-   "produto": "Del Valle Néctar Maracujá TP 1 L",
-   "cod": 1634,
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "M25",
+   "sv": "SV. MO. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -6088,6 +6558,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "M13",
+   "sv": "SV. MO. 1",
    "visita": "Qui"
   },
   {
@@ -6100,6 +6571,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "M13",
+   "sv": "SV. MO. 1",
    "visita": "Qua"
   },
   {
@@ -6112,6 +6584,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "M15",
+   "sv": "SV. MO. 1",
    "visita": "Sex"
   },
   {
@@ -6124,6 +6597,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "M12",
+   "sv": "SV. MO. 1",
    "visita": "Sex"
   },
   {
@@ -6136,6 +6610,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "M13",
+   "sv": "SV. MO. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -6148,6 +6623,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "M13",
+   "sv": "SV. MO. 1",
    "visita": "Qua"
   },
   {
@@ -6160,6 +6636,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "M13",
+   "sv": "SV. MO. 1",
    "visita": "Ter"
   },
   {
@@ -6172,6 +6649,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "M11",
+   "sv": "SV. MO. 1",
    "visita": "Ter"
   },
   {
@@ -6180,10 +6658,11 @@
    "gc": "MO",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "online",
+   "status": "d1",
    "b2b": "Não",
    "obs": "",
    "rota": "M13",
+   "sv": "SV. MO. 1",
    "visita": "Qua"
   },
   {
@@ -6196,6 +6675,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "M13",
+   "sv": "SV. MO. 1",
    "visita": "Ter"
   },
   {
@@ -6208,6 +6688,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P36",
+   "sv": "SV. PA. 3",
    "visita": "Ter"
   },
   {
@@ -6220,6 +6701,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P23",
+   "sv": "SV. PA. 2",
    "visita": "Ter"
   },
   {
@@ -6232,6 +6714,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P24",
+   "sv": "SV. PA. 2",
    "visita": "Qui"
   },
   {
@@ -6240,10 +6723,11 @@
    "gc": "PA",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "P13",
+   "sv": "SV. PA. 1",
    "visita": "Qua"
   },
   {
@@ -6256,6 +6740,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P22",
+   "sv": "SV. PA. 2",
    "visita": "Ter"
   },
   {
@@ -6268,6 +6753,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P34",
+   "sv": "SV. PA. 3",
    "visita": "Ter"
   },
   {
@@ -6280,6 +6766,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P31",
+   "sv": "SV. PA. 3",
    "visita": "Sex"
   },
   {
@@ -6292,6 +6779,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P31",
+   "sv": "SV. PA. 3",
    "visita": "Sex"
   },
   {
@@ -6304,6 +6792,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P31",
+   "sv": "SV. PA. 3",
    "visita": "Sex"
   },
   {
@@ -6316,6 +6805,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P13",
+   "sv": "SV. PA. 1",
    "visita": "Ter"
   },
   {
@@ -6328,6 +6818,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P31",
+   "sv": "SV. PA. 3",
    "visita": "Ter"
   },
   {
@@ -6340,6 +6831,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P31",
+   "sv": "SV. PA. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -6352,30 +6844,33 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P14",
+   "sv": "SV. PA. 1",
    "visita": "Sex"
   },
   {
    "pv": 1208803,
    "cliente": "COMERCIAL GOIAS",
    "gc": "PA",
-   "produto": "Del Valle Néctar Laranja TP 200 ml",
-   "cod": 2886,
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "P33",
+   "sv": "SV. PA. 3",
    "visita": "Qua"
   },
   {
    "pv": 1211703,
    "cliente": "CURUJINHA DISTRIBUIDORA",
    "gc": "PA",
-   "produto": "Del Valle Néctar Manga TP 1 L",
-   "cod": 2896,
-   "status": "d1",
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
+   "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "P22",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -6388,6 +6883,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P33",
+   "sv": "SV. PA. 3",
    "visita": "Qui"
   },
   {
@@ -6396,10 +6892,11 @@
    "gc": "PA",
    "produto": "Del Valle Néctar Pêssego LT 290 ml",
    "cod": 2161,
-   "status": "pendente",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "P22",
+   "sv": "SV. PA. 2",
    "visita": "Qua"
   },
   {
@@ -6412,6 +6909,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P35",
+   "sv": "SV. PA. 3",
    "visita": "Sex"
   },
   {
@@ -6420,10 +6918,11 @@
    "gc": "PA",
    "produto": "Del Valle Néctar Pêssego LT 290 ml",
    "cod": 2161,
-   "status": "pendente",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "P22",
+   "sv": "SV. PA. 2",
    "visita": "Qua"
   },
   {
@@ -6436,6 +6935,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P22",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -6448,6 +6948,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P14",
+   "sv": "SV. PA. 1",
    "visita": "Qua"
   },
   {
@@ -6460,6 +6961,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P22",
+   "sv": "SV. PA. 2",
    "visita": "Sex"
   },
   {
@@ -6472,6 +6974,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P24",
+   "sv": "SV. PA. 2",
    "visita": "Ter"
   },
   {
@@ -6484,30 +6987,33 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P34",
+   "sv": "SV. PA. 3",
    "visita": "Ter"
   },
   {
    "pv": 1202531,
    "cliente": "COMERCIAL BOM PRECO",
    "gc": "PA",
-   "produto": "Kapo Abacaxi TP 200 ml",
-   "cod": 3600,
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
    "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "P36",
+   "sv": "SV. PA. 3",
    "visita": "Ter"
   },
   {
    "pv": 1115749,
    "cliente": "CONVENIENCIA MORAIS TEODOSIO",
    "gc": "PA",
-   "produto": "Kapo Abacaxi TP 200 ml",
-   "cod": 3600,
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
    "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "P33",
+   "sv": "SV. PA. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -6520,6 +7026,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P33",
+   "sv": "SV. PA. 3",
    "visita": "Ter"
   },
   {
@@ -6532,6 +7039,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P15",
+   "sv": "SV. PA. 1",
    "visita": "Ter"
   },
   {
@@ -6544,6 +7052,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P25",
+   "sv": "SV. PA. 2",
    "visita": "Qua"
   },
   {
@@ -6552,10 +7061,11 @@
    "gc": "PA",
    "produto": "Kapo Maracujá TP 200 ml",
    "cod": 3604,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "P13",
+   "sv": "SV. PA. 1",
    "visita": "Qua"
   },
   {
@@ -6568,6 +7078,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P31",
+   "sv": "SV. PA. 3",
    "visita": "Sex"
   },
   {
@@ -6580,6 +7091,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P14",
+   "sv": "SV. PA. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -6592,6 +7104,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P23",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -6600,10 +7113,11 @@
    "gc": "PA",
    "produto": "Kapo Maracujá TP 200 ml",
    "cod": 3604,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "P22",
+   "sv": "SV. PA. 2",
    "visita": "Qui"
   },
   {
@@ -6616,6 +7130,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P23",
+   "sv": "SV. PA. 2",
    "visita": "Ter"
   },
   {
@@ -6628,6 +7143,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P12",
+   "sv": "SV. PA. 1",
    "visita": "Sex"
   },
   {
@@ -6640,6 +7156,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P24",
+   "sv": "SV. PA. 2",
    "visita": "Ter - Sex"
   },
   {
@@ -6652,6 +7169,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P31",
+   "sv": "SV. PA. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -6664,6 +7182,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P14",
+   "sv": "SV. PA. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -6676,6 +7195,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P22",
+   "sv": "SV. PA. 2",
    "visita": "Ter"
   },
   {
@@ -6688,6 +7208,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P22",
+   "sv": "SV. PA. 2",
    "visita": "Ter"
   },
   {
@@ -6700,6 +7221,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P32",
+   "sv": "SV. PA. 3",
    "visita": "Ter - Qui"
   },
   {
@@ -6712,6 +7234,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P23",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -6724,6 +7247,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P35",
+   "sv": "SV. PA. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -6736,6 +7260,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P33",
+   "sv": "SV. PA. 3",
    "visita": "Sex"
   },
   {
@@ -6748,6 +7273,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P12",
+   "sv": "SV. PA. 1",
    "visita": "Qua"
   },
   {
@@ -6756,10 +7282,11 @@
    "gc": "PA",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "P21",
+   "sv": "SV. PA. 2",
    "visita": "Qui"
   },
   {
@@ -6772,6 +7299,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P15",
+   "sv": "SV. PA. 1",
    "visita": "Qui"
   },
   {
@@ -6784,6 +7312,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P34",
+   "sv": "SV. PA. 3",
    "visita": "Qua"
   },
   {
@@ -6796,6 +7325,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P15",
+   "sv": "SV. PA. 1",
    "visita": "Qua"
   },
   {
@@ -6808,6 +7338,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P27",
+   "sv": "SV. PA. 2",
    "visita": "Sex"
   },
   {
@@ -6820,6 +7351,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P36",
+   "sv": "SV. PA. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -6832,6 +7364,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P32",
+   "sv": "SV. PA. 3",
    "visita": "Qua"
   },
   {
@@ -6844,6 +7377,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P32",
+   "sv": "SV. PA. 3",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -6856,6 +7390,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P27",
+   "sv": "SV. PA. 2",
    "visita": "Qua"
   },
   {
@@ -6868,6 +7403,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P26",
+   "sv": "SV. PA. 2",
    "visita": "Ter"
   },
   {
@@ -6876,10 +7412,11 @@
    "gc": "PA",
    "produto": "Powerade Uva PET 500 ml",
    "cod": 3633,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "P24",
+   "sv": "SV. PA. 2",
    "visita": "Qui"
   },
   {
@@ -6892,6 +7429,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "P12",
+   "sv": "SV. PA. 1",
    "visita": "Qui"
   },
   {
@@ -6904,6 +7442,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P13",
+   "sv": "SV. PA. 1",
    "visita": "Qui"
   },
   {
@@ -6916,6 +7455,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P24",
+   "sv": "SV. PA. 2",
    "visita": "Qui"
   },
   {
@@ -6928,6 +7468,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P14",
+   "sv": "SV. PA. 1",
    "visita": "Qui"
   },
   {
@@ -6940,30 +7481,33 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P13",
+   "sv": "SV. PA. 1",
    "visita": "Sex"
   },
   {
    "pv": 1211753,
    "cliente": "PETRO PETROLEO 75",
    "gc": "PA",
-   "produto": "Del Valle Frut Uva PET 1 L",
-   "cod": 2453,
+   "produto": "Del Valle Frut Uva PET 1,5 L",
+   "cod": 2323,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "P14",
+   "sv": "SV. PA. 1",
    "visita": "Ter - Qui"
   },
   {
    "pv": 1149181,
    "cliente": "BAR DO JAOCY",
    "gc": "PA",
-   "produto": "Del Valle Limonada Frutas Tropicais LT 290 ml",
-   "cod": 3655,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "P33",
+   "sv": "SV. PA. 3",
    "visita": "Qui"
   },
   {
@@ -6976,18 +7520,20 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P21",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Sab"
   },
   {
    "pv": 1168048,
    "cliente": "SUPERMERCADO IDEAL",
    "gc": "PA",
-   "produto": "Del Valle Néctar Manga TP 1 L",
-   "cod": 2896,
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "P27",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -7000,6 +7546,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P32",
+   "sv": "SV. PA. 3",
    "visita": "Ter"
   },
   {
@@ -7012,6 +7559,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P14",
+   "sv": "SV. PA. 1",
    "visita": "Qua"
   },
   {
@@ -7024,18 +7572,20 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P33",
+   "sv": "SV. PA. 3",
    "visita": "Qui"
   },
   {
    "pv": 1209095,
    "cliente": "DUBAIRRO SUPERMERCADO",
    "gc": "PA",
-   "produto": "Del Valle Néctar Pêssego TP 200 ml",
-   "cod": 2884,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "P14",
+   "sv": "SV. PA. 1",
    "visita": "Qui"
   },
   {
@@ -7048,6 +7598,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P36",
+   "sv": "SV. PA. 3",
    "visita": "Sex"
   },
   {
@@ -7060,6 +7611,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P12",
+   "sv": "SV. PA. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7072,6 +7624,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P27",
+   "sv": "SV. PA. 2",
    "visita": "Ter"
   },
   {
@@ -7084,6 +7637,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P27",
+   "sv": "SV. PA. 2",
    "visita": "Qua"
   },
   {
@@ -7096,6 +7650,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P27",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -7108,6 +7663,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P32",
+   "sv": "SV. PA. 3",
    "visita": "Ter"
   },
   {
@@ -7120,6 +7676,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P12",
+   "sv": "SV. PA. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7132,6 +7689,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P27",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -7144,6 +7702,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P27",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -7156,6 +7715,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P26",
+   "sv": "SV. PA. 2",
    "visita": "Sex"
   },
   {
@@ -7168,6 +7728,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P12",
+   "sv": "SV. PA. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7180,6 +7741,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P36",
+   "sv": "SV. PA. 3",
    "visita": "Seg - Sab"
   },
   {
@@ -7192,6 +7754,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P26",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -7204,6 +7767,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P35",
+   "sv": "SV. PA. 3",
    "visita": "Ter"
   },
   {
@@ -7216,6 +7780,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P14",
+   "sv": "SV. PA. 1",
    "visita": "Ter - Sex"
   },
   {
@@ -7228,6 +7793,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P27",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -7240,6 +7806,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P12",
+   "sv": "SV. PA. 1",
    "visita": "Sex"
   },
   {
@@ -7252,6 +7819,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P23",
+   "sv": "SV. PA. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -7264,6 +7832,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P27",
+   "sv": "SV. PA. 2",
    "visita": "Ter"
   },
   {
@@ -7276,6 +7845,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P31",
+   "sv": "SV. PA. 3",
    "visita": "Sex"
   },
   {
@@ -7288,6 +7858,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P15",
+   "sv": "SV. PA. 1",
    "visita": "Qua"
   },
   {
@@ -7300,6 +7871,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P26",
+   "sv": "SV. PA. 2",
    "visita": "Sex"
   },
   {
@@ -7312,6 +7884,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P26",
+   "sv": "SV. PA. 2",
    "visita": "Qui"
   },
   {
@@ -7324,6 +7897,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P27",
+   "sv": "SV. PA. 2",
    "visita": "Ter"
   },
   {
@@ -7336,6 +7910,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P26",
+   "sv": "SV. PA. 2",
    "visita": "Sex"
   },
   {
@@ -7348,6 +7923,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P35",
+   "sv": "SV. PA. 3",
    "visita": "Qua"
   },
   {
@@ -7360,6 +7936,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "P36",
+   "sv": "SV. PA. 3",
    "visita": "Qui"
   },
   {
@@ -7372,6 +7949,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O16",
+   "sv": "SV. PO. 1",
    "visita": "Ter - Sex"
   },
   {
@@ -7384,6 +7962,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O18",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7396,6 +7975,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O14",
+   "sv": "SV. PO. 1",
    "visita": "Sex"
   },
   {
@@ -7404,10 +7984,11 @@
    "gc": "PO",
    "produto": "Del Valle Néctar Goiaba Sem Açúcar LT 290 ml",
    "cod": 2306,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "O16",
+   "sv": "SV. PO. 1",
    "visita": "Qua"
   },
   {
@@ -7420,6 +8001,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O12",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -7428,10 +8010,11 @@
    "gc": "PO",
    "produto": "Del Valle Néctar Uva LT 290 ml",
    "cod": 2169,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "O11",
+   "sv": "SV. PO. 1",
    "visita": "Qui"
   },
   {
@@ -7444,6 +8027,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O18",
+   "sv": "SV. PO. 1",
    "visita": "Sex"
   },
   {
@@ -7456,6 +8040,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O15",
+   "sv": "SV. PO. 1",
    "visita": "Ter"
   },
   {
@@ -7468,6 +8053,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O12",
+   "sv": "SV. PO. 1",
    "visita": "Ter"
   },
   {
@@ -7480,6 +8066,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O16",
+   "sv": "SV. PO. 1",
    "visita": "Qua"
   },
   {
@@ -7492,6 +8079,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O14",
+   "sv": "SV. PO. 1",
    "visita": "Ter"
   },
   {
@@ -7504,6 +8092,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O18",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7516,6 +8105,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O12",
+   "sv": "SV. PO. 1",
    "visita": "Ter"
   },
   {
@@ -7528,6 +8118,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O18",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7540,6 +8131,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O12",
+   "sv": "SV. PO. 1",
    "visita": "Sex"
   },
   {
@@ -7552,6 +8144,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O18",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7564,18 +8157,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O14",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Sab"
   },
   {
    "pv": 1053739,
    "cliente": "MERC E CASA CARNE DAVID",
    "gc": "PO",
-   "produto": "Powerade Mix Zero PET 500 ml",
-   "cod": 3629,
-   "status": "d1",
+   "produto": "Powerade Mix PET 500 ml",
+   "cod": 3631,
+   "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "O15",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7584,10 +8179,11 @@
    "gc": "PO",
    "produto": "Powerade Uva PET 500 ml",
    "cod": 3633,
-   "status": "pendente",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "O15",
+   "sv": "SV. PO. 1",
    "visita": "Qua"
   },
   {
@@ -7600,6 +8196,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "O18",
+   "sv": "SV. PO. 1",
    "visita": "Qua"
   },
   {
@@ -7612,6 +8209,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O11",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -7624,6 +8222,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O16",
+   "sv": "SV. PO. 1",
    "visita": "Qui"
   },
   {
@@ -7636,6 +8235,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O17",
+   "sv": "SV. PO. 1",
    "visita": "Qui"
   },
   {
@@ -7648,18 +8248,20 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O14",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Sab"
   },
   {
    "pv": 1102550,
    "cliente": "PURO SABOR",
    "gc": "PO",
-   "produto": "Del Valle Néctar Pêssego TP 200 ml",
-   "cod": 2884,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "O12",
+   "sv": "SV. PO. 1",
    "visita": "Qua"
   },
   {
@@ -7672,6 +8274,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O13",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7684,6 +8287,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O16",
+   "sv": "SV. PO. 1",
    "visita": "Qua"
   },
   {
@@ -7696,6 +8300,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O16",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7708,6 +8313,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O17",
+   "sv": "SV. PO. 1",
    "visita": "Qua"
   },
   {
@@ -7720,6 +8326,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O14",
+   "sv": "SV. PO. 1",
    "visita": "Ter"
   },
   {
@@ -7732,6 +8339,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O12",
+   "sv": "SV. PO. 1",
    "visita": "Ter"
   },
   {
@@ -7744,6 +8352,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O15",
+   "sv": "SV. PO. 1",
    "visita": "Qua"
   },
   {
@@ -7756,6 +8365,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O12",
+   "sv": "SV. PO. 1",
    "visita": "Sex"
   },
   {
@@ -7768,6 +8378,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O14",
+   "sv": "SV. PO. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7780,6 +8391,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "O14",
+   "sv": "SV. PO. 1",
    "visita": "Sex"
   },
   {
@@ -7792,6 +8404,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C12",
+   "sv": "SV. RI. 1",
    "visita": "Sex"
   },
   {
@@ -7804,6 +8417,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C12",
+   "sv": "SV. RI. 1",
    "visita": "Qua"
   },
   {
@@ -7816,6 +8430,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C12",
+   "sv": "SV. RI. 1",
    "visita": "Qui"
   },
   {
@@ -7828,6 +8443,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C26",
+   "sv": "SV. RI. 2",
    "visita": "Ter"
   },
   {
@@ -7840,6 +8456,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C26",
+   "sv": "SV. RI. 2",
    "visita": "Ter - Sex"
   },
   {
@@ -7852,6 +8469,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Qua"
   },
   {
@@ -7860,10 +8478,11 @@
    "gc": "RI",
    "produto": "Kapo Maracujá TP 200 ml",
    "cod": 3604,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Qua"
   },
   {
@@ -7876,6 +8495,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C26",
+   "sv": "SV. RI. 2",
    "visita": "Sex"
   },
   {
@@ -7888,6 +8508,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C25",
+   "sv": "SV. RI. 2",
    "visita": "Qua"
   },
   {
@@ -7900,6 +8521,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C27",
+   "sv": "SV. RI. 2",
    "visita": "Seg - Qua - Sab"
   },
   {
@@ -7912,6 +8534,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C16",
+   "sv": "SV. RI. 1",
    "visita": "Ter"
   },
   {
@@ -7924,6 +8547,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C22",
+   "sv": "SV. RI. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -7936,6 +8560,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -7948,6 +8573,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C15",
+   "sv": "SV. RI. 1",
    "visita": "Sex"
   },
   {
@@ -7956,10 +8582,11 @@
    "gc": "RI",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "C23",
+   "sv": "SV. RI. 2",
    "visita": "Qui"
   },
   {
@@ -7972,6 +8599,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C27",
+   "sv": "SV. RI. 2",
    "visita": "Qui"
   },
   {
@@ -7984,6 +8612,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C11",
+   "sv": "SV. RI. 1",
    "visita": "Qui"
   },
   {
@@ -7996,6 +8625,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C24",
+   "sv": "SV. RI. 2",
    "visita": "Qui"
   },
   {
@@ -8008,6 +8638,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C26",
+   "sv": "SV. RI. 2",
    "visita": "Qua"
   },
   {
@@ -8020,6 +8651,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C22",
+   "sv": "SV. RI. 2",
    "visita": "Seg - Qua - Sex - Sab"
   },
   {
@@ -8032,6 +8664,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C16",
+   "sv": "SV. RI. 1",
    "visita": "Ter"
   },
   {
@@ -8044,54 +8677,59 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C27",
+   "sv": "SV. RI. 2",
    "visita": "Sex"
   },
   {
    "pv": 1129668,
    "cliente": "MERCEARIA PADRE CICERO",
    "gc": "RI",
-   "produto": "Powerade Tangerina PET 500 ml",
-   "cod": 3641,
-   "status": "d1",
+   "produto": "Powerade Uva PET 500 ml",
+   "cod": 3633,
+   "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "C25",
+   "sv": "SV. RI. 2",
    "visita": "Seg - Qui - Sab"
   },
   {
    "pv": 1171878,
    "cliente": "SUPERMERCADO NOVA OPÇÃO",
    "gc": "RI",
-   "produto": "Powerade Tangerina PET 500 ml",
-   "cod": 3641,
+   "produto": "Powerade Uva PET 500 ml",
+   "cod": 3633,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Seg - Sab"
   },
   {
    "pv": 1201169,
    "cliente": "MERCEARIA SANTANA",
    "gc": "RI",
-   "produto": "Powerade Tangerina PET 500 ml",
-   "cod": 3641,
-   "status": "pendente",
+   "produto": "Powerade Uva PET 500 ml",
+   "cod": 3633,
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "C21",
+   "sv": "SV. RI. 2",
    "visita": "Qui"
   },
   {
    "pv": 1132856,
    "cliente": "SUPER BOM PREÇO",
    "gc": "RI",
-   "produto": "Powerade Tangerina PET 500 ml",
-   "cod": 3641,
+   "produto": "Powerade Uva PET 500 ml",
+   "cod": 3633,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Qua"
   },
   {
@@ -8104,6 +8742,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Qui"
   },
   {
@@ -8116,6 +8755,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -8128,6 +8768,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C12",
+   "sv": "SV. RI. 1",
    "visita": "Ter - Sex"
   },
   {
@@ -8140,6 +8781,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Ter - Sex"
   },
   {
@@ -8152,6 +8794,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C23",
+   "sv": "SV. RI. 2",
    "visita": "Sex"
   },
   {
@@ -8164,6 +8807,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C15",
+   "sv": "SV. RI. 1",
    "visita": "Sex"
   },
   {
@@ -8176,6 +8820,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C12",
+   "sv": "SV. RI. 1",
    "visita": "Qui"
   },
   {
@@ -8188,6 +8833,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Qua"
   },
   {
@@ -8200,6 +8846,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C15",
+   "sv": "SV. RI. 1",
    "visita": "Ter"
   },
   {
@@ -8212,6 +8859,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Ter"
   },
   {
@@ -8224,6 +8872,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C15",
+   "sv": "SV. RI. 1",
    "visita": "Qua"
   },
   {
@@ -8236,6 +8885,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -8248,6 +8898,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C12",
+   "sv": "SV. RI. 1",
    "visita": "Ter"
   },
   {
@@ -8260,6 +8911,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C27",
+   "sv": "SV. RI. 2",
    "visita": "Qua"
   },
   {
@@ -8272,6 +8924,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C11",
+   "sv": "SV. RI. 1",
    "visita": "Ter"
   },
   {
@@ -8284,6 +8937,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C27",
+   "sv": "SV. RI. 2",
    "visita": "Ter"
   },
   {
@@ -8296,6 +8950,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C24",
+   "sv": "SV. RI. 2",
    "visita": "Sex"
   },
   {
@@ -8308,6 +8963,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C27",
+   "sv": "SV. RI. 2",
    "visita": "Qua"
   },
   {
@@ -8320,6 +8976,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C21",
+   "sv": "SV. RI. 2",
    "visita": "Qui"
   },
   {
@@ -8332,6 +8989,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C27",
+   "sv": "SV. RI. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -8344,6 +9002,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C27",
+   "sv": "SV. RI. 2",
    "visita": "Qua"
   },
   {
@@ -8356,6 +9015,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C22",
+   "sv": "SV. RI. 2",
    "visita": "Ter"
   },
   {
@@ -8368,6 +9028,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C15",
+   "sv": "SV. RI. 1",
    "visita": "Ter"
   },
   {
@@ -8380,6 +9041,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C13",
+   "sv": "SV. RI. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -8392,18 +9054,20 @@
    "b2b": "Não",
    "obs": "",
    "rota": "C14",
+   "sv": "SV. RI. 1",
    "visita": "Qua"
   },
   {
    "pv": 1151057,
    "cliente": "SUPER ARAUJO",
    "gc": "RI",
-   "produto": "Powerade Laranja PET 500 ml",
-   "cod": 3635,
+   "produto": "Powerade Uva PET 500 ml",
+   "cod": 3633,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "C25",
+   "sv": "SV. RI. 2",
    "visita": "Sex"
   },
   {
@@ -8416,18 +9080,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R25",
+   "sv": "SV. RV. 2",
    "visita": "Qua"
   },
   {
    "pv": 1204256,
    "cliente": "MOVIESYSTEM CINEMATOGRAFICA LTDA",
    "gc": "RV",
-   "produto": "Del Valle Frut Laranja PET 450 ml",
-   "cod": 2325,
+   "produto": "Del Valle Frut Laranja PET 1,5 L",
+   "cod": 2321,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "R14",
+   "sv": "SV. RV. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -8440,6 +9106,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R15",
+   "sv": "SV. RV. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -8452,6 +9119,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R14",
+   "sv": "SV. RV. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -8464,6 +9132,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R16",
+   "sv": "SV. RV. 1",
    "visita": "Qui"
   },
   {
@@ -8476,6 +9145,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R22",
+   "sv": "SV. RV. 2",
    "visita": "Ter"
   },
   {
@@ -8488,6 +9158,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R25",
+   "sv": "SV. RV. 2",
    "visita": "Qua"
   },
   {
@@ -8500,18 +9171,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R23",
+   "sv": "SV. RV. 2",
    "visita": "Ter"
   },
   {
    "pv": 1143644,
    "cliente": "PASTELARIA DO PRIMO",
    "gc": "RV",
-   "produto": "Del Valle Néctar Manga LT 290 ml",
-   "cod": 2894,
-   "status": "pendente",
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "R16",
+   "sv": "SV. RV. 1",
    "visita": "Qua"
   },
   {
@@ -8524,6 +9197,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R14",
+   "sv": "SV. RV. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -8536,6 +9210,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R14",
+   "sv": "SV. RV. 1",
    "visita": "Qui"
   },
   {
@@ -8548,6 +9223,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R14",
+   "sv": "SV. RV. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -8560,6 +9236,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R12",
+   "sv": "SV. RV. 1",
    "visita": "Ter"
   },
   {
@@ -8572,6 +9249,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R22",
+   "sv": "SV. RV. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -8584,6 +9262,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R22",
+   "sv": "SV. RV. 2",
    "visita": "Sex"
   },
   {
@@ -8596,18 +9275,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R14",
+   "sv": "SV. RV. 1",
    "visita": "Qua"
   },
   {
    "pv": 1052659,
    "cliente": "PANIF PAO E PAES",
    "gc": "RV",
-   "produto": "Kapo Caju TP 200 ml",
-   "cod": 3111,
+   "produto": "Kapo Morango TP 200 ml",
+   "cod": 3602,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "R21",
+   "sv": "SV. RV. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -8620,6 +9301,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R24",
+   "sv": "SV. RV. 2",
    "visita": "Qua"
   },
   {
@@ -8632,6 +9314,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R15",
+   "sv": "SV. RV. 1",
    "visita": "Ter"
   },
   {
@@ -8644,6 +9327,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R25",
+   "sv": "SV. RV. 2",
    "visita": "Qui"
   },
   {
@@ -8656,6 +9340,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R12",
+   "sv": "SV. RV. 1",
    "visita": "Qui"
   },
   {
@@ -8668,6 +9353,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R21",
+   "sv": "SV. RV. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -8680,6 +9366,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R23",
+   "sv": "SV. RV. 2",
    "visita": "Ter"
   },
   {
@@ -8692,6 +9379,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R22",
+   "sv": "SV. RV. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -8704,6 +9392,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R23",
+   "sv": "SV. RV. 2",
    "visita": "Qua"
   },
   {
@@ -8716,6 +9405,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R12",
+   "sv": "SV. RV. 1",
    "visita": "Sex"
   },
   {
@@ -8728,6 +9418,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R12",
+   "sv": "SV. RV. 1",
    "visita": "Ter"
   },
   {
@@ -8740,6 +9431,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R12",
+   "sv": "SV. RV. 1",
    "visita": "Ter"
   },
   {
@@ -8752,6 +9444,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R12",
+   "sv": "SV. RV. 1",
    "visita": "Sex"
   },
   {
@@ -8764,6 +9457,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R16",
+   "sv": "SV. RV. 1",
    "visita": "Ter"
   },
   {
@@ -8776,6 +9470,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R12",
+   "sv": "SV. RV. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -8788,6 +9483,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R12",
+   "sv": "SV. RV. 1",
    "visita": "Qua"
   },
   {
@@ -8800,6 +9496,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "R12",
+   "sv": "SV. RV. 1",
    "visita": "Qui"
   },
   {
@@ -8812,6 +9509,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "R23",
+   "sv": "SV. RV. 2",
    "visita": "Qui"
   },
   {
@@ -8824,6 +9522,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "R23",
+   "sv": "SV. RV. 2",
    "visita": "Qui"
   },
   {
@@ -8836,6 +9535,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "R23",
+   "sv": "SV. RV. 2",
    "visita": "Ter"
   },
   {
@@ -8848,6 +9548,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "R21",
+   "sv": "SV. RV. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -8860,18 +9561,20 @@
    "b2b": "Não",
    "obs": "",
    "rota": "R21",
+   "sv": "SV. RV. 2",
    "visita": "Qui"
   },
   {
    "pv": 1176147,
    "cliente": "DELICIA DO DIA",
    "gc": "RV",
-   "produto": "Del Valle Néctar Pêssego TP 200 ml",
-   "cod": 2884,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "R14",
+   "sv": "SV. RV. 1",
    "visita": "Qui"
   },
   {
@@ -8884,6 +9587,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "R24",
+   "sv": "SV. RV. 2",
    "visita": "Qua"
   },
   {
@@ -8896,6 +9600,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "R23",
+   "sv": "SV. RV. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -8908,6 +9613,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "R21",
+   "sv": "SV. RV. 2",
    "visita": "Ter"
   },
   {
@@ -8920,6 +9626,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S24",
+   "sv": "SV. SL. 2",
    "visita": "Sex"
   },
   {
@@ -8932,6 +9639,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S14",
+   "sv": "SV. SL. 1",
    "visita": "Sex"
   },
   {
@@ -8944,6 +9652,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S23",
+   "sv": "SV. SL. 2",
    "visita": "Qua"
   },
   {
@@ -8956,6 +9665,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S23",
+   "sv": "SV. SL. 2",
    "visita": "Sex"
   },
   {
@@ -8968,6 +9678,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S25",
+   "sv": "SV. SL. 2",
    "visita": "Sex"
   },
   {
@@ -8980,6 +9691,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S12",
+   "sv": "SV. SL. 1",
    "visita": "Sex"
   },
   {
@@ -8992,6 +9704,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S13",
+   "sv": "SV. SL. 1",
    "visita": "Ter"
   },
   {
@@ -9004,6 +9717,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S23",
+   "sv": "SV. SL. 2",
    "visita": "Ter"
   },
   {
@@ -9016,6 +9730,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S23",
+   "sv": "SV. SL. 2",
    "visita": "Ter"
   },
   {
@@ -9028,6 +9743,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S21",
+   "sv": "SV. SL. 2",
    "visita": "Qua"
   },
   {
@@ -9040,6 +9756,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S15",
+   "sv": "SV. SL. 1",
    "visita": "Ter"
   },
   {
@@ -9052,6 +9769,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S21",
+   "sv": "SV. SL. 2",
    "visita": "Qua"
   },
   {
@@ -9064,6 +9782,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S14",
+   "sv": "SV. SL. 1",
    "visita": "Sex"
   },
   {
@@ -9076,6 +9795,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S23",
+   "sv": "SV. SL. 2",
    "visita": "Ter"
   },
   {
@@ -9088,6 +9808,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S11",
+   "sv": "SV. SL. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -9100,6 +9821,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S16",
+   "sv": "SV. SL. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -9112,6 +9834,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S24",
+   "sv": "SV. SL. 2",
    "visita": "Qua"
   },
   {
@@ -9124,6 +9847,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S15",
+   "sv": "SV. SL. 1",
    "visita": "Ter"
   },
   {
@@ -9136,6 +9860,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S24",
+   "sv": "SV. SL. 2",
    "visita": "Ter"
   },
   {
@@ -9144,10 +9869,11 @@
    "gc": "SL",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "S15",
+   "sv": "SV. SL. 1",
    "visita": "Qua"
   },
   {
@@ -9160,6 +9886,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S23",
+   "sv": "SV. SL. 2",
    "visita": "Qua"
   },
   {
@@ -9172,6 +9899,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S25",
+   "sv": "SV. SL. 2",
    "visita": "Ter - Qui"
   },
   {
@@ -9184,6 +9912,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S13",
+   "sv": "SV. SL. 1",
    "visita": "Ter"
   },
   {
@@ -9196,6 +9925,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S25",
+   "sv": "SV. SL. 2",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -9208,6 +9938,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "S16",
+   "sv": "SV. SL. 1",
    "visita": "Qua"
   },
   {
@@ -9220,6 +9951,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S23",
+   "sv": "SV. SL. 2",
    "visita": "Ter"
   },
   {
@@ -9232,6 +9964,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S23",
+   "sv": "SV. SL. 2",
    "visita": "Qui"
   },
   {
@@ -9244,6 +9977,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S24",
+   "sv": "SV. SL. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -9256,6 +9990,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S24",
+   "sv": "SV. SL. 2",
    "visita": "Ter"
   },
   {
@@ -9268,6 +10003,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S23",
+   "sv": "SV. SL. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -9280,18 +10016,20 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S14",
+   "sv": "SV. SL. 1",
    "visita": "Ter"
   },
   {
    "pv": 1139480,
    "cliente": "FRUTARIA CENTRAL",
    "gc": "SL",
-   "produto": "Del Valle Néctar Pêssego TP 200 ml",
-   "cod": 2884,
+   "produto": "Del Valle Néctar Pêssego LT 290 ml",
+   "cod": 2161,
    "status": "pendente",
    "b2b": "Não",
    "obs": "",
    "rota": "S12",
+   "sv": "SV. SL. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -9304,6 +10042,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S22",
+   "sv": "SV. SL. 2",
    "visita": "Qui"
   },
   {
@@ -9316,6 +10055,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S22",
+   "sv": "SV. SL. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -9328,6 +10068,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S22",
+   "sv": "SV. SL. 2",
    "visita": "Qua"
   },
   {
@@ -9340,6 +10081,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S23",
+   "sv": "SV. SL. 2",
    "visita": "Sex"
   },
   {
@@ -9352,6 +10094,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S12",
+   "sv": "SV. SL. 1",
    "visita": "Qua"
   },
   {
@@ -9364,6 +10107,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S22",
+   "sv": "SV. SL. 2",
    "visita": "Qua"
   },
   {
@@ -9376,6 +10120,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S25",
+   "sv": "SV. SL. 2",
    "visita": "Qua"
   },
   {
@@ -9388,6 +10133,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S22",
+   "sv": "SV. SL. 2",
    "visita": "Ter"
   },
   {
@@ -9400,6 +10146,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S21",
+   "sv": "SV. SL. 2",
    "visita": "Qui"
   },
   {
@@ -9412,6 +10159,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S21",
+   "sv": "SV. SL. 2",
    "visita": "Sex"
   },
   {
@@ -9424,6 +10172,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S16",
+   "sv": "SV. SL. 1",
    "visita": "Qua"
   },
   {
@@ -9436,6 +10185,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "S13",
+   "sv": "SV. SL. 1",
    "visita": "Ter"
   },
   {
@@ -9448,6 +10198,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U23",
+   "sv": "SV. UR. 2",
    "visita": "Ter"
   },
   {
@@ -9460,6 +10211,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U12",
+   "sv": "SV. UR. 1",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -9472,18 +10224,20 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U24",
+   "sv": "SV. UR. 2",
    "visita": "Ter"
   },
   {
    "pv": 1205210,
    "cliente": "SUPER MAIS",
    "gc": "UR",
-   "produto": "Del Valle Néctar Abacaxi TP 1 L",
-   "cod": 2898,
+   "produto": "Del Valle Néctar Pêssego TP 1 L",
+   "cod": 1630,
    "status": "pendente",
    "b2b": "Sim",
    "obs": "",
    "rota": "U11",
+   "sv": "SV. UR. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -9496,6 +10250,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U11",
+   "sv": "SV. UR. 1",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -9508,6 +10263,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U11",
+   "sv": "SV. UR. 1",
    "visita": "Qui"
   },
   {
@@ -9520,6 +10276,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U22",
+   "sv": "SV. UR. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -9532,6 +10289,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U23",
+   "sv": "SV. UR. 2",
    "visita": "Ter"
   },
   {
@@ -9544,6 +10302,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U25",
+   "sv": "SV. UR. 2",
    "visita": "Qui"
   },
   {
@@ -9556,6 +10315,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U24",
+   "sv": "SV. UR. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -9568,6 +10328,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U14",
+   "sv": "SV. UR. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -9580,6 +10341,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U13",
+   "sv": "SV. UR. 1",
    "visita": "Sex"
   },
   {
@@ -9588,10 +10350,11 @@
    "gc": "UR",
    "produto": "Kapo Maracujá TP 200 ml",
    "cod": 3604,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "U11",
+   "sv": "SV. UR. 1",
    "visita": "Ter - Qui"
   },
   {
@@ -9604,6 +10367,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U14",
+   "sv": "SV. UR. 1",
    "visita": "Sex"
   },
   {
@@ -9612,10 +10376,11 @@
    "gc": "UR",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "U12",
+   "sv": "SV. UR. 1",
    "visita": "Qui"
   },
   {
@@ -9628,6 +10393,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U25",
+   "sv": "SV. UR. 2",
    "visita": "Sex"
   },
   {
@@ -9640,6 +10406,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U21",
+   "sv": "SV. UR. 2",
    "visita": "Qua"
   },
   {
@@ -9652,6 +10419,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U11",
+   "sv": "SV. UR. 1",
    "visita": "Sex"
   },
   {
@@ -9664,6 +10432,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U21",
+   "sv": "SV. UR. 2",
    "visita": "Ter"
   },
   {
@@ -9676,6 +10445,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U12",
+   "sv": "SV. UR. 1",
    "visita": "Qua"
   },
   {
@@ -9688,6 +10458,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U22",
+   "sv": "SV. UR. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -9700,6 +10471,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U12",
+   "sv": "SV. UR. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -9712,6 +10484,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U25",
+   "sv": "SV. UR. 2",
    "visita": "Qui"
   },
   {
@@ -9724,6 +10497,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U13",
+   "sv": "SV. UR. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -9732,10 +10506,11 @@
    "gc": "UR",
    "produto": "Powerade Uva PET 500 ml",
    "cod": 3633,
-   "status": "online",
+   "status": "d1",
    "b2b": "Sim",
    "obs": "",
    "rota": "U22",
+   "sv": "SV. UR. 2",
    "visita": "Qua"
   },
   {
@@ -9748,6 +10523,7 @@
    "b2b": "Sim",
    "obs": "",
    "rota": "U13",
+   "sv": "SV. UR. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -9760,6 +10536,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U11",
+   "sv": "SV. UR. 1",
    "visita": "Qui"
   },
   {
@@ -9772,6 +10549,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U24",
+   "sv": "SV. UR. 2",
    "visita": "Qui"
   },
   {
@@ -9784,6 +10562,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U13",
+   "sv": "SV. UR. 1",
    "visita": "Qui"
   },
   {
@@ -9796,6 +10575,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U12",
+   "sv": "SV. UR. 1",
    "visita": "Seg - Qui - Sab"
   },
   {
@@ -9808,6 +10588,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U24",
+   "sv": "SV. UR. 2",
    "visita": "Qua"
   },
   {
@@ -9820,6 +10601,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U21",
+   "sv": "SV. UR. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -9832,6 +10614,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U23",
+   "sv": "SV. UR. 2",
    "visita": "Qua"
   },
   {
@@ -9844,6 +10627,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U24",
+   "sv": "SV. UR. 2",
    "visita": "Qua"
   },
   {
@@ -9856,6 +10640,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U12",
+   "sv": "SV. UR. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -9868,6 +10653,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U12",
+   "sv": "SV. UR. 1",
    "visita": "Qui"
   },
   {
@@ -9880,6 +10666,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U25",
+   "sv": "SV. UR. 2",
    "visita": "Sex"
   },
   {
@@ -9892,6 +10679,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U13",
+   "sv": "SV. UR. 1",
    "visita": "Qua"
   },
   {
@@ -9904,6 +10692,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U22",
+   "sv": "SV. UR. 2",
    "visita": "Sex"
   },
   {
@@ -9916,6 +10705,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U24",
+   "sv": "SV. UR. 2",
    "visita": "Qua"
   },
   {
@@ -9928,6 +10718,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U22",
+   "sv": "SV. UR. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -9940,6 +10731,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U13",
+   "sv": "SV. UR. 1",
    "visita": "Ter"
   },
   {
@@ -9952,6 +10744,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U22",
+   "sv": "SV. UR. 2",
    "visita": "Sex"
   },
   {
@@ -9964,6 +10757,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U13",
+   "sv": "SV. UR. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -9976,6 +10770,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U24",
+   "sv": "SV. UR. 2",
    "visita": "Seg - Sab"
   },
   {
@@ -9988,6 +10783,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U24",
+   "sv": "SV. UR. 2",
    "visita": "Sex"
   },
   {
@@ -10000,6 +10796,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U23",
+   "sv": "SV. UR. 2",
    "visita": "Ter"
   },
   {
@@ -10012,6 +10809,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U15",
+   "sv": "SV. UR. 1",
    "visita": "Ter"
   },
   {
@@ -10024,6 +10822,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U13",
+   "sv": "SV. UR. 1",
    "visita": "Seg - Sab"
   },
   {
@@ -10036,6 +10835,7 @@
    "b2b": "Não",
    "obs": "",
    "rota": "U23",
+   "sv": "SV. UR. 2",
    "visita": "Sex"
   }
  ]

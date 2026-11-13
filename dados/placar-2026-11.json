@@ -3,23 +3,23 @@
  "mes": "2026-11",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-11-13T10:51:31.000Z",
- "dataMissao": "2026-11-13T10:51:31.000Z",
- "geradoEm": "2026-11-13T10:51:52.000Z",
+ "dataVolume": "2026-11-13T13:10:32.000Z",
+ "dataMissao": "2026-11-13T13:10:32.000Z",
+ "geradoEm": "2026-11-13T13:13:24.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
-   "eng": 14.031317,
-   "con": 15.555556,
-   "ati": 35.39252,
-   "still": 22.943049,
+   "eng": 14.099076,
+   "con": 17.777778,
+   "ati": 35.692316,
+   "still": 23.089971,
    "pesoEng": 17242.982,
    "pesoStill": 99929.617,
    "conecta": {
     "tipo": "missao",
-    "total": 7,
-    "nao": 1,
-    "online": 0,
+    "total": 8,
+    "nao": 2,
+    "online": 1,
     "base": 45
    },
    "equipe": [
@@ -38,10 +38,10 @@
    ]
   },
   "G2": {
-   "eng": 21.199434,
+   "eng": 21.259966,
    "con": 21.428571,
-   "ati": 66.325251,
-   "still": 36.841507,
+   "ati": 66.44051,
+   "still": 36.940162,
    "pesoEng": 30097.315,
    "pesoStill": 34139.156,
    "conecta": {
@@ -53,6 +53,10 @@
    },
    "equipe": [
     {
+     "nome": "Anna Julia Nazaro Sousa",
+     "cargo": "Assistente"
+    },
+    {
      "nome": "Joaquim Batista Neto",
      "cargo": "Analista"
     },
@@ -63,10 +67,10 @@
    ]
   },
   "G3": {
-   "eng": 20.102528,
+   "eng": 20.88368,
    "con": 21.428571,
-   "ati": 41.049569,
-   "still": 29.413378,
+   "ati": 41.411362,
+   "still": 29.764609,
    "pesoEng": 1746.0066,
    "pesoStill": 16511.581,
    "conecta": {
@@ -92,10 +96,10 @@
    ]
   },
   "AP": {
-   "eng": 29.257092,
+   "eng": 29.304101,
    "con": 13.207547,
-   "ati": 50.655353,
-   "still": 36.771241,
+   "ati": 51.470056,
+   "still": 36.995584,
    "pesoEng": 3411.6234,
    "pesoStill": 20801.668,
    "conecta": {
@@ -121,10 +125,10 @@
    ]
   },
   "AN": {
-   "eng": 12.871859,
+   "eng": 12.929525,
    "con": 11.764706,
    "ati": 38.28085,
-   "still": 31.785132,
+   "still": 32.609953,
    "pesoEng": 26707.854,
    "pesoStill": 44719.418,
    "conecta": {
@@ -151,9 +155,9 @@
   },
   "AT": {
    "eng": 81.198058,
-   "con": 2.5934009,
+   "con": 30.148134,
    "ati": 29.545279,
-   "still": 25.294151,
+   "still": 26.369755,
    "pesoEng": 10305.645,
    "pesoStill": 37586.788,
    "conecta": {
@@ -171,10 +175,10 @@
    ]
   },
   "SL": {
-   "eng": 20.367227,
+   "eng": 20.422298,
    "con": 16.0,
-   "ati": 48.513305,
-   "still": 27.031411,
+   "ati": 49.281072,
+   "still": 27.14359,
    "pesoEng": 6635.478,
    "pesoStill": 9654.4942,
    "conecta": {
@@ -202,8 +206,8 @@
   "RV": {
    "eng": 18.715055,
    "con": 21.212121,
-   "ati": 36.12331,
-   "still": 22.528916,
+   "ati": 36.405123,
+   "still": 22.810097,
    "pesoEng": 14264.605,
    "pesoStill": 31718.645,
    "conecta": {
@@ -229,17 +233,17 @@
    ]
   },
   "IT": {
-   "eng": 17.126122,
-   "con": 47.826087,
-   "ati": 51.32177,
-   "still": 35.917558,
+   "eng": 17.31019,
+   "con": 52.173913,
+   "ati": 59.926161,
+   "still": 38.475595,
    "pesoEng": 2166.0269,
    "pesoStill": 30555.195,
    "conecta": {
     "tipo": "missao",
-    "total": 11,
+    "total": 12,
     "nao": 1,
-    "online": 0,
+    "online": 1,
     "base": 23
    },
    "equipe": [
@@ -258,17 +262,17 @@
    ]
   },
   "MO": {
-   "eng": 17.420608,
-   "con": 73.913043,
-   "ati": 41.254688,
-   "still": 25.453839,
+   "eng": 17.607669,
+   "con": 82.608696,
+   "ati": 41.39251,
+   "still": 25.793599,
    "pesoEng": 13053.373,
    "pesoStill": 7139.5166,
    "conecta": {
     "tipo": "missao",
-    "total": 17,
+    "total": 19,
     "nao": 5,
-    "online": 0,
+    "online": 2,
     "base": 23
    },
    "equipe": [
@@ -283,17 +287,17 @@
    ]
   },
   "GU": {
-   "eng": 20.878926,
-   "con": 43.75,
-   "ati": 39.107371,
-   "still": 26.183709,
+   "eng": 20.944485,
+   "con": 46.875,
+   "ati": 39.323236,
+   "still": 26.350575,
    "pesoEng": 15633.064,
    "pesoStill": 47390.227,
    "conecta": {
     "tipo": "missao",
-    "total": 14,
+    "total": 15,
     "nao": 5,
-    "online": 0,
+    "online": 1,
     "base": 32
    },
    "equipe": [
@@ -308,10 +312,10 @@
    ]
   },
   "PO": {
-   "eng": 18.939525,
+   "eng": 19.168962,
    "con": 20.0,
-   "ati": 49.279611,
-   "still": 34.725858,
+   "ati": 49.763272,
+   "still": 35.149327,
    "pesoEng": 4417.6199,
    "pesoStill": 28028.994,
    "conecta": {
@@ -333,10 +337,10 @@
    ]
   },
   "UR": {
-   "eng": 26.380878,
+   "eng": 26.635073,
    "con": 26.923077,
-   "ati": 53.074402,
-   "still": 34.865148,
+   "ati": 53.70056,
+   "still": 35.476289,
    "pesoEng": 11068.568,
    "pesoStill": 51249.152,
    "conecta": {
@@ -362,10 +366,10 @@
    ]
   },
   "RI": {
-   "eng": 16.494713,
+   "eng": 17.167587,
    "con": 17.857143,
-   "ati": 39.800134,
-   "still": 28.037652,
+   "ati": 40.573967,
+   "still": 28.535594,
    "pesoEng": 12802.297,
    "pesoStill": 10081.141,
    "conecta": {
@@ -387,17 +391,17 @@
    ]
   },
   "PA": {
-   "eng": 25.738846,
-   "con": 41.37931,
-   "ati": 29.610313,
-   "still": 37.333708,
+   "eng": 26.021658,
+   "con": 43.103448,
+   "ati": 35.627383,
+   "still": 38.171117,
    "pesoEng": 20038.296,
    "pesoStill": 12409.621,
    "conecta": {
     "tipo": "missao",
-    "total": 24,
+    "total": 25,
     "nao": 1,
-    "online": 0,
+    "online": 1,
     "base": 58
    },
    "equipe": [
@@ -416,17 +420,17 @@
    ]
   },
   "DI": {
-   "eng": 21.926155,
-   "con": 68.75,
-   "ati": 48.479373,
-   "still": 30.851569,
+   "eng": 22.073569,
+   "con": 75.0,
+   "ati": 49.466733,
+   "still": 31.829774,
    "pesoEng": 5539.0742,
    "pesoStill": 20078.229,
    "conecta": {
     "tipo": "missao",
-    "total": 11,
-    "nao": 4,
-    "online": 0,
+    "total": 12,
+    "nao": 5,
+    "online": 1,
     "base": 16
    },
    "equipe": [
@@ -2602,7 +2606,7 @@
    "gc": "DI",
    "produto": "Del Valle Néctar Uva TP 1 L",
    "cod": 1633,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "D11",
@@ -3382,7 +3386,7 @@
    "gc": "G1",
    "produto": "Del Valle Néctar Pêssego LT 290 ml",
    "cod": 2161,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "112",
@@ -5371,7 +5375,7 @@
    "gc": "GU",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "G22",
@@ -5839,7 +5843,7 @@
    "gc": "IT",
    "produto": "Del Valle Néctar Pêssego LT 290 ml",
    "cod": 2161,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "I13",
@@ -6294,7 +6298,7 @@
    "gc": "MO",
    "produto": "Del Valle Néctar Pêssego TP 1 L",
    "cod": 1630,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "M12",
@@ -6450,7 +6454,7 @@
    "gc": "MO",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "M14",
@@ -6957,7 +6961,7 @@
    "gc": "PA",
    "produto": "Del Valle Néctar Uva LT 290 ml",
    "cod": 2169,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "P22",

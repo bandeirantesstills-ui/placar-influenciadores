@@ -3,23 +3,23 @@
  "mes": "2026-11",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-11-16T12:47:32.000Z",
- "dataMissao": "2026-11-16T12:47:32.000Z",
- "geradoEm": "2026-11-16T12:47:52.000Z",
+ "dataVolume": "2026-11-16T18:28:23.000Z",
+ "dataMissao": "2026-11-16T18:28:23.000Z",
+ "geradoEm": "2026-11-16T18:28:38.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
-   "eng": 15.374924,
-   "con": 28.888889,
-   "ati": 38.007403,
-   "still": 24.760229,
+   "eng": 16.797875,
+   "con": 33.333333,
+   "ati": 39.606312,
+   "still": 27.696994,
    "pesoEng": 17242.982,
    "pesoStill": 99929.617,
    "conecta": {
     "tipo": "missao",
-    "total": 13,
+    "total": 15,
     "nao": 2,
-    "online": 0,
+    "online": 2,
     "base": 45
    },
    "equipe": [
@@ -38,17 +38,17 @@
    ]
   },
   "G2": {
-   "eng": 22.684458,
-   "con": 23.809524,
-   "ati": 68.963405,
-   "still": 38.941023,
+   "eng": 25.23534,
+   "con": 28.571429,
+   "ati": 73.637805,
+   "still": 43.342674,
    "pesoEng": 30097.315,
    "pesoStill": 34139.156,
    "conecta": {
     "tipo": "missao",
-    "total": 10,
+    "total": 12,
     "nao": 3,
-    "online": 1,
+    "online": 3,
     "base": 42
    },
    "equipe": [
@@ -67,17 +67,17 @@
    ]
   },
   "G3": {
-   "eng": 23.928544,
-   "con": 26.190476,
-   "ati": 45.892026,
-   "still": 31.745209,
+   "eng": 26.899051,
+   "con": 30.952381,
+   "ati": 47.561839,
+   "still": 35.071344,
    "pesoEng": 1746.0066,
    "pesoStill": 16511.581,
    "conecta": {
     "tipo": "missao",
-    "total": 11,
-    "nao": 0,
-    "online": 0,
+    "total": 13,
+    "nao": 1,
+    "online": 2,
     "base": 42
    },
    "equipe": [
@@ -96,10 +96,10 @@
    ]
   },
   "AP": {
-   "eng": 31.75861,
+   "eng": 35.399374,
    "con": 13.207547,
-   "ati": 55.974884,
-   "still": 39.63915,
+   "ati": 58.754459,
+   "still": 44.342932,
    "pesoEng": 3411.6234,
    "pesoStill": 20801.668,
    "conecta": {
@@ -125,10 +125,10 @@
    ]
   },
   "AN": {
-   "eng": 15.491913,
+   "eng": 17.827671,
    "con": 11.764706,
-   "ati": 43.307957,
-   "still": 38.376386,
+   "ati": 44.869777,
+   "still": 40.873926,
    "pesoEng": 26707.854,
    "pesoStill": 44719.418,
    "conecta": {
@@ -157,7 +157,7 @@
    "eng": 81.605063,
    "con": 39.873334,
    "ati": 29.545279,
-   "still": 29.414275,
+   "still": 29.839943,
    "pesoEng": 10305.645,
    "pesoStill": 37586.788,
    "conecta": {
@@ -175,17 +175,17 @@
    ]
   },
   "SL": {
-   "eng": 22.403043,
-   "con": 16.0,
-   "ati": 53.64775,
-   "still": 30.727364,
+   "eng": 24.543493,
+   "con": 20.0,
+   "ati": 59.35802,
+   "still": 34.641972,
    "pesoEng": 6635.478,
    "pesoStill": 9654.4942,
    "conecta": {
     "tipo": "missao",
-    "total": 4,
+    "total": 5,
     "nao": 0,
-    "online": 0,
+    "online": 1,
     "base": 25
    },
    "equipe": [
@@ -204,10 +204,10 @@
    ]
   },
   "RV": {
-   "eng": 20.337155,
+   "eng": 22.298648,
    "con": 21.212121,
-   "ati": 71.221844,
-   "still": 32.488845,
+   "ati": 72.861484,
+   "still": 34.52717,
    "pesoEng": 14264.605,
    "pesoStill": 31718.645,
    "conecta": {
@@ -233,10 +233,10 @@
    ]
   },
   "IT": {
-   "eng": 19.120644,
+   "eng": 20.527645,
    "con": 60.869565,
-   "ati": 67.997538,
-   "still": 42.981455,
+   "ati": 70.129599,
+   "still": 44.513208,
    "pesoEng": 2166.0269,
    "pesoStill": 30555.195,
    "conecta": {
@@ -262,17 +262,17 @@
    ]
   },
   "MO": {
-   "eng": 20.720745,
-   "con": 91.304348,
-   "ati": 57.655494,
-   "still": 33.556681,
+   "eng": 24.547594,
+   "con": 95.652174,
+   "ati": 65.097877,
+   "still": 36.314388,
    "pesoEng": 13053.373,
    "pesoStill": 7139.5166,
    "conecta": {
     "tipo": "missao",
-    "total": 21,
-    "nao": 6,
-    "online": 0,
+    "total": 22,
+    "nao": 7,
+    "online": 1,
     "base": 23
    },
    "equipe": [
@@ -287,17 +287,17 @@
    ]
   },
   "GU": {
-   "eng": 24.813115,
-   "con": 46.875,
-   "ati": 46.410772,
-   "still": 32.013992,
+   "eng": 25.769797,
+   "con": 50.0,
+   "ati": 48.137684,
+   "still": 33.508971,
    "pesoEng": 15633.064,
    "pesoStill": 47390.227,
    "conecta": {
     "tipo": "missao",
-    "total": 15,
+    "total": 16,
     "nao": 5,
-    "online": 0,
+    "online": 1,
     "base": 32
    },
    "equipe": [
@@ -312,17 +312,17 @@
    ]
   },
   "PO": {
-   "eng": 21.069406,
-   "con": 25.0,
-   "ati": 54.922315,
-   "still": 38.008723,
+   "eng": 22.459022,
+   "con": 35.0,
+   "ati": 56.319556,
+   "still": 40.599598,
    "pesoEng": 4417.6199,
    "pesoStill": 28028.994,
    "conecta": {
     "tipo": "missao",
-    "total": 5,
-    "nao": 0,
-    "online": 0,
+    "total": 7,
+    "nao": 1,
+    "online": 2,
     "base": 20
    },
    "equipe": [
@@ -337,10 +337,10 @@
    ]
   },
   "UR": {
-   "eng": 36.441157,
+   "eng": 39.414697,
    "con": 38.461538,
-   "ati": 63.450745,
-   "still": 43.889016,
+   "ati": 65.329221,
+   "still": 45.889238,
    "pesoEng": 11068.568,
    "pesoStill": 51249.152,
    "conecta": {
@@ -366,17 +366,17 @@
    ]
   },
   "RI": {
-   "eng": 19.919377,
-   "con": 17.857143,
-   "ati": 45.509769,
-   "still": 32.985272,
+   "eng": 22.69038,
+   "con": 21.428571,
+   "ati": 49.295279,
+   "still": 37.94454,
    "pesoEng": 12802.297,
    "pesoStill": 10081.141,
    "conecta": {
     "tipo": "missao",
-    "total": 5,
+    "total": 6,
     "nao": 0,
-    "online": 0,
+    "online": 1,
     "base": 28
    },
    "equipe": [
@@ -391,17 +391,17 @@
    ]
   },
   "PA": {
-   "eng": 30.825998,
-   "con": 58.62069,
-   "ati": 45.128018,
-   "still": 45.206881,
+   "eng": 32.721632,
+   "con": 62.068966,
+   "ati": 47.560756,
+   "still": 47.836654,
    "pesoEng": 20038.296,
    "pesoStill": 12409.621,
    "conecta": {
     "tipo": "missao",
-    "total": 34,
+    "total": 36,
     "nao": 3,
-    "online": 5,
+    "online": 7,
     "base": 58
    },
    "equipe": [
@@ -420,17 +420,17 @@
    ]
   },
   "DI": {
-   "eng": 26.711772,
-   "con": 87.5,
-   "ati": 53.712381,
-   "still": 36.750232,
+   "eng": 28.245724,
+   "con": 100.0,
+   "ati": 61.315053,
+   "still": 40.44737,
    "pesoEng": 5539.0742,
    "pesoStill": 20078.229,
    "conecta": {
     "tipo": "missao",
-    "total": 14,
+    "total": 16,
     "nao": 5,
-    "online": 0,
+    "online": 2,
     "base": 16
    },
    "equipe": [
@@ -2411,7 +2411,7 @@
    "gc": "DI",
    "produto": "Del Valle Néctar Pêssego TP 1 L",
    "cod": 1630,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "D14",
@@ -2450,7 +2450,7 @@
    "gc": "DI",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "D14",
@@ -2905,7 +2905,7 @@
    "gc": "G1",
    "produto": "Del Valle Néctar Caju Sem Açúcar TP 1 L",
    "cod": 2317,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "112",
@@ -2944,7 +2944,7 @@
    "gc": "G1",
    "produto": "Del Valle Néctar Uva LT 290 ml",
    "cod": 2169,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "123",
@@ -3581,7 +3581,7 @@
    "gc": "G2",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "224",
@@ -4075,7 +4075,7 @@
    "gc": "G2",
    "produto": "Powerade Uva PET 500 ml",
    "cod": 3633,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "224",
@@ -4491,7 +4491,7 @@
    "gc": "G3",
    "produto": "Del Valle Néctar Goiaba Sem Açúcar LT 290 ml",
    "cod": 2306,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "312",
@@ -5024,7 +5024,7 @@
    "gc": "G3",
    "produto": "Powerade Mix PET 500 ml",
    "cod": 3631,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "315",
@@ -5193,7 +5193,7 @@
    "gc": "GU",
    "produto": "Del Valle Néctar Pêssego TP 1 L",
    "cod": 1630,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "G26",
@@ -6610,7 +6610,7 @@
    "gc": "MO",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "M13",
@@ -7156,7 +7156,7 @@
    "gc": "PA",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "P24",
@@ -7208,7 +7208,7 @@
    "gc": "PA",
    "produto": "Kapo Morango TP 200 ml",
    "cod": 3602,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "P22",
@@ -8118,7 +8118,7 @@
    "gc": "PO",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "O18",
@@ -8274,7 +8274,7 @@
    "gc": "PO",
    "produto": "Kapo Maracujá TP 200 ml",
    "cod": 3604,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "O13",
@@ -8443,7 +8443,7 @@
    "gc": "RI",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "C26",
@@ -9808,7 +9808,7 @@
    "gc": "SL",
    "produto": "Del Valle Néctar Pêssego TP 1 L",
    "cod": 1630,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "S11",

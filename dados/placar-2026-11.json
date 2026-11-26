@@ -3,16 +3,16 @@
  "mes": "2026-11",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-11-26T13:53:00.000Z",
- "dataMissao": "2026-11-26T13:53:00.000Z",
- "geradoEm": "2026-11-26T13:59:11.000Z",
+ "dataVolume": "2026-11-26T17:41:48.000Z",
+ "dataMissao": "2026-11-26T17:41:48.000Z",
+ "geradoEm": "2026-11-26T17:42:14.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
-   "eng": 26.60849,
+   "eng": 27.20095,
    "con": 60.0,
-   "ati": 72.783677,
-   "still": 65.394079,
+   "ati": 80.428462,
+   "still": 67.454669,
    "pesoEng": 17242.982,
    "pesoStill": 99929.617,
    "conecta": {
@@ -38,17 +38,17 @@
    ]
   },
   "G2": {
-   "eng": 57.665918,
-   "con": 90.47619,
-   "ati": 108.67659,
-   "still": 76.641841,
+   "eng": 66.859641,
+   "con": 95.238095,
+   "ati": 114.08097,
+   "still": 82.673155,
    "pesoEng": 30097.315,
    "pesoStill": 34139.156,
    "conecta": {
     "tipo": "missao",
-    "total": 38,
-    "nao": 13,
-    "online": 0,
+    "total": 40,
+    "nao": 15,
+    "online": 2,
     "base": 42
    },
    "equipe": [
@@ -67,10 +67,10 @@
    ]
   },
   "G3": {
-   "eng": 40.89577,
+   "eng": 41.198664,
    "con": 38.095238,
-   "ati": 95.568962,
-   "still": 70.397187,
+   "ati": 96.236887,
+   "still": 71.536952,
    "pesoEng": 1746.0066,
    "pesoStill": 16511.581,
    "conecta": {
@@ -96,17 +96,17 @@
    ]
   },
   "AP": {
-   "eng": 57.052377,
-   "con": 22.641509,
-   "ati": 102.60465,
-   "still": 103.77596,
+   "eng": 57.867257,
+   "con": 24.528302,
+   "ati": 102.91615,
+   "still": 105.018,
    "pesoEng": 3411.6234,
    "pesoStill": 20801.668,
    "conecta": {
     "tipo": "missao",
-    "total": 12,
-    "nao": 0,
-    "online": 0,
+    "total": 13,
+    "nao": 1,
+    "online": 1,
     "base": 53
    },
    "equipe": [
@@ -125,10 +125,10 @@
    ]
   },
   "AN": {
-   "eng": 32.480539,
+   "eng": 33.017871,
    "con": 20.588235,
-   "ati": 73.828516,
-   "still": 67.970284,
+   "ati": 74.820922,
+   "still": 68.912778,
    "pesoEng": 26707.854,
    "pesoStill": 44719.418,
    "conecta": {
@@ -175,10 +175,10 @@
    ]
   },
   "SL": {
-   "eng": 41.118218,
+   "eng": 41.227443,
    "con": 48.0,
-   "ati": 108.11125,
-   "still": 70.72523,
+   "ati": 109.21492,
+   "still": 71.635601,
    "pesoEng": 6635.478,
    "pesoStill": 9654.4942,
    "conecta": {
@@ -204,10 +204,10 @@
    ]
   },
   "RV": {
-   "eng": 45.948656,
+   "eng": 50.222285,
    "con": 21.212121,
-   "ati": 125.09938,
-   "still": 73.584619,
+   "ati": 138.19087,
+   "still": 79.115561,
    "pesoEng": 14264.605,
    "pesoStill": 31718.645,
    "conecta": {
@@ -233,17 +233,17 @@
    ]
   },
   "IT": {
-   "eng": 47.539372,
-   "con": 86.956522,
-   "ati": 120.19498,
-   "still": 78.593709,
+   "eng": 50.663519,
+   "con": 91.304348,
+   "ati": 121.64173,
+   "still": 81.864403,
    "pesoEng": 2166.0269,
    "pesoStill": 30555.195,
    "conecta": {
     "tipo": "missao",
-    "total": 20,
+    "total": 21,
     "nao": 4,
-    "online": 0,
+    "online": 1,
     "base": 23
    },
    "equipe": [
@@ -262,10 +262,10 @@
    ]
   },
   "MO": {
-   "eng": 54.184746,
+   "eng": 57.669946,
    "con": 104.34783,
-   "ati": 100.83969,
-   "still": 72.899511,
+   "ati": 101.89632,
+   "still": 74.232142,
    "pesoEng": 13053.373,
    "pesoStill": 7139.5166,
    "conecta": {
@@ -287,10 +287,10 @@
    ]
   },
   "GU": {
-   "eng": 50.141615,
+   "eng": 50.571396,
    "con": 78.125,
-   "ati": 90.914745,
-   "still": 69.258066,
+   "ati": 91.598314,
+   "still": 70.059985,
    "pesoEng": 15633.064,
    "pesoStill": 47390.227,
    "conecta": {
@@ -312,10 +312,10 @@
    ]
   },
   "PO": {
-   "eng": 36.428855,
+   "eng": 36.731887,
    "con": 70.0,
-   "ati": 92.701559,
-   "still": 66.716986,
+   "ati": 93.93758,
+   "still": 68.081373,
    "pesoEng": 4417.6199,
    "pesoStill": 28028.994,
    "conecta": {
@@ -337,10 +337,10 @@
    ]
   },
   "UR": {
-   "eng": 53.675327,
+   "eng": 54.305522,
    "con": 61.538462,
-   "ati": 92.91002,
-   "still": 71.225973,
+   "ati": 94.34124,
+   "still": 72.303906,
    "pesoEng": 11068.568,
    "pesoStill": 51249.152,
    "conecta": {
@@ -366,10 +366,10 @@
    ]
   },
   "RI": {
-   "eng": 38.348538,
+   "eng": 45.362256,
    "con": 39.285714,
-   "ati": 78.449974,
-   "still": 67.090046,
+   "ati": 79.558439,
+   "still": 70.911207,
    "pesoEng": 12802.297,
    "pesoStill": 10081.141,
    "conecta": {
@@ -391,17 +391,17 @@
    ]
   },
   "PA": {
-   "eng": 57.255786,
-   "con": 94.827586,
-   "ati": 100.59158,
-   "still": 91.237323,
+   "eng": 62.285649,
+   "con": 96.551724,
+   "ati": 101.10979,
+   "still": 93.544348,
    "pesoEng": 20038.296,
    "pesoStill": 12409.621,
    "conecta": {
     "tipo": "missao",
-    "total": 55,
-    "nao": 8,
-    "online": 0,
+    "total": 56,
+    "nao": 9,
+    "online": 1,
     "base": 58
    },
    "equipe": [
@@ -420,10 +420,10 @@
    ]
   },
   "DI": {
-   "eng": 46.826262,
+   "eng": 47.813288,
    "con": 112.5,
-   "ati": 96.662539,
-   "still": 65.341685,
+   "ati": 97.254955,
+   "still": 66.397712,
    "pesoEng": 5539.0742,
    "pesoStill": 20078.229,
    "conecta": {
@@ -2294,7 +2294,7 @@
    "gc": "AP",
    "produto": "Kapo Uva TP 200 ml",
    "cod": 3594,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "527",
@@ -4101,7 +4101,7 @@
    "gc": "G2",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "212",
@@ -4166,7 +4166,7 @@
    "gc": "G2",
    "produto": "Del Valle Frut Uva PET 1,5 L",
    "cod": 2323,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "211",
@@ -5791,7 +5791,7 @@
    "gc": "IT",
    "produto": "Del Valle Frut Uva PET 450 ml",
    "cod": 2327,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "I23",
@@ -7572,7 +7572,7 @@
    "gc": "PA",
    "produto": "Del Valle Néctar Pêssego TP 1 L",
    "cod": 1630,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "P33",

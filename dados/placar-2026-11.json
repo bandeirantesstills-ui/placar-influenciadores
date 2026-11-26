@@ -3,23 +3,23 @@
  "mes": "2026-11",
  "ativa": "Powerade",
  "ativaAConfirmar": false,
- "dataVolume": "2026-11-26T17:41:48.000Z",
- "dataMissao": "2026-11-26T17:41:48.000Z",
- "geradoEm": "2026-11-26T17:42:14.000Z",
+ "dataVolume": "2026-11-26T20:34:12.000Z",
+ "dataMissao": "2026-11-26T20:34:12.000Z",
+ "geradoEm": "2026-11-26T20:34:37.000Z",
  "avisos": [],
  "gcs": {
   "G1": {
-   "eng": 27.20095,
-   "con": 60.0,
-   "ati": 80.428462,
-   "still": 67.454669,
+   "eng": 27.57507,
+   "con": 64.444444,
+   "ati": 80.678291,
+   "still": 71.367372,
    "pesoEng": 17242.982,
    "pesoStill": 99929.617,
    "conecta": {
     "tipo": "missao",
-    "total": 27,
+    "total": 29,
     "nao": 6,
-    "online": 2,
+    "online": 4,
     "base": 45
    },
    "equipe": [
@@ -38,17 +38,17 @@
    ]
   },
   "G2": {
-   "eng": 66.859641,
-   "con": 95.238095,
-   "ati": 114.08097,
-   "still": 82.673155,
+   "eng": 72.232805,
+   "con": 100.0,
+   "ati": 115.34882,
+   "still": 85.550668,
    "pesoEng": 30097.315,
    "pesoStill": 34139.156,
    "conecta": {
     "tipo": "missao",
-    "total": 40,
+    "total": 42,
     "nao": 15,
-    "online": 2,
+    "online": 4,
     "base": 42
    },
    "equipe": [
@@ -67,10 +67,10 @@
    ]
   },
   "G3": {
-   "eng": 41.198664,
+   "eng": 41.342136,
    "con": 38.095238,
-   "ati": 96.236887,
-   "still": 71.536952,
+   "ati": 96.431699,
+   "still": 73.579841,
    "pesoEng": 1746.0066,
    "pesoStill": 16511.581,
    "conecta": {
@@ -96,10 +96,10 @@
    ]
   },
   "AP": {
-   "eng": 57.867257,
+   "eng": 62.523777,
    "con": 24.528302,
-   "ati": 102.91615,
-   "still": 105.018,
+   "ati": 104.6414,
+   "still": 108.70732,
    "pesoEng": 3411.6234,
    "pesoStill": 20801.668,
    "conecta": {
@@ -125,10 +125,10 @@
    ]
   },
   "AN": {
-   "eng": 33.017871,
+   "eng": 35.325908,
    "con": 20.588235,
-   "ati": 74.820922,
-   "still": 68.912778,
+   "ati": 75.422873,
+   "still": 70.593356,
    "pesoEng": 26707.854,
    "pesoStill": 44719.418,
    "conecta": {
@@ -154,10 +154,10 @@
    ]
   },
   "AT": {
-   "eng": 96.581756,
-   "con": 41.494207,
+   "eng": 97.521011,
+   "con": 43.979536,
    "ati": 85.320283,
-   "still": 64.750326,
+   "still": 65.676317,
    "pesoEng": 10305.645,
    "pesoStill": 37586.788,
    "conecta": {
@@ -175,10 +175,10 @@
    ]
   },
   "SL": {
-   "eng": 41.227443,
+   "eng": 41.61845,
    "con": 48.0,
-   "ati": 109.21492,
-   "still": 71.635601,
+   "ati": 110.89441,
+   "still": 72.512753,
    "pesoEng": 6635.478,
    "pesoStill": 9654.4942,
    "conecta": {
@@ -204,10 +204,10 @@
    ]
   },
   "RV": {
-   "eng": 50.222285,
+   "eng": 54.80125,
    "con": 21.212121,
-   "ati": 138.19087,
-   "still": 79.115561,
+   "ati": 140.70157,
+   "still": 83.076684,
    "pesoEng": 14264.605,
    "pesoStill": 31718.645,
    "conecta": {
@@ -233,10 +233,10 @@
    ]
   },
   "IT": {
-   "eng": 50.663519,
+   "eng": 53.45482,
    "con": 91.304348,
-   "ati": 121.64173,
-   "still": 81.864403,
+   "ati": 124.68753,
+   "still": 86.407744,
    "pesoEng": 2166.0269,
    "pesoStill": 30555.195,
    "conecta": {
@@ -262,10 +262,10 @@
    ]
   },
   "MO": {
-   "eng": 57.669946,
+   "eng": 59.049379,
    "con": 104.34783,
-   "ati": 101.89632,
-   "still": 74.232142,
+   "ati": 104.05553,
+   "still": 77.134023,
    "pesoEng": 13053.373,
    "pesoStill": 7139.5166,
    "conecta": {
@@ -287,10 +287,10 @@
    ]
   },
   "GU": {
-   "eng": 50.571396,
+   "eng": 52.070167,
    "con": 78.125,
-   "ati": 91.598314,
-   "still": 70.059985,
+   "ati": 93.361204,
+   "still": 72.351754,
    "pesoEng": 15633.064,
    "pesoStill": 47390.227,
    "conecta": {
@@ -312,10 +312,10 @@
    ]
   },
   "PO": {
-   "eng": 36.731887,
+   "eng": 36.831455,
    "con": 70.0,
-   "ati": 93.93758,
-   "still": 68.081373,
+   "ati": 94.74368,
+   "still": 70.267645,
    "pesoEng": 4417.6199,
    "pesoStill": 28028.994,
    "conecta": {
@@ -337,10 +337,10 @@
    ]
   },
   "UR": {
-   "eng": 54.305522,
+   "eng": 55.931334,
    "con": 61.538462,
-   "ati": 94.34124,
-   "still": 72.303906,
+   "ati": 96.99496,
+   "still": 75.104328,
    "pesoEng": 11068.568,
    "pesoStill": 51249.152,
    "conecta": {
@@ -366,10 +366,10 @@
    ]
   },
   "RI": {
-   "eng": 45.362256,
+   "eng": 46.596474,
    "con": 39.285714,
-   "ati": 79.558439,
-   "still": 70.911207,
+   "ati": 81.524394,
+   "still": 72.3692,
    "pesoEng": 12802.297,
    "pesoStill": 10081.141,
    "conecta": {
@@ -391,17 +391,17 @@
    ]
   },
   "PA": {
-   "eng": 62.285649,
-   "con": 96.551724,
-   "ati": 101.10979,
-   "still": 93.544348,
+   "eng": 66.436911,
+   "con": 98.275862,
+   "ati": 102.39094,
+   "still": 95.502924,
    "pesoEng": 20038.296,
    "pesoStill": 12409.621,
    "conecta": {
     "tipo": "missao",
-    "total": 56,
-    "nao": 9,
-    "online": 1,
+    "total": 57,
+    "nao": 10,
+    "online": 2,
     "base": 58
    },
    "equipe": [
@@ -420,10 +420,10 @@
    ]
   },
   "DI": {
-   "eng": 47.813288,
+   "eng": 48.904992,
    "con": 112.5,
-   "ati": 97.254955,
-   "still": 66.397712,
+   "ati": 99.130939,
+   "still": 67.751861,
    "pesoEng": 5539.0742,
    "pesoStill": 20078.229,
    "conecta": {
@@ -2697,7 +2697,7 @@
    "gc": "G1",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "117",
@@ -3009,7 +3009,7 @@
    "gc": "G1",
    "produto": "Kapo Maracujá TP 200 ml",
    "cod": 3604,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "122",
@@ -3763,7 +3763,7 @@
    "gc": "G2",
    "produto": "Del Valle Néctar Uva LT 290 ml",
    "cod": 2169,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "223",
@@ -4049,7 +4049,7 @@
    "gc": "G2",
    "produto": "Powerade Mix PET 500 ml",
    "cod": 3631,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Sim",
    "obs": "",
    "rota": "224",
@@ -7455,7 +7455,7 @@
    "gc": "PA",
    "produto": "Del Valle Frut Laranja PET 1,5 L",
    "cod": 2321,
-   "status": "pendente",
+   "status": "online",
    "b2b": "Não",
    "obs": "",
    "rota": "P24",
